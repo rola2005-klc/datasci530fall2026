@@ -1,0 +1,248 @@
+{
+    "numFound": 45528,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 45528,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "",
+    "offset": null,
+    "docs": [
+        {
+            "author_name": [
+                "Dick Francis"
+            ],
+            "edition_count": 45,
+            "first_publish_year": 1967,
+            "key": "/works/OL463330W",
+            "title": "Blood sport"
+        },
+        {
+            "author_name": [
+                "James Patterson",
+                "Valentina de Angelis"
+            ],
+            "edition_count": 34,
+            "first_publish_year": 1998,
+            "key": "/works/OL5337360W",
+            "title": "Saving the World and Other Extreme Sports"
+        },
+        {
+            "author_name": [
+                "Editors of Sports Illustrated"
+            ],
+            "edition_count": 17,
+            "first_publish_year": 2001,
+            "key": "/works/OL8941234W",
+            "title": "Sports Illustrated"
+        },
+        {
+            "author_name": [
+                "Russell Hoye"
+            ],
+            "edition_count": 23,
+            "first_publish_year": 2007,
+            "key": "/works/OL19903500W",
+            "title": "Sport Management"
+        },
+        {
+            "author_name": [
+                "Jay J. Coakley"
+            ],
+            "edition_count": 15,
+            "first_publish_year": 1978,
+            "key": "/works/OL2667008W",
+            "title": "Sport in society"
+        },
+        {
+            "author_name": [
+                "Louise Fitzhugh"
+            ],
+            "edition_count": 15,
+            "first_publish_year": 1979,
+            "key": "/works/OL5277986W",
+            "title": "Sport"
+        },
+        {
+            "author_name": [
+                "Jay J. Coakley"
+            ],
+            "edition_count": 8,
+            "first_publish_year": 2003,
+            "key": "/works/OL2667007W",
+            "title": "Sports in Society"
+        },
+        {
+            "author_name": [
+                "Richard M. Cohen",
+                "David S. Neft"
+            ],
+            "edition_count": 27,
+            "first_publish_year": 1987,
+            "key": "/works/OL14932338W",
+            "title": "The Sports Encyclopedia"
+        },
+        {
+            "author_name": [
+                "Tim Hammond"
+            ],
+            "edition_count": 10,
+            "first_publish_year": 1988,
+            "key": "/works/OL5091584W",
+            "title": "Sports"
+        },
+        {
+            "author_name": [
+                "Robert S. Weinberg"
+            ],
+            "edition_count": 7,
+            "first_publish_year": 1995,
+            "key": "/works/OL2005230W",
+            "title": "Foundations of sport and exercise psychology"
+        },
+        {
+            "author_name": [
+                "Cox, Richard H."
+            ],
+            "edition_count": 6,
+            "first_publish_year": 1985,
+            "key": "/works/OL2714124W",
+            "title": "Sport psychology"
+        },
+        {
+            "author_name": [
+                "Arnold D. LeUnes",
+                "Arnold D. Le Unes",
+                "Jack R. Nation",
+                "Arnold Leunes",
+                "Jack Nation"
+            ],
+            "edition_count": 10,
+            "first_publish_year": 1989,
+            "key": "/works/OL2965186W",
+            "title": "Sport psychology"
+        },
+        {
+            "author_name": [
+                "Jack H. Wilmore",
+                "David Costill",
+                "W. Larry Kenney"
+            ],
+            "edition_count": 16,
+            "first_publish_year": 1994,
+            "key": "/works/OL1927247W",
+            "title": "Physiology of sport and exercise"
+        },
+        {
+            "author_name": [
+                "Leslie McFarlane"
+            ],
+            "edition_count": 4,
+            "first_publish_year": 1996,
+            "key": "/works/OL16480105W",
+            "title": "Blood Sport"
+        },
+        {
+            "author_name": [
+                "Nancy Streza"
+            ],
+            "edition_count": 36,
+            "first_publish_year": 2018,
+            "key": "/works/OL34046403W",
+            "title": "My Favorite Sport"
+        },
+        {
+            "author_name": [
+                "David J. Epstein"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2013,
+            "key": "/works/OL19671172W",
+            "title": "The sports gene"
+        },
+        {
+            "author_name": [
+                "Mike Weed"
+            ],
+            "edition_count": 17,
+            "first_publish_year": 2003,
+            "key": "/works/OL6035509W",
+            "title": "Sports tourism"
+        },
+        {
+            "author_name": [
+                "Lee Bennett Hopkins"
+            ],
+            "edition_count": 6,
+            "first_publish_year": 1999,
+            "key": "/works/OL16786132W",
+            "title": "Sports! sports! sports!"
+        },
+        {
+            "author_name": [
+                "Pat Brown"
+            ],
+            "edition_count": 7,
+            "first_publish_year": 2003,
+            "key": "/works/OL8912354W",
+            "title": "Killing for Sport"
+        },
+        {
+            "author_name": [
+                "Don Nardo"
+            ],
+            "edition_count": 2,
+            "first_publish_year": 1999,
+            "key": "/works/OL15072222W",
+            "title": "Greek and Roman sport"
+        },
+        {
+            "author_name": [
+                "Judy A. Driskell",
+                "Constance Kies"
+            ],
+            "edition_count": 8,
+            "first_publish_year": 1995,
+            "key": "/works/OL18359430W",
+            "title": "Sports nutrition"
+        },
+        {
+            "author_name": [
+                "Paul M. Pedersen",
+                "Lucie Thibault"
+            ],
+            "edition_count": 12,
+            "first_publish_year": 2010,
+            "key": "/works/OL21191011W",
+            "title": "Contemporary Sport Management"
+        },
+        {
+            "author_name": [
+                "Jari Ylinen",
+                "Mel Cash"
+            ],
+            "edition_count": 4,
+            "first_publish_year": 1988,
+            "key": "/works/OL4511224W",
+            "title": "Sports massage"
+        },
+        {
+            "author_name": [
+                "Francie Alexander"
+            ],
+            "edition_count": 48,
+            "first_publish_year": 2003,
+            "key": "/works/OL816016W",
+            "title": "Good Sports (Clifford the Big Red Dog Phonics Fun Reading Program, Book 2)"
+        },
+        {
+            "author_name": [
+                "Asker Jeukendrup",
+                "Michael Gleeson"
+            ],
+            "edition_count": 6,
+            "first_publish_year": 2018,
+            "key": "/works/OL20584966W",
+            "title": "Sport Nutrition"
+        }
+    ]
+}
