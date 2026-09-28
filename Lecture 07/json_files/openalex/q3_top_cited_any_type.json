@@ -1,0 +1,246 @@
+{
+    "parameters": {
+        "filter": "title.search:\"artificial intelligence\",publication_year:2000-2026",
+        "sort": "cited_by_count:desc",
+        "per_page": 25,
+        "select": "id,doi,display_name,publication_year,type,cited_by_count"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 321844,
+            "db_response_time_ms": 42,
+            "page": 1,
+            "per_page": 25,
+            "groups_count": null,
+            "x_query": {
+                "oql": "works where title has (stemmed \"artificial intelligence\")\n  and year >= (2000)\n  and year <= (2026)",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"artificial intelligence\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2026,
+                            "operator": "<="
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22artificial intelligence%22,publication_year:2000-2026&per_page=25"
+            },
+            "cost_usd": 0.001
+        },
+        "results": [
+            {
+                "id": "https://openalex.org/W2908201961",
+                "doi": "https://doi.org/10.1038/s41591-018-0300-7",
+                "display_name": "High-performance medicine: the convergence of human and artificial intelligence",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 10188
+            },
+            {
+                "id": "https://openalex.org/W2981731882",
+                "doi": "https://doi.org/10.1016/j.inffus.2019.12.012",
+                "display_name": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+                "publication_year": 2019,
+                "type": "article",
+                "cited_by_count": 10067
+            },
+            {
+                "id": "https://openalex.org/W2981863007",
+                "doi": "https://doi.org/10.1186/s41239-019-0171-0",
+                "display_name": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+                "publication_year": 2019,
+                "type": "review",
+                "cited_by_count": 6754
+            },
+            {
+                "id": "https://openalex.org/W2891503716",
+                "doi": "https://doi.org/10.1109/access.2018.2870052",
+                "display_name": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 6281
+            },
+            {
+                "id": "https://openalex.org/W2531563875",
+                "doi": null,
+                "display_name": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
+                "publication_year": 2005,
+                "type": "conference-paper",
+                "cited_by_count": 5782
+            },
+            {
+                "id": "https://openalex.org/W2670253439",
+                "doi": "https://doi.org/10.1016/j.artint.2018.07.007",
+                "display_name": "Explanation in artificial intelligence: Insights from the social sciences",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 5241
+            },
+            {
+                "id": "https://openalex.org/W2664267452",
+                "doi": "https://doi.org/10.1136/svn-2017-000101",
+                "display_name": "Artificial intelligence in healthcare: past, present and future",
+                "publication_year": 2017,
+                "type": "article",
+                "cited_by_count": 4885
+            },
+            {
+                "id": "https://openalex.org/W2969625533",
+                "doi": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002",
+                "display_name": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+                "publication_year": 2019,
+                "type": "article",
+                "cited_by_count": 4497
+            },
+            {
+                "id": "https://openalex.org/W4221143046",
+                "doi": "https://doi.org/10.48550/arxiv.2201.11903",
+                "display_name": "BNAI, NO-TOKEN, and MIND-UNITY: Pillars of a Systemic Revolution in Artificial Intelligence",
+                "publication_year": 2022,
+                "type": "preprint",
+                "cited_by_count": 4331
+            },
+            {
+                "id": "https://openalex.org/W3017131514",
+                "doi": "https://doi.org/10.1109/access.2020.2988510",
+                "display_name": "Artificial Intelligence in Education: A Review",
+                "publication_year": 2020,
+                "type": "article",
+                "cited_by_count": 3963
+            },
+            {
+                "id": "https://openalex.org/W2953532875",
+                "doi": "https://doi.org/10.7861/futurehosp.6-2-94",
+                "display_name": "The potential for artificial intelligence in healthcare",
+                "publication_year": 2019,
+                "type": "article",
+                "cited_by_count": 3851
+            },
+            {
+                "id": "https://openalex.org/W2803760365",
+                "doi": "https://doi.org/10.1038/s41568-018-0016-5",
+                "display_name": "Artificial intelligence in radiology",
+                "publication_year": 2018,
+                "type": "review",
+                "cited_by_count": 3809
+            },
+            {
+                "id": "https://openalex.org/W2786141192",
+                "doi": "https://doi.org/10.1177/1094670517752459",
+                "display_name": "Artificial Intelligence in Service",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 3527
+            },
+            {
+                "id": "https://openalex.org/W1564534945",
+                "doi": null,
+                "display_name": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
+                "publication_year": 2000,
+                "type": "book",
+                "cited_by_count": 3467
+            },
+            {
+                "id": "https://openalex.org/W3000603264",
+                "doi": "https://doi.org/10.1038/s41467-019-14108-y",
+                "display_name": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+                "publication_year": 2020,
+                "type": "article",
+                "cited_by_count": 3225
+            },
+            {
+                "id": "https://openalex.org/W4386958277",
+                "doi": "https://doi.org/10.1186/s12909-023-04698-z",
+                "display_name": "Revolutionizing healthcare: the role of artificial intelligence in clinical practice",
+                "publication_year": 2023,
+                "type": "article",
+                "cited_by_count": 3130
+            },
+            {
+                "id": "https://openalex.org/W2899856450",
+                "doi": "https://doi.org/10.1016/j.bushor.2018.08.004",
+                "display_name": "Siri, Siri, in my hand: Who’s the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 3077
+            },
+            {
+                "id": "https://openalex.org/W2982580298",
+                "doi": "https://doi.org/10.1186/s12916-019-1426-2",
+                "display_name": "Key challenges for delivering clinical impact with artificial intelligence",
+                "publication_year": 2019,
+                "type": "article",
+                "cited_by_count": 3061
+            },
+            {
+                "id": "https://openalex.org/W4256361765",
+                "doi": "https://doi.org/10.1109/jcai15434.2009",
+                "display_name": "2009 International Joint Conference on Artificial Intelligence",
+                "publication_year": 2009,
+                "type": "paratext",
+                "cited_by_count": 2805
+            },
+            {
+                "id": "https://openalex.org/W2895763047",
+                "doi": "https://doi.org/10.1038/s41551-018-0305-z",
+                "display_name": "Artificial intelligence in healthcare",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 2803
+            },
+            {
+                "id": "https://openalex.org/W3013998503",
+                "doi": "https://doi.org/10.5465/annals.2018.0057",
+                "display_name": "Human Trust in Artificial Intelligence: Review of Empirical Research",
+                "publication_year": 2020,
+                "type": "article",
+                "cited_by_count": 2766
+            },
+            {
+                "id": "https://openalex.org/W2602753196",
+                "doi": null,
+                "display_name": "Proceedings of the International Joint Conference on Artificial Intelligence 2007",
+                "publication_year": 2007,
+                "type": "conference-paper",
+                "cited_by_count": 2766
+            },
+            {
+                "id": "https://openalex.org/W2979906316",
+                "doi": "https://doi.org/10.1007/s11747-019-00696-0",
+                "display_name": "How artificial intelligence will change the future of marketing",
+                "publication_year": 2019,
+                "type": "article",
+                "cited_by_count": 2744
+            },
+            {
+                "id": "https://openalex.org/W2796755741",
+                "doi": "https://doi.org/10.1016/j.bushor.2018.03.007",
+                "display_name": "Artificial intelligence and the future of work: Human-AI symbiosis in organizational decision making",
+                "publication_year": 2018,
+                "type": "article",
+                "cited_by_count": 2639
+            },
+            {
+                "id": "https://openalex.org/W1596324102",
+                "doi": null,
+                "display_name": "Machine Learning: An Artificial Intelligence Approach",
+                "publication_year": 2013,
+                "type": "book",
+                "cited_by_count": 2636
+            }
+        ],
+        "group_by": []
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "parameters": {
+        "filter": "title.search:\"artificial intelligence\",publication_year:2000-2025",
+        "group_by": "publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 231014,
+            "db_response_time_ms": 17,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 26,
+            "x_query": {
+                "oql": "works where title has (stemmed \"artificial intelligence\")\n  and year >= (2000)\n  and year <= (2025)\ngroup by year",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"artificial intelligence\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "publication_year"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22artificial intelligence%22,publication_year:2000-2025&group_by=publication_year"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "2025",
+                "key_display_name": "2025",
+                "count": 76545
+            },
+            {
+                "key": "2024",
+                "key_display_name": "2024",
+                "count": 48684
+            },
+            {
+                "key": "2023",
+                "key_display_name": "2023",
+                "count": 30828
+            },
+            {
+                "key": "2022",
+                "key_display_name": "2022",
+                "count": 19781
+            },
+            {
+                "key": "2021",
+                "key_display_name": "2021",
+                "count": 16556
+            },
+            {
+                "key": "2020",
+                "key_display_name": "2020",
+                "count": 12805
+            },
+            {
+                "key": "2019",
+                "key_display_name": "2019",
+                "count": 7967
+            },
+            {
+                "key": "2018",
+                "key_display_name": "2018",
+                "count": 4618
+            },
+            {
+                "key": "2017",
+                "key_display_name": "2017",
+                "count": 2129
+            },
+            {
+                "key": "2016",
+                "key_display_name": "2016",
+                "count": 1270
+            },
+            {
+                "key": "2014",
+                "key_display_name": "2014",
+                "count": 933
+            },
+            {
+                "key": "2015",
+                "key_display_name": "2015",
+                "count": 933
+            },
+            {
+                "key": "2013",
+                "key_display_name": "2013",
+                "count": 880
+            },
+            {
+                "key": "2012",
+                "key_display_name": "2012",
+                "count": 805
+            },
+            {
+                "key": "2011",
+                "key_display_name": "2011",
+                "count": 757
+            },
+            {
+                "key": "2009",
+                "key_display_name": "2009",
+                "count": 666
+            },
+            {
+                "key": "2010",
+                "key_display_name": "2010",
+                "count": 617
+            },
+            {
+                "key": "2005",
+                "key_display_name": "2005",
+                "count": 564
+            },
+            {
+                "key": "2006",
+                "key_display_name": "2006",
+                "count": 558
+            },
+            {
+                "key": "2008",
+                "key_display_name": "2008",
+                "count": 557
+            },
+            {
+                "key": "2007",
+                "key_display_name": "2007",
+                "count": 553
+            },
+            {
+                "key": "2002",
+                "key_display_name": "2002",
+                "count": 469
+            },
+            {
+                "key": "2004",
+                "key_display_name": "2004",
+                "count": 463
+            },
+            {
+                "key": "2003",
+                "key_display_name": "2003",
+                "count": 436
+            },
+            {
+                "key": "2001",
+                "key_display_name": "2001",
+                "count": 337
+            },
+            {
+                "key": "2000",
+                "key_display_name": "2000",
+                "count": 303
+            }
+        ]
+    }
+}

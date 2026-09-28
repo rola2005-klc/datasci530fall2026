@@ -1,0 +1,78 @@
+{
+    "parameters": {
+        "filter": "title.search:\"ChatGPT\",publication_year:2020-2025",
+        "group_by": "publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 24805,
+            "db_response_time_ms": 8,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 6,
+            "x_query": {
+                "oql": "works where title has (stemmed \"ChatGPT\") and year >= (2020) and year <= (2025)\ngroup by year",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"ChatGPT\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2020,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "publication_year"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22ChatGPT%22,publication_year:2020-2025&group_by=publication_year"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "2025",
+                "key_display_name": "2025",
+                "count": 8812
+            },
+            {
+                "key": "2024",
+                "key_display_name": "2024",
+                "count": 8624
+            },
+            {
+                "key": "2023",
+                "key_display_name": "2023",
+                "count": 7299
+            },
+            {
+                "key": "2022",
+                "key_display_name": "2022",
+                "count": 53
+            },
+            {
+                "key": "2020",
+                "key_display_name": "2020",
+                "count": 15
+            },
+            {
+                "key": "2021",
+                "key_display_name": "2021",
+                "count": 2
+            }
+        ]
+    }
+}

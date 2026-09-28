@@ -1,0 +1,191 @@
+{
+    "parameters": {
+        "filter": "publication_year:2023-2025,type:article|review",
+        "group_by": "primary_topic.field.id:include_unknown"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 19002085,
+            "db_response_time_ms": 43,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 27,
+            "x_query": {
+                "oql": "works where year >= (2023) and year <= (2025) and type is (article or review)\ngroup by primary_topic.field.id:include_unknown",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "publication_year",
+                            "value": 2023,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        },
+                        {
+                            "join": "or",
+                            "filters": [
+                                {
+                                    "column_id": "type",
+                                    "value": "article"
+                                },
+                                {
+                                    "column_id": "type",
+                                    "value": "review"
+                                }
+                            ]
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "primary_topic.field.id:include_unknown"
+                        }
+                    ]
+                },
+                "url": "/works?filter=publication_year:2023-2025,type:article|review&group_by=primary_topic.field.id:include_unknown"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "https://openalex.org/fields/27",
+                "key_display_name": "Medicine",
+                "count": 3741845
+            },
+            {
+                "key": "https://openalex.org/fields/33",
+                "key_display_name": "Social Sciences",
+                "count": 2841706
+            },
+            {
+                "key": "https://openalex.org/fields/22",
+                "key_display_name": "Engineering",
+                "count": 2549374
+            },
+            {
+                "key": "https://openalex.org/fields/17",
+                "key_display_name": "Computer Science",
+                "count": 1066937
+            },
+            {
+                "key": "https://openalex.org/fields/23",
+                "key_display_name": "Environmental Science",
+                "count": 956375
+            },
+            {
+                "key": "https://openalex.org/fields/11",
+                "key_display_name": "Agricultural and Biological Sciences",
+                "count": 922499
+            },
+            {
+                "key": "https://openalex.org/fields/13",
+                "key_display_name": "Biochemistry, Genetics and Molecular Biology",
+                "count": 866483
+            },
+            {
+                "key": "https://openalex.org/fields/12",
+                "key_display_name": "Arts and Humanities",
+                "count": 784911
+            },
+            {
+                "key": "https://openalex.org/fields/14",
+                "key_display_name": "Business, Management and Accounting",
+                "count": 659961
+            },
+            {
+                "key": "https://openalex.org/fields/32",
+                "key_display_name": "Psychology",
+                "count": 610807
+            },
+            {
+                "key": "https://openalex.org/fields/25",
+                "key_display_name": "Materials Science",
+                "count": 566581
+            },
+            {
+                "key": "https://openalex.org/fields/20",
+                "key_display_name": "Economics, Econometrics and Finance",
+                "count": 524714
+            },
+            {
+                "key": "https://openalex.org/fields/36",
+                "key_display_name": "Health Professions",
+                "count": 513901
+            },
+            {
+                "key": "https://openalex.org/fields/31",
+                "key_display_name": "Physics and Astronomy",
+                "count": 379977
+            },
+            {
+                "key": "https://openalex.org/fields/28",
+                "key_display_name": "Neuroscience",
+                "count": 256089
+            },
+            {
+                "key": "https://openalex.org/fields/16",
+                "key_display_name": "Chemistry",
+                "count": 246146
+            },
+            {
+                "key": "https://openalex.org/fields/19",
+                "key_display_name": "Earth and Planetary Sciences",
+                "count": 238397
+            },
+            {
+                "key": "https://openalex.org/fields/26",
+                "key_display_name": "Mathematics",
+                "count": 225626
+            },
+            {
+                "key": "https://openalex.org/fields/unknown",
+                "key_display_name": "unknown",
+                "count": 182959
+            },
+            {
+                "key": "https://openalex.org/fields/24",
+                "key_display_name": "Immunology and Microbiology",
+                "count": 172587
+            },
+            {
+                "key": "https://openalex.org/fields/18",
+                "key_display_name": "Decision Sciences",
+                "count": 169706
+            },
+            {
+                "key": "https://openalex.org/fields/21",
+                "key_display_name": "Energy",
+                "count": 169412
+            },
+            {
+                "key": "https://openalex.org/fields/35",
+                "key_display_name": "Dentistry",
+                "count": 104982
+            },
+            {
+                "key": "https://openalex.org/fields/29",
+                "key_display_name": "Nursing",
+                "count": 99208
+            },
+            {
+                "key": "https://openalex.org/fields/30",
+                "key_display_name": "Pharmacology, Toxicology and Pharmaceutics",
+                "count": 71118
+            },
+            {
+                "key": "https://openalex.org/fields/15",
+                "key_display_name": "Chemical Engineering",
+                "count": 52851
+            },
+            {
+                "key": "https://openalex.org/fields/34",
+                "key_display_name": "Veterinary",
+                "count": 26933
+            }
+        ]
+    }
+}

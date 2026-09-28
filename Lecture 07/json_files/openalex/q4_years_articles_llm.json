@@ -1,0 +1,191 @@
+{
+    "parameters": {
+        "filter": "title.search:\"LLM\",publication_year:2000-2025,type:article|review",
+        "group_by": "publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 6477,
+            "db_response_time_ms": 10,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 26,
+            "x_query": {
+                "oql": "works where title has (stemmed \"LLM\")\n  and year >= (2000)\n  and year <= (2025)\n  and type is (article or review)\ngroup by year",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"LLM\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        },
+                        {
+                            "join": "or",
+                            "filters": [
+                                {
+                                    "column_id": "type",
+                                    "value": "article"
+                                },
+                                {
+                                    "column_id": "type",
+                                    "value": "review"
+                                }
+                            ]
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "publication_year"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22LLM%22,publication_year:2000-2025,type:article|review&group_by=publication_year"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "2025",
+                "key_display_name": "2025",
+                "count": 4828
+            },
+            {
+                "key": "2024",
+                "key_display_name": "2024",
+                "count": 1082
+            },
+            {
+                "key": "2023",
+                "key_display_name": "2023",
+                "count": 202
+            },
+            {
+                "key": "2022",
+                "key_display_name": "2022",
+                "count": 48
+            },
+            {
+                "key": "2016",
+                "key_display_name": "2016",
+                "count": 29
+            },
+            {
+                "key": "2019",
+                "key_display_name": "2019",
+                "count": 26
+            },
+            {
+                "key": "2021",
+                "key_display_name": "2021",
+                "count": 25
+            },
+            {
+                "key": "2015",
+                "key_display_name": "2015",
+                "count": 23
+            },
+            {
+                "key": "2020",
+                "key_display_name": "2020",
+                "count": 22
+            },
+            {
+                "key": "2018",
+                "key_display_name": "2018",
+                "count": 21
+            },
+            {
+                "key": "2017",
+                "key_display_name": "2017",
+                "count": 20
+            },
+            {
+                "key": "2011",
+                "key_display_name": "2011",
+                "count": 17
+            },
+            {
+                "key": "2014",
+                "key_display_name": "2014",
+                "count": 17
+            },
+            {
+                "key": "2006",
+                "key_display_name": "2006",
+                "count": 14
+            },
+            {
+                "key": "2010",
+                "key_display_name": "2010",
+                "count": 13
+            },
+            {
+                "key": "2012",
+                "key_display_name": "2012",
+                "count": 13
+            },
+            {
+                "key": "2013",
+                "key_display_name": "2013",
+                "count": 13
+            },
+            {
+                "key": "2009",
+                "key_display_name": "2009",
+                "count": 11
+            },
+            {
+                "key": "2008",
+                "key_display_name": "2008",
+                "count": 9
+            },
+            {
+                "key": "2003",
+                "key_display_name": "2003",
+                "count": 8
+            },
+            {
+                "key": "2004",
+                "key_display_name": "2004",
+                "count": 8
+            },
+            {
+                "key": "2005",
+                "key_display_name": "2005",
+                "count": 8
+            },
+            {
+                "key": "2007",
+                "key_display_name": "2007",
+                "count": 8
+            },
+            {
+                "key": "2001",
+                "key_display_name": "2001",
+                "count": 6
+            },
+            {
+                "key": "2000",
+                "key_display_name": "2000",
+                "count": 4
+            },
+            {
+                "key": "2002",
+                "key_display_name": "2002",
+                "count": 2
+            }
+        ]
+    }
+}

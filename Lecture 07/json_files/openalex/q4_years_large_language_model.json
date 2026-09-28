@@ -1,0 +1,78 @@
+{
+    "parameters": {
+        "filter": "title.search:\"large language model\",publication_year:2020-2025",
+        "group_by": "publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 49872,
+            "db_response_time_ms": 17,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 6,
+            "x_query": {
+                "oql": "works where title has (stemmed \"large language model\")\n  and year >= (2020)\n  and year <= (2025)\ngroup by year",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"large language model\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2020,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "publication_year"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22large language model%22,publication_year:2020-2025&group_by=publication_year"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "2025",
+                "key_display_name": "2025",
+                "count": 26498
+            },
+            {
+                "key": "2024",
+                "key_display_name": "2024",
+                "count": 17724
+            },
+            {
+                "key": "2023",
+                "key_display_name": "2023",
+                "count": 5303
+            },
+            {
+                "key": "2022",
+                "key_display_name": "2022",
+                "count": 286
+            },
+            {
+                "key": "2021",
+                "key_display_name": "2021",
+                "count": 49
+            },
+            {
+                "key": "2020",
+                "key_display_name": "2020",
+                "count": 12
+            }
+        ]
+    }
+}

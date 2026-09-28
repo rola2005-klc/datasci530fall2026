@@ -1,0 +1,191 @@
+{
+    "parameters": {
+        "filter": "title.search:\"artificial intelligence\",publication_year:2016-2022,type:article|review",
+        "group_by": "primary_topic.field.id:include_unknown"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 37393,
+            "db_response_time_ms": 22,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 26,
+            "x_query": {
+                "oql": "works where title has (stemmed \"artificial intelligence\")\n  and year >= (2016)\n  and year <= (2022)\n  and type is (article or review)\ngroup by primary_topic.field.id:include_unknown",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"artificial intelligence\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2016,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2022,
+                            "operator": "<="
+                        },
+                        {
+                            "join": "or",
+                            "filters": [
+                                {
+                                    "column_id": "type",
+                                    "value": "article"
+                                },
+                                {
+                                    "column_id": "type",
+                                    "value": "review"
+                                }
+                            ]
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "primary_topic.field.id:include_unknown"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22artificial intelligence%22,publication_year:2016-2022,type:article|review&group_by=primary_topic.field.id:include_unknown"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "https://openalex.org/fields/27",
+                "key_display_name": "Medicine",
+                "count": 10786
+            },
+            {
+                "key": "https://openalex.org/fields/17",
+                "key_display_name": "Computer Science",
+                "count": 7836
+            },
+            {
+                "key": "https://openalex.org/fields/22",
+                "key_display_name": "Engineering",
+                "count": 4714
+            },
+            {
+                "key": "https://openalex.org/fields/33",
+                "key_display_name": "Social Sciences",
+                "count": 3630
+            },
+            {
+                "key": "https://openalex.org/fields/14",
+                "key_display_name": "Business, Management and Accounting",
+                "count": 2049
+            },
+            {
+                "key": "https://openalex.org/fields/20",
+                "key_display_name": "Economics, Econometrics and Finance",
+                "count": 1306
+            },
+            {
+                "key": "https://openalex.org/fields/23",
+                "key_display_name": "Environmental Science",
+                "count": 1146
+            },
+            {
+                "key": "https://openalex.org/fields/18",
+                "key_display_name": "Decision Sciences",
+                "count": 983
+            },
+            {
+                "key": "https://openalex.org/fields/36",
+                "key_display_name": "Health Professions",
+                "count": 724
+            },
+            {
+                "key": "https://openalex.org/fields/13",
+                "key_display_name": "Biochemistry, Genetics and Molecular Biology",
+                "count": 690
+            },
+            {
+                "key": "https://openalex.org/fields/28",
+                "key_display_name": "Neuroscience",
+                "count": 608
+            },
+            {
+                "key": "https://openalex.org/fields/32",
+                "key_display_name": "Psychology",
+                "count": 589
+            },
+            {
+                "key": "https://openalex.org/fields/11",
+                "key_display_name": "Agricultural and Biological Sciences",
+                "count": 495
+            },
+            {
+                "key": "https://openalex.org/fields/12",
+                "key_display_name": "Arts and Humanities",
+                "count": 348
+            },
+            {
+                "key": "https://openalex.org/fields/35",
+                "key_display_name": "Dentistry",
+                "count": 327
+            },
+            {
+                "key": "https://openalex.org/fields/31",
+                "key_display_name": "Physics and Astronomy",
+                "count": 297
+            },
+            {
+                "key": "https://openalex.org/fields/25",
+                "key_display_name": "Materials Science",
+                "count": 255
+            },
+            {
+                "key": "https://openalex.org/fields/19",
+                "key_display_name": "Earth and Planetary Sciences",
+                "count": 151
+            },
+            {
+                "key": "https://openalex.org/fields/21",
+                "key_display_name": "Energy",
+                "count": 119
+            },
+            {
+                "key": "https://openalex.org/fields/16",
+                "key_display_name": "Chemistry",
+                "count": 108
+            },
+            {
+                "key": "https://openalex.org/fields/26",
+                "key_display_name": "Mathematics",
+                "count": 76
+            },
+            {
+                "key": "https://openalex.org/fields/30",
+                "key_display_name": "Pharmacology, Toxicology and Pharmaceutics",
+                "count": 49
+            },
+            {
+                "key": "https://openalex.org/fields/24",
+                "key_display_name": "Immunology and Microbiology",
+                "count": 45
+            },
+            {
+                "key": "https://openalex.org/fields/15",
+                "key_display_name": "Chemical Engineering",
+                "count": 25
+            },
+            {
+                "key": "https://openalex.org/fields/29",
+                "key_display_name": "Nursing",
+                "count": 21
+            },
+            {
+                "key": "https://openalex.org/fields/34",
+                "key_display_name": "Veterinary",
+                "count": 16
+            }
+        ]
+    }
+}

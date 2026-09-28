@@ -1,0 +1,149 @@
+{
+    "parameters": {
+        "filter": "title.search:\"LLM\",publication_year:2000-2019",
+        "sample": 25,
+        "seed": 530,
+        "per_page": 25,
+        "select": "display_name,publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 25,
+            "db_response_time_ms": 16,
+            "page": 1,
+            "per_page": 25,
+            "groups_count": null,
+            "x_query": {
+                "oql": "works where title has (stemmed \"LLM\") and year >= (2000) and year <= (2019)\nsample 25 seed 530",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"LLM\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2019,
+                            "operator": "<="
+                        }
+                    ],
+                    "sample": 25,
+                    "seed": "530"
+                },
+                "url": "/works?filter=display_name.search:%22LLM%22,publication_year:2000-2019&sample=25&seed=530&per_page=25"
+            },
+            "cost_usd": 0.001
+        },
+        "results": [
+            {
+                "display_name": "LLM in Canon Law",
+                "publication_year": 2009
+            },
+            {
+                "display_name": "LibGuides: Law - LLMs in the Department of Mercantile Law: Research Management Tools",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "Recasting the LLM: Course Design and Pedagogy",
+                "publication_year": 2013
+            },
+            {
+                "display_name": "Designing and Implementing JD/LLM Programs",
+                "publication_year": 2012
+            },
+            {
+                "display_name": "Basedow, Professor Dr Dr hc Juergen, LLM",
+                "publication_year": 2014
+            },
+            {
+                "display_name": "GGU Law's new director for LLM in Taxation",
+                "publication_year": 2014
+            },
+            {
+                "display_name": "[Absorption Characteristics and Simulation of LLM-105 in the Terahertz Range].",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "LibGuides: LAW 792-GRD: Legal Research and Writing for LLMs: Unit 1: Overview",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "[Bmim]BF 4 及[Bmim]CF 3 SO 3 中不同形貌LLM-105晶体的制备及表征",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "LibGuides. Law - LLMs in the Department of Mercantile Law. Finding Law Reports.",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "LibGuides: Research Guide for LLM Students: Books and Online Sources for Legal Writing and Research",
+                "publication_year": 2018
+            },
+            {
+                "display_name": "A visual assay and spectrophotometric determination of LLM-105 explosive using detection of gold nanoparticle aggregation at two pH values",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "Tax LLM Orientation Dinner_ NYLS_20060824_71",
+                "publication_year": 2006
+            },
+            {
+                "display_name": "LibGuides: U.S. Legal Research for LLM Students: Researching Case Law",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "Class of 2017, LLM Class of 2015",
+                "publication_year": 2014
+            },
+            {
+                "display_name": "Spielmann, Judge Dean, LLM",
+                "publication_year": 2014
+            },
+            {
+                "display_name": "LibGuides: Law - LLMs in the Department of Mercantile Law: Reference Sources",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "How to Develop and Teach an Online LLM Course",
+                "publication_year": 2013
+            },
+            {
+                "display_name": "Revista Derecho Aplicado - LLM UC",
+                "publication_year": 2018
+            },
+            {
+                "display_name": "On the generality of the LLM geometries in M-theory",
+                "publication_year": 2011
+            },
+            {
+                "display_name": "Forde, Sir Henry de Boulay, KA, QC, MA, LLM",
+                "publication_year": 2014
+            },
+            {
+                "display_name": "Lignin-Laccase-Mediator-Systems (LLMS) for the Production of Binderless Medium Density Fiberboards (MDF)",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "Tax LLM Orientation Dinner_ NYLS_20060824_70",
+                "publication_year": 2006
+            },
+            {
+                "display_name": "LibGuides: Law - LLM in International Law: Search Techniques",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "Cognitive training, physical exercise and information technology: Neuroscientific challenges and first evidence from the LLM project",
+                "publication_year": 2011
+            }
+        ],
+        "group_by": []
+    }
+}

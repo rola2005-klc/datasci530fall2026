@@ -1,0 +1,149 @@
+{
+    "parameters": {
+        "filter": "title.search:\"GPT\",publication_year:2000-2019",
+        "sample": 25,
+        "seed": 530,
+        "per_page": 25,
+        "select": "display_name,publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 25,
+            "db_response_time_ms": 14,
+            "page": 1,
+            "per_page": 25,
+            "groups_count": null,
+            "x_query": {
+                "oql": "works where title has (stemmed \"GPT\") and year >= (2000) and year <= (2019)\nsample 25 seed 530",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"GPT\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2019,
+                            "operator": "<="
+                        }
+                    ],
+                    "sample": 25,
+                    "seed": "530"
+                },
+                "url": "/works?filter=display_name.search:%22GPT%22,publication_year:2000-2019&sample=25&seed=530&per_page=25"
+            },
+            "cost_usd": 0.001
+        },
+        "results": [
+            {
+                "display_name": "配電用変電所における6.6kV GPT中性点不安定現象について",
+                "publication_year": 2004
+            },
+            {
+                "display_name": "The abstract GPT and GCPT groups of discrete C,P and T symmetries",
+                "publication_year": 2017
+            },
+            {
+                "display_name": "Testing of the accuracy of Leica TCRP 1201 total stations, Topcon GPT-7001 and Topcon GPT-8203M",
+                "publication_year": 2009
+            },
+            {
+                "display_name": "Heavy‐ion‐induced mutations in the gpt delta transgenic mouse: Comparison of mutation spectra induced by heavy‐ion, X‐ray, and γ‐ray radiation",
+                "publication_year": 2002
+            },
+            {
+                "display_name": "Gpt Onto: A New Beginning For Malaysia Gross Pollutant Trap Ontology",
+                "publication_year": 2012
+            },
+            {
+                "display_name": "Attacks and counter-attacks on the GPT public key cryptosystem",
+                "publication_year": 2008
+            },
+            {
+                "display_name": "The GPT Cryptosystems for Secure Broadband Communication",
+                "publication_year": 2010
+            },
+            {
+                "display_name": "gpt deltaマウスを用いたMeIQx誘発in vivo遺伝毒性に対する高脂肪食長期間摂取の影響",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "Potent genotoxicity of aminophenylnorharman, formed from non-mutagenic norharman and aniline, in the liver of gpt delta transgenic mouse",
+                "publication_year": 2003
+            },
+            {
+                "display_name": "P02: Carcinogenicity and in vivo mutagenicity of 1,4-dioxane in gpt delta rats",
+                "publication_year": 2009
+            },
+            {
+                "display_name": "P2-104 ディーゼル粒子の気管内投与によりgpt deltaマウスの肺に生じた突然変異スペクトルの解析(環境変異原)",
+                "publication_year": 2004
+            },
+            {
+                "display_name": "Structural change and the growth of industrial sectors: empirical test of a GPT model",
+                "publication_year": 2008
+            },
+            {
+                "display_name": "Additional file 3: Fig. S3. of Genomic integration of lambda EG10 transgene in gpt delta transgenic rodents",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "Chemopreventive effects of silymarin against 1,2-dimethylhydrazine plus dextran sodium sulfate-induced inflammation-associated carcinogenicity and genotoxicity in the colon of gpt delta rats",
+                "publication_year": 2011
+            },
+            {
+                "display_name": "EFFECTIVENESS OF BETA-CYPERMETHRIN ON GLUTAMIC- PYRUVIC TRANSAMINASE (GPT) AND GLUTAMIC-OXALOACETIC TRANSAMINASE (GOT) ACTIVITIES FROM CRUCIAN CARP (CARASSIUS AURATUS) SERUM",
+                "publication_year": 2006
+            },
+            {
+                "display_name": "Chemopreventive Effects of Nobiletin against Genotoxicity Induced by 4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK) in the Lung of gpt delta Transgenic Mice",
+                "publication_year": 2006
+            },
+            {
+                "display_name": "Low dose genotoxicity of 2-amino-3,8-dimethylimidazo[4,5-f]quinoxaline (MeIQx) in gpt delta transgenic mice",
+                "publication_year": 2003
+            },
+            {
+                "display_name": "METABOLIC ACTIVATION OF 2,6-DIMETHYLANILINE: MUTATIONAL SPECIFICITY IN THE GPT GENE OF AS52 CELLS",
+                "publication_year": 2018
+            },
+            {
+                "display_name": "The Study of the Deep Structure and Prospects of Oil and Gas Potential of the Southern Part of the Guryev Arch of the South-Eastern Side of the Caspian Basin by Method GPTS",
+                "publication_year": 2019
+            },
+            {
+                "display_name": "Study on GPT and Number of Cells of Middle and Posterior Silk Glands of Spring Rearing Races of Anthereae pernyi",
+                "publication_year": 2003
+            },
+            {
+                "display_name": "Additional file 1: Fig. S1. of Genomic integration of lambda EG10 transgene in gpt delta transgenic rodents",
+                "publication_year": 2016
+            },
+            {
+                "display_name": "Nachweis einer aktiven HCV-Infektion bei jedem 20. Patienten mit erhöhtem GPT-Wert",
+                "publication_year": 2009
+            },
+            {
+                "display_name": "The Incidence of Transfusion Hepatitis after Donor Screening by Control of GPT Activities",
+                "publication_year": 2015
+            },
+            {
+                "display_name": "Investigation of the Curing Mechanism in the GPTS/APTS Binder System",
+                "publication_year": 2003
+            },
+            {
+                "display_name": "Glutamate‐Pyruvate Transaminase ( GPT 1)",
+                "publication_year": 2004
+            }
+        ],
+        "group_by": []
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "parameters": {
+        "filter": "title.search:\"artificial intelligence\",publication_year:2000-2025,type:article|review",
+        "group_by": "publication_year"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 139337,
+            "db_response_time_ms": 19,
+            "page": 1,
+            "per_page": 200,
+            "groups_count": 26,
+            "x_query": {
+                "oql": "works where title has (stemmed \"artificial intelligence\")\n  and year >= (2000)\n  and year <= (2025)\n  and type is (article or review)\ngroup by year",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"artificial intelligence\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        },
+                        {
+                            "join": "or",
+                            "filters": [
+                                {
+                                    "column_id": "type",
+                                    "value": "article"
+                                },
+                                {
+                                    "column_id": "type",
+                                    "value": "review"
+                                }
+                            ]
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "publication_year"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22artificial intelligence%22,publication_year:2000-2025,type:article|review&group_by=publication_year"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "2025",
+                "key_display_name": "2025",
+                "count": 48928
+            },
+            {
+                "key": "2024",
+                "key_display_name": "2024",
+                "count": 30083
+            },
+            {
+                "key": "2023",
+                "key_display_name": "2023",
+                "count": 17987
+            },
+            {
+                "key": "2022",
+                "key_display_name": "2022",
+                "count": 11547
+            },
+            {
+                "key": "2021",
+                "key_display_name": "2021",
+                "count": 9384
+            },
+            {
+                "key": "2020",
+                "key_display_name": "2020",
+                "count": 7334
+            },
+            {
+                "key": "2019",
+                "key_display_name": "2019",
+                "count": 4600
+            },
+            {
+                "key": "2018",
+                "key_display_name": "2018",
+                "count": 2660
+            },
+            {
+                "key": "2017",
+                "key_display_name": "2017",
+                "count": 1206
+            },
+            {
+                "key": "2016",
+                "key_display_name": "2016",
+                "count": 662
+            },
+            {
+                "key": "2014",
+                "key_display_name": "2014",
+                "count": 500
+            },
+            {
+                "key": "2015",
+                "key_display_name": "2015",
+                "count": 494
+            },
+            {
+                "key": "2013",
+                "key_display_name": "2013",
+                "count": 460
+            },
+            {
+                "key": "2012",
+                "key_display_name": "2012",
+                "count": 401
+            },
+            {
+                "key": "2011",
+                "key_display_name": "2011",
+                "count": 355
+            },
+            {
+                "key": "2009",
+                "key_display_name": "2009",
+                "count": 339
+            },
+            {
+                "key": "2010",
+                "key_display_name": "2010",
+                "count": 299
+            },
+            {
+                "key": "2008",
+                "key_display_name": "2008",
+                "count": 286
+            },
+            {
+                "key": "2007",
+                "key_display_name": "2007",
+                "count": 268
+            },
+            {
+                "key": "2006",
+                "key_display_name": "2006",
+                "count": 266
+            },
+            {
+                "key": "2005",
+                "key_display_name": "2005",
+                "count": 249
+            },
+            {
+                "key": "2004",
+                "key_display_name": "2004",
+                "count": 235
+            },
+            {
+                "key": "2003",
+                "key_display_name": "2003",
+                "count": 218
+            },
+            {
+                "key": "2002",
+                "key_display_name": "2002",
+                "count": 203
+            },
+            {
+                "key": "2001",
+                "key_display_name": "2001",
+                "count": 201
+            },
+            {
+                "key": "2000",
+                "key_display_name": "2000",
+                "count": 172
+            }
+        ]
+    }
+}

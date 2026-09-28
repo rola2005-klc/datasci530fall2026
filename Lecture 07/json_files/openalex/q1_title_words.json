@@ -1,0 +1,38 @@
+{
+    "parameters": {
+        "filter": "title.search:artificial intelligence",
+        "per_page": 1,
+        "select": "id"
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 333698,
+            "db_response_time_ms": 53,
+            "page": 1,
+            "per_page": 1,
+            "groups_count": null,
+            "x_query": {
+                "oql": "works where title has (artificial intelligence)",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "artificial intelligence",
+                            "operator": "has"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:artificial intelligence&per_page=1"
+            },
+            "cost_usd": 0.001
+        },
+        "results": [
+            {
+                "id": "https://openalex.org/W2122410182"
+            }
+        ],
+        "group_by": []
+    }
+}
