@@ -1,16 +1,16 @@
 {
     "parameters": {
         "filter": "cites:W4221143046",
-        "per_page": 5,
+        "per_page": 3,
         "select": "display_name,publication_year"
     },
     "retrieved": "2026-09-28",
     "response": {
         "meta": {
             "count": 4321,
-            "db_response_time_ms": 53,
+            "db_response_time_ms": 32,
             "page": 1,
-            "per_page": 5,
+            "per_page": 3,
             "groups_count": null,
             "x_query": {
                 "oql": "works where it cites (W4221143046)",
@@ -23,7 +23,7 @@
                         }
                     ]
                 },
-                "url": "/works?filter=referenced_works:W4221143046&per_page=5"
+                "url": "/works?filter=referenced_works:W4221143046&per_page=3"
             },
             "cost_usd": 0.0001
         },
@@ -38,14 +38,6 @@
             },
             {
                 "display_name": "A Brief Overview of ChatGPT: The History, Status Quo and Potential Future Development",
-                "publication_year": 2023
-            },
-            {
-                "display_name": "Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education",
-                "publication_year": 2024
-            },
-            {
-                "display_name": "Autonomous chemical research with large language models",
                 "publication_year": 2023
             }
         ],

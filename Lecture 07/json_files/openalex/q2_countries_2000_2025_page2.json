@@ -1,0 +1,86 @@
+{
+    "parameters": {
+        "filter": "title.search:\"artificial intelligence\",publication_year:2000-2025",
+        "group_by": "authorships.countries:include_unknown",
+        "per_page": 200,
+        "cursor": "IlZJIg=="
+    },
+    "retrieved": "2026-09-28",
+    "response": {
+        "meta": {
+            "count": 231014,
+            "db_response_time_ms": 29,
+            "page": null,
+            "per_page": 200,
+            "next_cursor": "IlpXIg==",
+            "groups_count": 7,
+            "x_query": {
+                "oql": "works where title has (stemmed \"artificial intelligence\")\n  and year >= (2000)\n  and year <= (2025)\ngroup by authorships.countries:include_unknown",
+                "oqo": {
+                    "get_rows": "works",
+                    "filter_rows": [
+                        {
+                            "column_id": "display_name.search",
+                            "value": "\"artificial intelligence\"",
+                            "operator": "has"
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2000,
+                            "operator": ">="
+                        },
+                        {
+                            "column_id": "publication_year",
+                            "value": 2025,
+                            "operator": "<="
+                        }
+                    ],
+                    "group_by": [
+                        {
+                            "column_id": "authorships.countries:include_unknown"
+                        }
+                    ]
+                },
+                "url": "/works?filter=display_name.search:%22artificial intelligence%22,publication_year:2000-2025&group_by=authorships.countries:include_unknown&per_page=200&cursor=IlZJIg%3D%3D"
+            },
+            "cost_usd": 0.0001
+        },
+        "group_by": [
+            {
+                "key": "https://openalex.org/countries/VN",
+                "key_display_name": "Vietnam",
+                "count": 839
+            },
+            {
+                "key": "https://openalex.org/countries/WS",
+                "key_display_name": "Samoa",
+                "count": 2
+            },
+            {
+                "key": "https://openalex.org/countries/XK",
+                "key_display_name": "Kosovo",
+                "count": 68
+            },
+            {
+                "key": "https://openalex.org/countries/YE",
+                "key_display_name": "Yemen",
+                "count": 119
+            },
+            {
+                "key": "https://openalex.org/countries/ZA",
+                "key_display_name": "South Africa",
+                "count": 1416
+            },
+            {
+                "key": "https://openalex.org/countries/ZM",
+                "key_display_name": "Zambia",
+                "count": 65
+            },
+            {
+                "key": "https://openalex.org/countries/ZW",
+                "key_display_name": "Zimbabwe",
+                "count": 121
+            }
+        ]
+    }
+}
