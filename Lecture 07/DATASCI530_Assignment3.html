@@ -7312,6 +7312,7 @@ a.anchor-link {
                     processEnvironments: true
                 },
                 displayAlign: 'center',
+                messageStyle: 'none',
                 CommonHTML: {
                     linebreaks: {
                     automatic: true
@@ -7331,7 +7332,12 @@ a.anchor-link {
     if (!diagrams.length) {
       return;
     }
-    const mermaid = (await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs")).default;
+    const mermaid = (await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.10.0/mermaid.esm.min.mjs")).default;
+    const elkUrl = "https://cdnjs.cloudflare.com/ajax/libs/mermaid-layout-elk/0.1.9/mermaid-layout-elk.esm.min.mjs";
+    if(elkUrl) {
+      const elkLayouts = (await import(elkUrl)).default;
+      mermaid.registerLayoutLoaders(elkLayouts);
+    }
     const parser = new DOMParser();
 
     mermaid.initialize({
@@ -7428,7 +7434,8 @@ a.anchor-link {
      * Post-process to ensure mermaid diagrams contain only valid SVG and XHTML.
      */
     function cleanMermaidSvg(svg) {
-      return svg.replace(RE_VOID_ELEMENT, replaceVoidElement);
+      svg = svg.replace(RE_VOID_ELEMENT, replaceVoidElement);
+      return `${SVG_XML_HEADER}${svg}`;
     }
 
 
@@ -7454,6 +7461,285 @@ a.anchor-link {
       }
       return `<${tag} ${rest}>`;
     }
+
+
+  /**
+   * Named HTML entities with their decimal equivalent codes.
+   *
+   * @see https://www.w3.org/TR/WD-html40-970708/sgml/entities.html
+   * */
+  const HTML_ENTITIES = `<!ENTITY Aacute "&#193;">
+<!ENTITY aacute "&#225;">
+<!ENTITY Acirc "&#194;">
+<!ENTITY acirc "&#226;">
+<!ENTITY acute "&#180;">
+<!ENTITY AElig "&#198;">
+<!ENTITY aelig "&#230;">
+<!ENTITY Agrave "&#192;">
+<!ENTITY agrave "&#224;">
+<!ENTITY alefsym "&#8501;">
+<!ENTITY Alpha "&#913;">
+<!ENTITY alpha "&#945;">
+<!ENTITY amp "&#38;">
+<!ENTITY and "&#8869;">
+<!ENTITY ang "&#8736;">
+<!ENTITY Aring "&#197;">
+<!ENTITY aring "&#229;">
+<!ENTITY asymp "&#8776;">
+<!ENTITY Atilde "&#195;">
+<!ENTITY atilde "&#227;">
+<!ENTITY Auml "&#196;">
+<!ENTITY auml "&#228;">
+<!ENTITY bdquo "&#8222;">
+<!ENTITY Beta "&#914;">
+<!ENTITY beta "&#946;">
+<!ENTITY brvbar "&#166;">
+<!ENTITY bull "&#8226;">
+<!ENTITY cap "&#8745;">
+<!ENTITY Ccedil "&#199;">
+<!ENTITY ccedil "&#231;">
+<!ENTITY cedil "&#184;">
+<!ENTITY cent "&#162;">
+<!ENTITY Chi "&#935;">
+<!ENTITY chi "&#967;">
+<!ENTITY circ "&#710;">
+<!ENTITY clubs "&#9827;">
+<!ENTITY cong "&#8773;">
+<!ENTITY copy "&#169;">
+<!ENTITY crarr "&#8629;">
+<!ENTITY cup "&#8746;">
+<!ENTITY curren "&#164;">
+<!ENTITY dagger "&#8224;">
+<!ENTITY Dagger "&#8225;">
+<!ENTITY darr "&#8595;">
+<!ENTITY dArr "&#8659;">
+<!ENTITY deg "&#176;">
+<!ENTITY Delta "&#916;">
+<!ENTITY delta "&#948;">
+<!ENTITY diams "&#9830;">
+<!ENTITY divide "&#247;">
+<!ENTITY Eacute "&#201;">
+<!ENTITY eacute "&#233;">
+<!ENTITY Ecirc "&#202;">
+<!ENTITY ecirc "&#234;">
+<!ENTITY Egrave "&#200;">
+<!ENTITY egrave "&#232;">
+<!ENTITY empty "&#8709;">
+<!ENTITY emsp "&#8195;">
+<!ENTITY ensp "&#8194;">
+<!ENTITY epsilon "&#949;">
+<!ENTITY Epsilon "&#917;">
+<!ENTITY equiv "&#8801;">
+<!ENTITY Eta "&#919;">
+<!ENTITY eta "&#951;">
+<!ENTITY ETH "&#208;">
+<!ENTITY eth "&#240;">
+<!ENTITY Euml "&#203;">
+<!ENTITY euml "&#235;">
+<!ENTITY exist "&#8707;">
+<!ENTITY fnof "&#402;">
+<!ENTITY forall "&#8704;">
+<!ENTITY frac12 "&#189;">
+<!ENTITY frac14 "&#188;">
+<!ENTITY frac34 "&#190;">
+<!ENTITY frasl "&#8260;">
+<!ENTITY Gamma "&#915;">
+<!ENTITY gamma "&#947;">
+<!ENTITY ge "&#8805;">
+<!ENTITY gt "&#62;">
+<!ENTITY harr "&#8596;">
+<!ENTITY hArr "&#8660;">
+<!ENTITY hearts "&#9829;">
+<!ENTITY hellip "&#8230;">
+<!ENTITY Iacute "&#205;">
+<!ENTITY iacute "&#237;">
+<!ENTITY Icirc "&#206;">
+<!ENTITY icirc "&#238;">
+<!ENTITY iexcl "&#161;">
+<!ENTITY Igrave "&#204;">
+<!ENTITY igrave "&#236;">
+<!ENTITY image "&#8465;">
+<!ENTITY infin "&#8734;">
+<!ENTITY int "&#8747;">
+<!ENTITY Iota "&#921;">
+<!ENTITY iota "&#953;">
+<!ENTITY iquest "&#191;">
+<!ENTITY isin "&#8712;">
+<!ENTITY Iuml "&#207;">
+<!ENTITY iuml "&#239;">
+<!ENTITY Kappa "&#922;">
+<!ENTITY kappa "&#954;">
+<!ENTITY Lambda "&#923;">
+<!ENTITY lambda "&#955;">
+<!ENTITY lang "&#9001;">
+<!ENTITY laquo "&#171;">
+<!ENTITY larr "&#8592;">
+<!ENTITY lArr "&#8656;">
+<!ENTITY lceil "&#8968;">
+<!ENTITY ldquo "&#8220;">
+<!ENTITY le "&#8804;">
+<!ENTITY lfloor "&#8970;">
+<!ENTITY lowast "&#8727;">
+<!ENTITY loz "&#9674;">
+<!ENTITY lrm "&#8206;">
+<!ENTITY lsaquo "&#8249;">
+<!ENTITY lsquo "&#8216;">
+<!ENTITY lt "&#60;">
+<!ENTITY macr "&#175;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY micro "&#181;">
+<!ENTITY middot "&#183;">
+<!ENTITY minus "&#8722;">
+<!ENTITY Mu "&#924;">
+<!ENTITY mu "&#956;">
+<!ENTITY nabla "&#8711;">
+<!ENTITY nbsp "&#160;">
+<!ENTITY ndash "&#8211;">
+<!ENTITY ne "&#8800;">
+<!ENTITY ni "&#8715;">
+<!ENTITY not "&#172;">
+<!ENTITY notin "&#8713;">
+<!ENTITY nsub "&#8836;">
+<!ENTITY Ntilde "&#209;">
+<!ENTITY ntilde "&#241;">
+<!ENTITY Nu "&#925;">
+<!ENTITY nu "&#957;">
+<!ENTITY Oacute "&#211;">
+<!ENTITY oacute "&#243;">
+<!ENTITY Ocirc "&#212;">
+<!ENTITY ocirc "&#244;">
+<!ENTITY OElig "&#338;">
+<!ENTITY oelig "&#339;">
+<!ENTITY Ograve "&#210;">
+<!ENTITY ograve "&#242;">
+<!ENTITY oline "&#8254;">
+<!ENTITY Omega "&#937;">
+<!ENTITY omega "&#969;">
+<!ENTITY Omicron "&#927;">
+<!ENTITY omicron "&#959;">
+<!ENTITY oplus "&#8853;">
+<!ENTITY or "&#8870;">
+<!ENTITY ordf "&#170;">
+<!ENTITY ordm "&#186;">
+<!ENTITY Oslash "&#216;">
+<!ENTITY oslash "&#248;">
+<!ENTITY Otilde "&#213;">
+<!ENTITY otilde "&#245;">
+<!ENTITY otimes "&#8855;">
+<!ENTITY Ouml "&#214;">
+<!ENTITY ouml "&#246;">
+<!ENTITY para "&#182;">
+<!ENTITY part "&#8706;">
+<!ENTITY permil "&#8240;">
+<!ENTITY perp "&#8869;">
+<!ENTITY Phi "&#934;">
+<!ENTITY phi "&#966;">
+<!ENTITY Pi "&#928;">
+<!ENTITY pi "&#960;">
+<!ENTITY piv "&#982;">
+<!ENTITY plusmn "&#177;">
+<!ENTITY pound "&#163;">
+<!ENTITY prime "&#8242;">
+<!ENTITY Prime "&#8243;">
+<!ENTITY prod "&#8719;">
+<!ENTITY prop "&#8733;">
+<!ENTITY Psi "&#936;">
+<!ENTITY psi "&#968;">
+<!ENTITY quot "&#34;">
+<!ENTITY radic "&#8730;">
+<!ENTITY rang "&#9002;">
+<!ENTITY raquo "&#187;">
+<!ENTITY rarr "&#8594;">
+<!ENTITY rArr "&#8658;">
+<!ENTITY rceil "&#8969;">
+<!ENTITY rdquo "&#8221;">
+<!ENTITY real "&#8476;">
+<!ENTITY reg "&#174;">
+<!ENTITY rfloor "&#8971;">
+<!ENTITY Rho "&#929;">
+<!ENTITY rho "&#961;">
+<!ENTITY rlm "&#8207;">
+<!ENTITY rsaquo "&#8250;">
+<!ENTITY rsquo "&#8217;">
+<!ENTITY sbquo "&#8218;">
+<!ENTITY Scaron "&#352;">
+<!ENTITY scaron "&#353;">
+<!ENTITY sdot "&#8901;">
+<!ENTITY sect "&#167;">
+<!ENTITY shy "&#173;">
+<!ENTITY Sigma "&#931;">
+<!ENTITY sigma "&#963;">
+<!ENTITY sigmaf "&#962;">
+<!ENTITY sim "&#8764;">
+<!ENTITY spades "&#9824;">
+<!ENTITY sub "&#8834;">
+<!ENTITY sube "&#8838;">
+<!ENTITY sum "&#8721;">
+<!ENTITY sup "&#8835;">
+<!ENTITY sup1 "&#185;">
+<!ENTITY sup2 "&#178;">
+<!ENTITY sup3 "&#179;">
+<!ENTITY supe "&#8839;">
+<!ENTITY szlig "&#223;">
+<!ENTITY Tau "&#932;">
+<!ENTITY tau "&#964;">
+<!ENTITY there4 "&#8756;">
+<!ENTITY Theta "&#920;">
+<!ENTITY theta "&#952;">
+<!ENTITY thetasym "&#977;">
+<!ENTITY thinsp "&#8201;">
+<!ENTITY THORN "&#222;">
+<!ENTITY thorn "&#254;">
+<!ENTITY tilde "&#732;">
+<!ENTITY times "&#215;">
+<!ENTITY trade "&#8482;">
+<!ENTITY Uacute "&#218;">
+<!ENTITY uacute "&#250;">
+<!ENTITY uarr "&#8593;">
+<!ENTITY uArr "&#8657;">
+<!ENTITY Ucirc "&#219;">
+<!ENTITY ucirc "&#251;">
+<!ENTITY Ugrave "&#217;">
+<!ENTITY ugrave "&#249;">
+<!ENTITY uml "&#168;">
+<!ENTITY upsih "&#978;">
+<!ENTITY Upsilon "&#933;">
+<!ENTITY upsilon "&#965;">
+<!ENTITY Uuml "&#220;">
+<!ENTITY uuml "&#252;">
+<!ENTITY weierp "&#8472;">
+<!ENTITY Xi "&#926;">
+<!ENTITY xi "&#958;">
+<!ENTITY Yacute "&#221;">
+<!ENTITY yacute "&#253;">
+<!ENTITY yen "&#165;">
+<!ENTITY Yuml "&#376;">
+<!ENTITY yuml "&#255;">
+<!ENTITY Zeta "&#918;">
+<!ENTITY zeta "&#950;">
+<!ENTITY zwj "&#8205;">
+<!ENTITY zwnj "&#8204;">`.replace(/\n/g, ' ');
+
+  /**
+   * A reasonably strict xml declaration.
+   */
+  const XML_DECL = '<?xml version="1.0" standalone="no"?>';
+
+  /**
+   * The beginning of the XML doctype declaration.
+   */
+  const DOCTYPE_START = `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [`;
+
+  /**
+   * The end of the XML docype declaration.
+   */
+  const DOCTYPE_END = ']>';
+
+  /**
+   * A full header for an SVG XML document.
+   */
+  const SVG_XML_HEADER = `${XML_DECL}
+    ${DOCTYPE_START}${HTML_ENTITIES}${DOCTYPE_END}`;
 
     void Promise.all([...diagrams].map(renderOneMarmaid));
   });
@@ -7529,13 +7815,7 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Summary-of-findings">Summary of findings<a class="anchor-link" href="#Summary-of-findings">¶</a></h2><ul>
-<li>The title search found 330,744 works. About 89.5% were dated 2020–2026, but this includes the unfinished year 2026, which alone made up 27.5% of all matches (Tables 1 and 2).</li>
-<li>The United States led the country ranking with 36,515 works, followed by China with 29,722 and India with 24,672. Their shares of works with a known country were 18.0%, 14.6%, and 12.2%, respectively (Table 4).</li>
-<li>Eric J. Topol's paper in <em>Nature Medicine</em>, recorded as 2018 in the saved data, ranked first with 10,188 citations. All ten of the most-cited articles and reviews were dated 2017–2020 (Table 7).</li>
-<li>In 2025, the title searches returned 76,545 works for "artificial intelligence," 28,384 for "LLM," and 2,573 for "GPT." From 2024 to 2025, those counts changed by +57%, +161%, and −3%, respectively. "Machine learning" had the largest count, at 105,008 works (Table 12).</li>
-<li>The main field shift had already happened by 2016–2022: medicine's share rose from 6.5% to 28.8%, then stayed near that level at 28.6% in 2023–2025. All 26 fields had AI papers in every period, but the two largest fields' combined share fell from 60.5% to 50.0%, so the papers became less concentrated (Tables 15 and 16).</li>
-</ul>
+<h2 id="Executive-summary">Executive summary<a class="anchor-link" href="#Executive-summary">¶</a></h2><p>Artificial intelligence (AI) is a growing area of research with applications across many subjects. This report explores how that research has developed, where it comes from, and how its focus has changed. AI has become a much more common research topic, especially in recent years. The United States, China, and India are leading contributors in the research reviewed here, while widely referenced papers also come from many other countries. Prominent papers explore AI in healthcare and education, as well as ways to make its decisions easier to understand. Machine learning, which helps computers learn from examples, has grown into a major research topic, and work on AI that understands and generates language has recently expanded especially quickly. AI research has also become more evenly spread across subjects, with medicine taking a larger role and computer science remaining an important center of research.</p>
 </div>
 </div>
 </div>
@@ -7550,7 +7830,7 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 <li>I used the OpenAlex responses saved on September 28, 2026 for the publication analysis, and DataCite to check the DOI of a suspicious preprint. The request log identifies both APIs and their saved files (Tables 6 and A1).</li>
 <li>I searched titles for the phrase "artificial intelligence" so that the definition would be clear and repeatable. I compared it with a looser two-word search to see how much that choice affected the total (Table 1).</li>
 <li>I chose "machine learning" as the additional keyword because it is an established area of AI and gives a useful comparison with the newer "LLM" and "GPT" terms. It also helps show how results depend on the words authors put in their titles (Table 12).</li>
-<li>I let OpenAlex count the matches with <code>group_by</code> because I needed totals by year, country, type, and field, rather than downloading roughly 330,000 individual records. This reduced the amount of data and number of requests needed; the smaller record downloads were used for the citation ranking and checks (Tables 1 and A1).</li>
+<li>I let OpenAlex count the matches with <code>group_by</code> because I needed totals by year, country, type, and field, rather than downloading roughly 330,000 individual records. This reduced the amount of data and number of requests needed; the smaller record downloads were used for the citation ranking and checks (Tables 5–7 and A1).</li>
 <li>I saved each response as JSON to avoid spending more of the daily API allowance when rerunning the notebook and to keep a fixed snapshot while OpenAlex's records and citation counts change. Table A1 lists the saved requests; OpenAlex documents the daily limit in its <a href="https://help.openalex.org/api/authentication/">API authentication guide</a>.</li>
 <li>I used 2000–2026 for the country and citation rankings, then repeated the country ranking through 2025 to check the effect of the partial year. I stopped the trend and field comparisons at 2025 so that their final year was complete (Tables 4, 7, 12, and 15).</li>
 <li>I counted a paper once for every country represented in its author affiliations because the ranking measures each country's participation in research. This gives each collaborating country credit, but the shares overlap: works with a known country averaged 1.32 countries each (Table 4; Quality check 2).</li>
@@ -7579,15 +7859,15 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 <div class="jp-InputPrompt jp-InputArea-prompt">In [1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>                  <span class="c1"># check whether a saved JSON file exists</span>
-<span class="kn">import</span> <span class="nn">json</span>                <span class="c1"># read and write JSON files</span>
-<span class="kn">import</span> <span class="nn">time</span>                <span class="c1"># retrieval date and a short pause between requests</span>
-<span class="kn">import</span> <span class="nn">requests</span>            <span class="c1"># send requests to the APIs</span>
-<span class="kn">import</span> <span class="nn">jmespath</span>            <span class="c1"># extract values from nested JSON (Lecture 5b)</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="kn">from</span> <span class="nn">matplotlib.ticker</span> <span class="kn">import</span> <span class="n">StrMethodFormatter</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span>                  <span class="c1"># check whether a saved JSON file exists</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">json</span>                <span class="c1"># read and write JSON files</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">time</span>                <span class="c1"># retrieval date and a short pause between requests</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">requests</span>            <span class="c1"># send requests to the APIs</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">jmespath</span>            <span class="c1"># extract values from nested JSON (Lecture 5b)</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">matplotlib.pyplot</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">plt</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">matplotlib.ticker</span><span class="w"> </span><span class="kn">import</span> <span class="n">StrMethodFormatter</span>
 
 <span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s2">"seaborn-v0_8-whitegrid"</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="o">.</span><span class="n">update</span><span class="p">({</span><span class="s2">"font.size"</span><span class="p">:</span> <span class="mi">11</span><span class="p">,</span> <span class="s2">"axes.titlesize"</span><span class="p">:</span> <span class="mi">13</span><span class="p">,</span> <span class="s2">"axes.labelsize"</span><span class="p">:</span> <span class="mi">11</span><span class="p">,</span>
@@ -7668,7 +7948,7 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 <div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">get_json</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">get_json</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
     <span class="c1"># Returns the JSON response of `url` with query `parameters` as a dictionary.</span>
     <span class="c1"># The response is saved to json_files/openalex/&lt;file_name&gt;.json together with the</span>
     <span class="c1"># request, and reused on later runs as long as the request is exactly the same.</span>
@@ -7704,12 +7984,12 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
     <span class="k">return</span> <span class="n">data</span>
 
 
-<span class="k">def</span> <span class="nf">get_openalex</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">get_openalex</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
     <span class="c1"># Same as get_json(), for the OpenAlex Works endpoint</span>
     <span class="k">return</span> <span class="n">get_json</span><span class="p">(</span><span class="n">url_openalex_works</span><span class="p">,</span> <span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">)</span>
 
 
-<span class="k">def</span> <span class="nf">get_groups</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">get_groups</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
     <span class="c1"># Runs a group_by request: OpenAlex counts the matching works per group (year, country, ...).</span>
     <span class="c1"># Returns (table with one row per group: key, key_display_name, count ; total matching works)</span>
     <span class="n">data</span>   <span class="o">=</span> <span class="n">get_openalex</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">)</span>
@@ -7717,7 +7997,7 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
     <span class="k">return</span> <span class="n">groups</span><span class="p">,</span> <span class="n">data</span><span class="p">[</span><span class="s2">"meta"</span><span class="p">][</span><span class="s2">"count"</span><span class="p">]</span>
 
 
-<span class="k">def</span> <span class="nf">get_all_groups</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">get_all_groups</span><span class="p">(</span><span class="n">parameters</span><span class="p">,</span> <span class="n">file_name</span><span class="p">):</span>
     <span class="c1"># Same as get_groups(), but for more than 200 groups: OpenAlex returns at most 200</span>
     <span class="c1"># groups per page plus a "next_cursor", so the loop keeps requesting pages until a</span>
     <span class="c1"># page is not full.</span>
@@ -7742,14 +8022,14 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
     <span class="k">return</span> <span class="n">groups</span><span class="p">,</span> <span class="n">data</span><span class="p">[</span><span class="s2">"meta"</span><span class="p">][</span><span class="s2">"count"</span><span class="p">]</span>
 
 
-<span class="k">def</span> <span class="nf">shorten</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">max_characters</span><span class="p">):</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">shorten</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">max_characters</span><span class="p">):</span>
     <span class="c1"># Cuts long text for display and marks the cut with "…"</span>
     <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">text</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="n">max_characters</span><span class="p">:</span>
         <span class="k">return</span> <span class="n">text</span>
     <span class="k">return</span> <span class="n">text</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="n">max_characters</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="s2">"…"</span>
 
 
-<span class="k">def</span> <span class="nf">style_table</span><span class="p">(</span><span class="n">table</span><span class="p">,</span> <span class="n">caption</span><span class="p">,</span> <span class="n">formats</span><span class="p">,</span> <span class="n">nowrap_columns</span> <span class="o">=</span> <span class="p">[]):</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">style_table</span><span class="p">(</span><span class="n">table</span><span class="p">,</span> <span class="n">caption</span><span class="p">,</span> <span class="n">formats</span><span class="p">,</span> <span class="n">nowrap_columns</span> <span class="o">=</span> <span class="p">[]):</span>
     <span class="c1"># Same table style everywhere: formatted numbers, no index, caption above, text left-aligned.</span>
     <span class="c1"># nowrap_columns: short columns that should stay on one line</span>
     <span class="n">table</span>  <span class="o">=</span> <span class="n">table</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>       <span class="c1"># unique row numbers (tables built with pd.concat repeat them)</span>
@@ -9284,7 +9564,7 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 <ul>
 <li>Eric J. Topol's "High-performance medicine: the convergence of human and artificial intelligence" in <em>Nature Medicine</em> ranked first with 10,188 citations. The saved OpenAlex record dates it to 2018, and all ten papers in the ranking were dated 2017–2020 (Table 7).</li>
 <li>The explainable AI paper by Alejandro Barredo Arrieta and coauthors was close behind with 10,067 citations. The titles mainly concern healthcare, explainable AI, and education (Table 7).</li>
-<li>Papers 1, 9, and 10 had US institutions. Paper 6 had institutions in China and Hong Kong, while paper 8 had institutions in China. The other papers show that highly cited work also came from countries outside the top three in the overall publication ranking (Tables 4 and 8).</li>
+<li>Papers 1, 9, and 10 had US institutions. Paper 6 had institutions in China and Hong Kong, while paper 8 had institutions in China. Papers 2 (Spain and France), 3 (Germany), 4 (Morocco), and 5 (Australia) show that highly cited work also came from countries outside the top three in the overall publication ranking (Tables 4 and 8).</li>
 <li>Team sizes ranged from one author on papers 1 and 5 to 35 authors on paper 7, so the highly cited papers included both individual and large-team work (Table 8).</li>
 <li>All ten papers had different IDs and titles, and none was marked as retracted in the saved data. The author cleaning removed two repeated entries; five of the remaining 75 author entries had no institution listed, which limits the affiliation summary (Tables 7 and 8; Quality check 3).</li>
 </ul>
@@ -10256,11 +10536,12 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <ul>
 <li>AI title matches were fairly flat relative to publishing in the early years shown: 0.60 per 10,000 articles and reviews in 2000, 0.55 in 2010, and 0.76 in 2015. The later increase was much larger, reaching 68.62 per 10,000 in 2025, so the rise was not just due to a larger yearly publication total (Table 14; Figure 1B).</li>
-<li>The rise in AI counts began well before 2023. The all-record count grew by 36% in 2016, 68% in 2017, 117% in 2018, and 73% in 2019 (Table 13).</li>
-<li>"Machine learning" had the most title matches in 2025, with 105,008 works, followed by "artificial intelligence" with 76,545. Their counts grew by 32% and 57%, respectively, from 2024 to 2025 (Table 12; Figure 1A).</li>
+<li>The rise in AI counts began well before 2023. The count of works with "artificial intelligence" in the title, across all types of work, grew by 36% in 2016, 68% in 2017, 117% in 2018, and 73% in 2019 (Table 13).</li>
+<li>"Machine learning" had the most title matches in 2025, with 105,008 works, followed by "artificial intelligence" with 76,545. AI was catching up: from 2024 to 2025, its count grew by 57%, compared with 32% for machine learning (Table 12; Figure 1A). Machine learning's raw count grew more slowly than the database as a whole, which grew by 34.7% (Table 11).</li>
+<li>Over the longer run, "machine learning" rose from 0.40 to 81.39 title matches per 10,000 articles and reviews between 2000 and 2025. Its adjusted rate overtook AI between 2000 and 2010, around 2005 in Figure 1B (Table 14; Figure 1B).</li>
 <li>"LLM" grew from 10,865 works in 2024 to 28,384 in 2025, an increase of 161%. "GPT" fell from 2,646 to 2,573, or about 3%. The much larger "ChatGPT" count of 8,812 in 2025 shows why the narrow "GPT" search is sensitive to wording (Tables 10 and 12).</li>
 <li>In Figure 1B, the LLM and GPT rates stayed near zero before the jump in 2023. From 2022 to 2023, LLM rose from 0.09 to 0.35 per 10,000 articles and reviews, and GPT rose from 0.08 to 1.01. LLM continued upward to 6.77 in 2025, while GPT leveled off at about 1.9 in 2024–2025 (Table 14; Figure 1B).</li>
-<li>Recent years account for much of the total: 98% of the "LLM" matches and 68% of the "artificial intelligence" matches from 2000–2025 were published in 2023–2025. These are changes in matching titles as well as publication activity, rather than a count of every paper about each topic (Tables 10 and 12).</li>
+<li>Recent years account for much of the total: 98% of the "LLM" matches and 68% of the "artificial intelligence" matches from 2000–2025 were published in 2023–2025. These are changes in matching titles as well as publication activity, rather than a count of every paper about each topic (Table 12).</li>
 </ul>
 </div>
 </div>
@@ -10810,6 +11091,7 @@ Data: OpenAlex Works API (<code>https://api.openalex.org/works</code>) and DataC
 <li>AI papers became more common within both medicine and computer science. The "Times higher" column shows that the rate per 1,000 papers in 2023–2025 was about 276 times the 2000–2015 rate in medicine and 34 times the earlier rate in computer science (Table 15; Figure 2B).</li>
 <li>Medicine's 276-fold increase starts from a small base: only 322 AI articles and reviews in 2000–2015, or 0.0269 per 1,000 papers in the field. The large ratio needs to be read alongside that starting count and the later rate of 7.42 per 1,000 (Table 15).</li>
 <li>Medicine contributed more AI papers in the latest period, but computer science had a higher rate within its own field: 19.41 per 1,000 papers compared with medicine's 7.42. Computer science's smaller share of all AI papers therefore does not mean AI became less common within computer science (Table 15; Figure 2).</li>
+<li>The takeaway is that AI title matches became less concentrated across fields, with much of the shift toward medicine already visible by 2016–2022; a field's share of AI papers and AI's prevalence within that field answer different questions (Tables 15 and 16; Figure 2).</li>
 </ul>
 </div>
 </div>
