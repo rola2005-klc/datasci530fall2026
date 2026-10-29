@@ -1,0 +1,1655 @@
+article_id,institution,city,country
+00012,Network Imaging Group; Max Planck Institute for Biological Cybernetics,Tübingen,Germany
+00012,"School of Computer and Communication Sciences and School of Life Sciences; Brain Mind Institute, Ecole Polytechnique Federale de Lausanne",Lausanne,Switzerland
+00012,Bernstein Center for Computational Neuroscience,Tübingen,Germany
+02265,Department of Anatomy and Neurobiology; Washington University School of Medicine,St Louis,United States
+02265,Program in Developmental Biology; Baylor College of Medicine,Houston,United States
+02265,Jan and Dan Duncan Neurological Research Institute at Texas Children’s Hospital; Baylor College of Medicine,Houston,United States
+02265,Department of Applied Science; The College of William and Mary,Williamsburg,United States
+02265,"Department of Molecular and Human Genetics; Howard Hughes Medical Institute, Baylor College of Medicine",Houston,United States
+02598,"Neuroscience Institute, Georgia State University",Atlanta,United States
+02938,"Department of Biology; Howard Hughes Medical Institute, Texas A&M University",College Station,United States
+02395,Max-Planck-Institute of Neurobiology,Martinsried,Germany
+02395,"Janelia Farm Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+02395,Graduate School of Life Sciences; Tohoku University,Sendai,Japan
+04380,Institute for Biophysical Dynamics; University of Chicago,Chicago,United States
+04380,Department of Physics; University of Chicago,Chicago,United States
+04380,James Franck Institute; University of Chicago,Chicago,United States
+04380,"Committee on Genetics, Genomics, and Systems Biology; University of Chicago",Chicago,United States
+04380,Department of Physics; Harvard University,Cambridge,United States
+04380,Center for Systems Biology; Harvard University,Cambridge,United States
+04378,"Department of Physiology and Pharmacology, Sackler Faculty of Medicine; Tel Aviv University",Tel Aviv,Israel
+04378,Sagol School of Neuroscience; Tel Aviv University,Tel Aviv,Israel
+04378,"Department of Neurobiology, Alexander Silberman Institute of Life Sciences; Hebrew University",Jerusalem,Israel
+04378,Edmond and Lily Safra Center for Brain Sciences; Hebrew University,Jerusalem,Israel
+04378,Mantis Vision,Kiryat Arie,Israel
+07192,"Picower Institute for Learning and Memory, Department of Brain and Cognitive Sciences; Massachusetts Institute of Technology",Cambridge,United States
+07192,"Laboratory for Neuroengineering, Department of Biomedical Engineering; Georgia Institute of Technology",Atlanta,United States
+07192,Department of Physiology; Emory University School of Medicine,Atlanta,United States
+07192,Axion Biosystems,Atlanta,United States
+10032,"Center for Brain Science, Department of Molecular and Cellular Biology; Harvard University",Cambridge,United States
+10032,Cold Spring Harbor Laboratory,Cold Spring Harbor,United States
+07832,"Department of Physiology, Anatomy & Genetics; University of Oxford",Oxford,United Kingdom
+07832,Lab of Sensorimotor Research; National Eye Institute,Bethesda,United States
+09215,Department of Neurology and Neurological Sciences; Stanford University,Stanford,United States
+09215,Department of Bioengineering; Stanford University,Stanford,United States
+09215,Department of Electrical Engineering; Stanford University,Stanford,United States
+09215,Cold Spring Harbor Laboratory,Cold Spring Harbor,United States
+09215,Department of Neurology; Weill Cornell Medical College,New York,United States
+09215,Department of Neurosurgery; Stanford University,Stanford,United States
+10111,"Department of Neurobiology; Howard Hughes Medical Institute, Harvard Medical School",Boston,United States
+10111,Department of Neurobiology; Northwestern University,Evanston,United States
+10781,Department of Radiology; Washington University in St. Louis,St. Louis,United States
+10781,Department of Neurology; Washington University in St. Louis,St. Louis,United States
+10781,Institute for Medical Psychology; Christian-Albrechts-Universität zu Kiel,Kiel,Germany
+10781,"Department of Neurology, Brain Imaging Center; Goethe-Universität Frankfurt am Main",Frankfurt,Germany
+10781,Department of Neurology; Christian-Albrechts-Universität zu Kiel,Kiel,Germany
+11346,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+11346,Division of Biology and Biological Engineering; California Institute of Technology,Pasadena,United States
+11346,"Howard Hughes Medical Institute, California Institute of Technology",Pasadena,United States
+12499,Max Planck Institute for Biophysical Chemistry,Göttingen,Germany
+14197,"Department of Organismic and Evolutionary Biology, Center for Brain Science; Harvard University",Cambridge,United States
+14197,"Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, School of Life Sciences; University of Science and Technology of China",Hefei,China
+14197,"Department of Physics, Center for Brain Science; Harvard University",Cambridge,United States
+14197,CAS Center for Excellence in Brain Science and Intelligence Technology; University of Science and Technology of China,Hefei,China
+14197,"Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital; University of Toronto",Toronto,Canada
+14116,Research Institute of Molecular Pathology; Vienna Biocenter VBC,Vienna,Austria
+14859,Department of Physics; Harvard University,Cambridge,United States
+14859,Center for Brain Science; Harvard University,Cambridge,United States
+14859,"EMBL-CRG Systems Biology Program; Centre for Genomic Regulation, The Barcelona Institute of Science and Technology",Barcelona,Spain
+14859,Universitat Pompeu Fabra,Barcelona,Spain
+14859,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+15932,Montreal Neurological Institute; McGill University,Montreal,Canada
+15932,Department of Biology; University of La Verne,La Verne,United States
+15932,Department of Physics; McGill University,Montreal,Canada
+15932,"Neuroscience Graduate Program; University of California, San Francisco",San Francisco,United States
+15932,Institut Universitaire en santé mentale de Québec; Université Laval,Québec,Canada
+15932,Department of Neuroscience; Johns Hopkins University School of Medicine,Baltimore,United States
+15932,Kennedy Krieger Institute,Baltimore,United States
+16879,Division of Biological Sciences; University of Missouri-Columbia,Columbia,United States
+16879,Department of Electrical and Computer Engineering; University of Missouri-Columbia,Columbia,United States
+16836,Department of Biology; University of Maryland,College Park,United States
+18103,Institute of Cognitive Neuroscience; University College London,London,United Kingdom
+18103,Wellcome Trust Centre for Neuroimaging; University College London,London,United Kingdom
+18103,Division of Neuroscience and Experimental Psychology; University of Manchester,Manchester,United Kingdom
+18103,Experimental Psychology; University College London,London,United Kingdom
+18103,Interacting Minds Centre; Aarhus University,Aarhus,Denmark
+18103,Danish Pain Research Center; Aarhus University Hospital,Aarhus,Denmark
+18103,Max Planck University College London Centre for Computational Psychiatry and Ageing Research,London,United Kingdom
+17282,"Motivation, Brain and Behavior team; Institut du Cerveau et de la Moelle épinière, Groupe Hospitalier Pitié-Salpêtrière",Paris,France
+17282,"INSERM UMRS 1127, CNRS UMR 7225, Université Pierre et Marie Curie (UPMC-P6)",Paris,France
+17282,"Cognitive Neuroimaging Unit, NeuroSpin Center; INSERM U992, Institut d'Imagerie Biomédicale, Direction de la recherche fondamentale, Commissariat à l'énergie atomique et aux énergies alternatives",Gif-sur-Yvette,France
+17282,Department of Psychiatry; University of Oxford,Oxford,United Kingdom
+17282,Warneford Hospital; University of Oxford,Oxford,United Kingdom
+17282,Neuroscience and Psychiatry Unit; The University of Manchester,Manchester,United Kingdom
+17282,Centre Hospitalier Sainte-Anne; Service de Psychiatrie,Paris,France
+17282,"Faculté de Médecine Paris Descartes; Université Paris Descartes, Sorbonne Paris Cité",Paris,France
+17282,"Laboratoire de Physiopathologie des maladies Psychiatriques, Centre de Psychiatrie et Neurosciences; INSERM U894, Université Paris Descartes, Sorbonne Paris Cité",Paris,France
+17282,"Human Histopathology and Animal Models, Department of Infection and Epidemiology; Institut Pasteur",Paris,France
+18607,"Department of Medicine; University of California, San Diego","La Jolla, CA",United States
+18607,Department of Psychiatry and Neuroscience; Université Laval,Québec,Canada
+18607,Centre de Recherche de l’Institut Universitaire en Santé Mentale de Québec; Université Laval,Québec,Canada
+18607,"Departments of Radiology and Neurosciences; University of California, San Diego","La Jolla, CA",United States
+18607,Department of Neurology; Massachusetts General Hospital and Harvard Medical School,Boston,United States
+19887,"Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital",Toronto,Canada
+19887,"Institute of Medical Science, University of Toronto",Toronto,Canada
+19887,Department of Physiology; University of Toronto,Toronto,Canada
+19887,Institut für Genetik; Technische Universität Braunschweig Carolo Wilhelmina,Braunschweig,Germany
+19887,"Key Laboratory of Modern Acoustics, Ministry of Education, Department of Physics; Nanjing University",Nanjing,China
+19887,Center for Brain Science; Harvard University,Cambridge,United States
+19887,Department of Physics; Harvard University,Cambridge,United States
+19887,Department of Cell and Developmental Biology; Vanderbilt University,Nashville,United States
+19887,FAS Center for Systems Biology; Harvard University,Cambridge,United States
+16962,"Department of Biology, Life Sciences Centre; Dalhousie University",Halifax,Canada
+16962,"Department of Psychology and Neuroscience, Life Sciences Centre; Dalhousie University",Halifax,Canada
+19695,Gatsby Computational Neuroscience Unit; University College London,London,United Kingdom
+19695,Institute of Neurology; University College London,London,United Kingdom
+19695,"Department of Neuroscience, Physiology and Pharmacology; University College London",London,United Kingdom
+19695,Institute of Ophthalmology; University College London,London,United Kingdom
+19695,MTA TTK NAP B Sleep Oscillations Research Group,Budapest,Hungary
+19695,Ear Institute; University College London,London,United Kingdom
+21126,Department of Biology; University of Miami,Coral Gables,United States
+21126,Department of Molecular Biophysics and Biochemistry; Yale University,New Haven,United States
+21126,Interdepartmental Neuroscience Program; Yale University,New Haven,United States
+19686,Centro Interdisciplinario de Neurociencias de Valparaíso; Universidad de Valparaiso,Valparaiso,Chile
+19686,Theodor-Boveri-Institute; University of Würzburg,Würzburg,Germany
+16799,"Department of Molecular Brain Physiology and Behavior; LIMES Institute, University of Bonn",Bonn,Germany
+16799,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+20362,Consejo Superior de Investigaciones Científicas; Instituto Cajal,Madrid,Spain
+20362,"Cellular and Systems Neurobiology, Systems Biology Program, Centre for Genomic Regulation; The Barcelona Institute of Science and Technology",Barcelona,Spain
+20362,Department of Neuroscience; University of Minnesota,Minneapolis,United States
+20362,"Albacete Science and Technology Park, Institute for Research in Neurological Disabilities; University of Castilla-La Mancha",Albacete,Spain
+20362,"Department of Neurophysiology, Faculty of Medicine; Ruhr University Bochum",Bochum,Germany
+20362,"Molecular Physiology, Center for Integrative Physiology and Molecular Medicine; University of Saarland",Homburg,Germany
+20362,"Center of Neurobiology and Brain Plasticity, Institute of Physiology, Faculty of Science; Universidad de Valparaíso",Valparaiso,Chile
+20362,Department of Neuroscience; Johns Hopkins School of Medicine,Baltimore,United States
+20362,Department of Biomedicine; University of Basel,Basel,Switzerland
+20975,Champalimaud Neuroscience Program; Champalimaud Centre for the Unknown,Lisbon,Portugal
+20975,School of Medicine; University of California,Irvine,United States
+22771,"Skirball Institute for Biomolecular Medicine; The Helen L. and Martin S. Kimmel Center for Biology and Medicine, Department of Cell Biology, NYU Langone School of Medicine",New York,United States
+20552,Champalimaud Research; Champalimaud Centre for the Unknown,Lisbon,Portugal
+20552,MIT-Portugal Program,Porto Salvo,Portugal
+20552,"Institut de Biologie de l’Ecole Normale Supérieure, Centre National de la Recherche Scientifique, UMR8197, Institut National de la Santé et de la Recherche Médicale",Paris,France
+22896,Basic Sciences Division; Fred Hutchinson Cancer Research Center,Seattle,United States
+22526,"State Key Laboratory of Integrated Management of Pest Insects and Rodents; Institute of Zoology, Chinese Academy of Sciences",Beijing,China
+22526,Beijing Institutes of Life Science; Chinese Academy of Sciences,Beijing,China
+23232,Department of Neurophysiology and Pathophysiology; University Medical Center Hamburg-Eppendorf,Hamburg,Germany
+23232,Department of Psychology; University of Amsterdam,Amsterdam,The Netherlands
+23232,Amsterdam Brain & Cognition; University of Amsterdam,Amsterdam,The Netherlands
+23232,Max Planck UCL Centre for Computational Psychiatry and Ageing Research; Max Planck Institute for Human Development,Berlin,Germany
+23232,Department of Experimental and Applied Psychology; Vrije Universiteit Amsterdam,Amsterdam,The Netherlands
+23232,"Institute of Psychology, Leiden University",Leiden,The Netherlands
+22169,"Donders Institute for Brain, Cognition and Behaviour; Radboud University",Nijmegen,The Netherlands
+22169,School of Psychology; University of Birmingham,Birmingham,United Kingdom
+22169,Department of Psychiatry; Radboud University Medical Center,Nijmegen,The Netherlands
+22169,"Department of Cognitive; Linguistic and Psychological Sciences, Brown University",Providence,United States
+22169,Brown Institute for Brain Sciences; Brown University,Providence,United States
+21629,"Department of Biological Sciences, Graduate School of Science; Osaka University",Toyonaka,Japan
+21629,Faculty of Science and Technology; Tohoku Bunka Gakuen University,Sendai,Japan
+21629,Centre for Integrative Physiology; The University of Edinburgh,Edinburgh,United Kingdom
+21629,"Graduate Shool of Science and Engineering, Brain and Body System Science Institute; Saitama University",Saitama,Japan
+21629,"Department of Biological Sciences, Graduate School of Science; The University of Tokyo",Tokyo,Japan
+21629,Department of Intelligent Systems Engineering; Ibaraki University,Hitachi,Japan
+21629,Graduate School of Information Sciences; Tohoku University,Sendai,Japan
+23978,Program for Neural Computation; Carnegie Mellon University and University of Pittsburgh,Pittsburgh,United States
+23978,Department of Mathematics; University of Pittsburgh,Pittsburgh,United States
+23978,Center for the Neural Basis of Cognition,Pittsburgh,United States
+23978,Allen Institute for Brain Science,Seattle,United States
+23978,Department of Neuroscience; University of Pittsburgh,Pittsburgh,United States
+25770,"Biocenter, Institute for Zoology; University of Cologne",Cologne,Germany
+25770,Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases,Cologne,Germany
+25770,Max Planck Institute for Metabolism Research,Cologne,Germany
+25770,Center of Molecular Medicine Cologne; University of Cologne,Cologne,Germany
+25770,"Center for Endocrinology, Diabetes and Preventive Medicine; University Hospital Cologne",Cologne,Germany
+25770,Cologne Center for Genomics; University of Cologne,Cologne,Germany
+25770,Bioinformatics Facility; Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases,Cologne,Germany
+25382,Department of Mathematical Sciences; New Jersey Institute of Technology,Newark,United States
+25382,Federated Department of Biological Sciences; NJIT and Rutgers University,Newark,United States
+27342,"Department of Neuroscience; The Chicago Medical School, Rosalind Franklin University of Medicine and Science",Illinois,United States
+27342,"Department of Cell Biology and Anatomy; The Chicago Medical School, Rosalind Franklin University of Medicine and Science",Illinois,United States
+27342,"Faculty of Biology, Medicine, and Health; University of Manchester",Manchester,United Kingdom
+18247,"Department of Anesthesiology, Division of Basic Research; Washington University School of Medicine",St. Louis,United States
+18247,Washington University Pain Center; Washington University School of Medicine,St. Louis,United States
+18247,Department of Neuroscience; Washington University School of Medicine,St. Louis,United States
+18247,Division of Biology and Biomedical Sciences; Washington University School of Medicine,St. Louis,United States
+18247,Department of Psychiatry; University of North Carolina,Chapel Hill,United States
+18247,Bowles Center for Alcohol Studies; University of North Carolina,Chapel Hill,United States
+18247,Department of Cell Biology and Physiology; University of North Carolina,Chapel Hill,United States
+18247,Neuroscience Center; University of North Carolina,Chapel Hill,United States
+18247,Department of Biomedical Engineering; Washington University,St. Louis,United States
+28387,Department of Biology; University of Fribourg,Fribourg,Switzerland
+28387,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+25819,"Department of Psychology, Hunter College; City University of New York",New York,United States
+25819,Department of Radiology; Weill Cornell Medicine,New York,United States
+25819,Department of Psychology; Graduate Center of the City University of New York,New York,United States
+25819,Department of Biology; Graduate Center of the City University of New York,New York,United States
+25819,Department of Neurology; Houston Methodist Research Institute,Houston,United States
+27069,Department of Physics; University at Buffalo,Buffalo,United States
+27069,Department of Physics; Philipps University Marburg,Marburg,Germany
+27069,"CIC biomaGUNE, Paseo Miramón 182",San Sebastian,Spain
+29893,Department of Otolaryngology; University of Pittsburgh,Pittsburgh,United States
+29893,The Third Xiangya Hospital; Central South University,Changsha,China
+29055,"Department of Pharmacology, School of Basic Medical Science; Fudan University",Shanghai,China
+29055,"State Key Laboratory of Medical Neurobiology, Institutes of Brain Science and Collaborative Innovation Center for Brain Science; Fudan University",Shanghai,China
+29055,"Department of Anatomy, Histology and Embryology, School of Basic Medical Science; Fudan University",Shanghai,China
+29055,International Institute for Integrative Sleep Medicine; University of Tsukuba,Tsukuba,Japan
+29055,"Laboratory of Neurophysiology, ULB Neuroscience Institute; Université Libre de Bruxelles",Brussels,Belgium
+27602,"Focus Program Translational Neurosciences, Institute for Microscopic Anatomy and Neurobiology; Johannes Gutenberg-University Mainz",Mainz,Germany
+27602,"GRADE Brain, Goethe Graduate Academy; Goethe University Frankfurt am Main",Frankfurt,Germany
+27602,Department of Clinical Radiology; University Hospital Münster,Münster,Germany
+31234,Lulu and Anthony Wang Laboratory of Neural Circuits and Behavior; The Rockefeller University,New York,United States
+32640,"Aix Marseille Univ, INSERM, INMED",Marseille,France
+32640,Department of Women's and Children's Health; Karolinska Institute,Solna,Sweden
+32640,"Université Paris 13, UFR STAPS",Paris,France
+32640,Department of Neurosciences; Case Western Reserve University,Cleveland,United States
+32640,"UPMC Univ Paris 6, Institut du Fer à Moulin, INSERM",Paris,France
+32640,"Lyon Neuroscience Research Center; Université de Lyon, INSERM, CNRS",Lyon,France
+32640,"Aix Marseille Univ, CNRS, IBDM",Marseille,France
+29917,The Children’s Hospital of Philadelphia; University of Pennsylvania,Philadelphia,United States
+29797,"Laboratory of Molecular Biology; National Institute of Mental Health, National Institutes of Health",Bethesda,United States
+29797,"National Institute of General Medical Sciences, National Institutes of Health",Bethesda,United States
+31991,"Department of Psychiatry; University of California, San Francisco",San Francisco,United States
+31991,"Department of Neurology; University of California, San Francisco",San Francisco,United States
+31991,"Weill Institute for Neurosciences; University of California, San Francisco",San Francisco,United States
+31991,"Kavli Institute for Fundamental Neuroscience; University of California, San Francisco",San Francisco,United States
+31991,"Neuroscience Graduate Program; University of California, San Francisco",San Francisco,United States
+30150,Virginia Tech Carilion Research Institute,Roanoke,United States
+30150,Department of Psychology; Virginia Tech,Blacksburg,United States
+30150,"School of Psychological and Cognitive Sciences; IDG/McGovern Institute for Brain Research, Beijing Key Laboratory of Behavior and Mental Health, Peking–Tsinghua Center for Life Sciences, Peking University",Beijing,China
+30150,University of Hawaii,Hilo,United States
+30150,Salem Veterans Affairs Medical Center,Salem,United States
+30150,School of Biomedical Engineering and Sciences; Virginia Tech-Wake Forest University,Blacksburg,United States
+31373,"Department of Molecular and Cellular Biology, Center for Brain Science; Howard Hughes Medical Institute, Harvard University",Cambridge,United States
+32237,Department of Neuroscience; University of Minnesota,Minneapolis,United States
+31130,Department of Psychology; Stanford University,Stanford,United States
+31130,Central Clinical School; The University of Sydney,Sydney,Australia
+31130,QIMR Berghofer Medical Research Institute,Brisbane,Australia
+31130,Metro North Mental Health Service,Brisbane,Australia
+32054,Krembil Research Institute,Toronto,Canada
+32054,FE12 - Data Assimilation; Deutscher Wetterdienst,Offenbach am Main,Germany
+32054,Department of Psychiatry; University of North Carolina at Chapel Hill,Chapel Hill,United States
+33220,Department of Psychiatry; Perelman School of Medicine at the University of Pennsylvania,Philadelphia,United States
+33220,"Department of Bioengineering, School of Engineering and Applied Science; University of Pennsylvania",Philadelphia,United States
+33220,Department of Neurology; Perelman School of Medicine at the University of Pennsylvania,Philadelphia,United States
+33220,Chronobiology Program; Perelman School of Medicine at the University of Pennsylvania,Philadelphia,United States
+33220,Center for Sleep and Circadian Neurobiology; Perelman School of Medicine at the University of Pennsylvania,Philadelphia,United States
+33220,Department of Neuroscience; Perelman School of Medicine at the University of Pennsylvania,Philadelphia,United States
+32058,Erik Jonsson School of Engineering and Computer Science; The University of Texas at Dallas,Richardson,United States
+32058,Texas Biomedical Device Center,Richardson,United States
+32058,School of Behavioral Brain Sciences; The University of Texas at Dallas,Richardson,United States
+32058,Department of Neurology and Neurotherapeutics; University of Texas Southwestern Medical Center,Dallas,United States
+32510,Okinawa Institute of Science and Technology Graduate University,Okinawa,Japan
+34031,Department of Neuroscience; Baylor College of Medicine,Houston,United States
+34031,"Jan and Dan Duncan Neurological Research Institute, Texas Children’s Hospital",Houston,United States
+34031,Department of Molecular and Human Genetics; Baylor College of Medicine,Houston,United States
+34031,Graduate Program in Quantitative and Computational Biosciences; Baylor College of Medicine,Houston,United States
+34031,"Section of Neurology, Department of Pediatrics; Baylor College of Medicine",Houston,United States
+34031,"Howard Hughes Medical Institute, Baylor College of Medicine",Houston,United States
+33892,Department of Neurobiology; Northwestern University,Evanston,United States
+33006,"Neurobiology Section, Center for Neural Circuits and Behavior; University of California, San Diego",San Diego,United States
+33006,"Department of Neurosciences; University of California, San Diego",San Diego,United States
+33006,"Medical Innovation Center/SK Project, Graduate School of Medicine; Kyoto University",Kyoto,Japan
+33006,Graduate School of Biostudies; Kyoto University,Kyoto,Japan
+32605,"NeuroTechnology Center, Department of Biological Sciences; Columbia University",New York,United States
+34550,Centre for Neural Circuits and Behaviour; The University of Oxford,Oxford,United Kingdom
+33746,"Departamento de Ciencias Fisiológicas, Instituto de Fisiología y Biofísica Bernardo Houssay; Facultad de Medicina, Universidad de Buenos Aires, CONICET",Buenos Aires,Argentina
+33746,"Instituto de Neurociencia Cognitiva y Translacional; Universidad Favaloro, INECO, CONICET",Buenos Aires,Argentina
+33746,"Instituto de Biologia Celular y Neurociencias; Universidad de Buenos Aires, CONICET",Buenos Aires,Argentina
+33321,"Laboratoire de neurosciences cognitives, Département d’études cognitives; École normale supérieure, INSERM, PSL Research University",Paris,France
+33321,Fondation Campus Biotech Geneva,Geneva,Switzerland
+33321,Centre de NeuroImagerie de Recherche; Institut du Cerveau et de la Moelle épinière - ICM,Paris,France
+32740,Netherlands Institute for Neuroscience; Royal Netherlands Academy of Art and Sciences (KNAW),Amsterdam,Netherlands
+32740,"Department of Psychology, Center for Studies and Research in Cognitive Neuroscience; University of Bologna",Cesena,Italy
+32740,IRCCS Fondazione Santa Lucia,Rome,Italy
+32740,"Department of Psychiatry and Psychotherapy, Social Neuroscience Lab; University of Lübeck",Lübeck,Germany
+32740,Faculty of Social and Behavioural Sciences; University of Amsterdam,Amsterdam,Netherlands
+31034,"Department of Physiology; University of California, San Francisco",San Francisco,United States
+31034,"Center for Integrative Neuroscience; University of California, San Francisco",San Francisco,United States
+31034,Departments of Bioengineering and Electrical Engineering; University of Washington,Seattle,United States
+31034,"UC Berkeley – UCSF Graduate Program in Bioengineering; University of California, San Francisco",San Francisco,United States
+37325,Department of Pharmacology and Physiology; Georgetown University,Washington,United States
+37325,Laboratory of Neuropsychology; National Institute of Mental Health,Maryland,United States
+37325,Interdisciplinary Program in Neuroscience; Georgetown University,Washington,United States
+37325,Department of Neuroscience; Georgetown University,Washington,United States
+35960,Department of Psychiatry; Beth Israel Deaconess Medical Center,Boston,United States
+35960,Department of Psychiatry; Massachusetts General Hospital,Massachusetts,United States
+35960,Harvard Medical School,Massachusetts,United States
+35960,McLean Hospital,Boston,United States
+35960,"Department of Medicine, Division of Endocrinology, Diabetes and Hypertension; Brigham and Women’s Hospital",Boston,United States
+35960,"Department of Medicine, Division of Endocrinology, Diabetes and Metabolism; Beth Israel Deaconess Medical Center",Boston,United States
+35960,"Centre for Neuroendocrinology, Otago School of Medical Sciences; University of Otago",Dunedin,New Zealand
+35960,Department of Neuroscience; Tufts University School of Medicine,Massachusetts,United States
+35960,Sackler School of Graduate Biomedical Sciences; Tufts University,Boston,United States
+34275,Janelia Research Campus; Howard Hughes Medical Institute,Ashburn,United States
+34275,Research Center for Advanced Science and Technology; University of Tokyo,Tokyo,Japan
+34275,Department of Physics; Emory University,Atlanta,Georgia
+34275,The Lewis-Sigler Institute for Integrative Genomics; Princeton University,Princeton,United States
+34275,Department of Physics; Princeton University,Princeton,United States
+34275,Department of Biology; Emory University,Atlanta,Georgia
+34171,RIKEN Center for Brain Science,Wako,Japan
+33503,Department of Psychology; The University of California,Berkeley,United States
+33503,Department of Physics; The University of Texas,Austin,United States
+33503,Center for Learning and Memory; The University of Texas,Austin,United States
+33752,Institute of Cognitive Neuroscience; University College London,London,United Kingdom
+37487,"Neuroscience Paris Seine – Institut de Biologie Paris Seine (NPS – IBPS); Sorbonne Université, INSERM, CNRS",Paris,France
+37487,"Unité de Neurobiologie Intégrative des Systèmes Cholinergiques, Department of Neuroscience; Institut Pasteur",Paris,France
+37487,Department of Chemistry; New York University,New York,United States
+37487,Department of Molecular and Cell Biology; University of California Berkeley,Berkeley,United States
+36460,"Department Neurosurgery; Massachusetts General Hospital, Harvard Medical School",Boston,United States
+36460,"Department of Neurology; Massachusetts General Hospital, Harvard Medical School",Boston,United States
+36460,Department of Neurosurgery; Baylor College of Medicine,Houston,United States
+36460,"Department of Psychiatry; Massachusetts General Hospital, Harvard Medical School",Boston,United States
+36460,"Department of Cognitive, Linguistic and Psychological Sciences; Brown University",Providence,United States
+37683,"Center for Neuroscience, Swammerdam Institute for Life Sciences; University of Amsterdam",Amsterdam,Netherlands
+37683,Research Priority Program Brain and Cognition; University of Amsterdam,Amsterdam,Netherlands
+39016,"Spinal Cord and Brain Injury Research Group, Stark Neurosciences Research Institute; Indiana University School of Medicine",Indianapolis,United States
+39016,Department of Neurological Surgery; Indiana University School of Medicine,Indianapolis,United States
+39016,Neural Tissue Engineering Research Institute; Mudanjiang College of Medicine,Mudanjiang,China
+39016,"Department of Anatomy, Histology and Embryology; School of Basic Medical Sciences, Fudan University",Shanghai,China
+39016,Norton Neuroscience Institute; Norton Healthcare,Louisville,United States
+39016,"Program in Medical Neuroscience, Paul and Carole Stark Neurosciences Research Institute; Indiana University School of Medicine",Indiana,United States
+39016,"Program in Neuroscience, Department of Psychological and Brain Sciences; Indiana University",Bloomington,United States
+39016,Department of Anatomy and Cell Biology; Indiana University School of Medicine,Indianapolis,United States
+39016,"Shriners Hospitals Pediatric Research Center; Lewis Katz School of Medicine, Temple University",Philadelphia,United States
+34997,"Buchmann Institute for Molecular Life Sciences, Goethe University",Frankfurt,Germany
+34997,"Institute for Biophysical Chemistry, Goethe University",Frankfurt,Germany
+34997,"Cluster of Excellence Frankfurt Macromolecular Complexes, Goethe University",Frankfurt,Germany
+34997,"Department of Biology; Functional Genomics and Proteomics Unit, Katholieke Universiteit Leuven",Leuven,Belgium
+34997,International Max Planck Research School in Structure and Function of Biological Membranes,Frankfurt,Germany
+37275,Department of Psychological and Brain Sciences; Dartmouth College,Hanover,United States
+37857,Department of Genetics; Harvard Medical School,Boston,United States
+37857,Department of Molecular & Systems Biology; The Geisel School of Medicine at Dartmouth,Hanover,United States
+38281,Department of Physiology and Biophysics; University of Washington,Seattle,United States
+40048,Department of Molecular Genetics; University of Texas Southwestern Medical Center,Dallas,United States
+40048,Center for Translational Neurodegeneration Research; University of Texas Southwestern Medical Center,Dallas,United States
+40048,Jkb Consult Inc SPRL,Brussels,Belgium
+40048,Department of Psychiatry; University of Texas Southwestern Medical Center,Dallas,United States
+40048,Department of Neuroscience; University of Texas Southwestern Medical Center,Dallas,United States
+40048,Department of Neurology and Neurotherapeutics; University of Texas Southwestern Medical Center,Dallas,United States
+40247,"Department of Molecular Brain Physiology and Behavior, LIMES Institute; University of Bonn",Bonn,Germany
+40247,Department of Zoology; University of Cambridge,Cambridge,United Kingdom
+40247,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+40247,"Department of Biochemistry and Biophysics; University of California, San Francisco",San Francisco,United States
+40247,"Department of Physiology, Development and Neuroscience; University of Cambridge",Cambridge,United Kingdom
+40843,Neural Control of Movement Lab; ETH Zürich,Zürich,Switzerland
+40843,Institute of Neuroscience; Trinity College Dublin,Dublin,Ireland
+40843,Department of Psychology; Royal Holloway University of London,London,United Kingdom
+40843,Movement Control and Neuroplasticity Research Group; KU Leuven,Leuven,Belgium
+40843,Applied Neurotechnology Laboratory; University of Tübingen,Tübingen,Germany
+40843,"Clinical Neurotechnology Laboratory, Neuroscience Research Center (NWFZ), Department of Psychiatry and Psychotherapy; Charité – University Medicine Berlin",Berlin,Germany
+40671,"Neuroeconomics, reward and decision making group; Institut des Sciences Cognitives Marc Jeannerod, CNRS, UMR 5229 and Université Claude Bernard (UCBL), Lyon 1",Bron,France
+40671,Fundación de Investigación HM Hospitales; HM Hospitales – Centro Integral en Neurociencias HM CINAC,Madrid,Spain
+40671,"Laboratory for Social and Neural Systems Research, Department of Economics; University of Zurich",Zurich,Switzerland
+39111,Department of Fundamental Neurosciences; University of Lausanne,Lausanne,Switzerland
+40487,"Department of Molecular, Cellular and Developmental Biology; University of California, Santa Barbara",Santa Barbara,United States
+40487,Department of Biological Chemistry; The Johns Hopkins University School of Medicine,Baltimore,United States
+40487,"Neuroscience Research Institute; University of California, Santa Barbara",Santa Barbara,United States
+43558,Sensory and Behavioural Neuroscience Unit; Okinawa Institute of Science and Technology Graduate University,Okinawa,Japan
+43558,Neurophysiology of Behaviour Laboratory; The Francis Crick Institute,London,United Kingdom
+43558,"Department of Neuroscience,Physiology and Pharmacology; University College London",London,United Kingdom
+44158,Department of Neuroscience; Columbia University,New York,United States
+44158,Kavli Institute for Brain Science; Columbia University,New York,United States
+44158,Zuckerman Mind Brain Behavior Institute; Columbia University,New York,United States
+40541,"Wellcome Centre for Integrative Neuroimaging (WIN), Department of Experimental Psychology; University of Oxford",Oxford,United Kingdom
+40541,"Wellcome Centre for Integrative Neuroimaging (WIN), Centre for Functional MRI of the Brain (FMRIB), Nuffield Department of Clinical Neurosciences; John Radcliffe Hospital, University of Oxford",Oxford,United Kingdom
+40541,"Institute du Cerveau et de la Moelle épinière (ICM), Centre for NeuroImaging Research (CENIR); Inserm U 1127, CNRS UMR 7225, Sorbonne Université",Paris,France
+40541,"Physics for Medicine Paris; Inserm, ESPCI Paris, CNRS, PSL Research University, Université Paris Diderot, Sorbonne Paris Cité",Paris,France
+40541,"Department of Physiology, Anatomy and Genetics; University of Oxford",Oxford,United Kingdom
+40541,"Donders Institute for Brain, Cognition and Behaviour; Radboud University Nijmegen",Nijmegen,The Netherlands
+40541,"Institute du Cerveau et de la Moelle épinière (ICM); UMRS 975 INSERM, CNRS 7225, UMPC",Paris,France
+40541,"Physics for Medicine Paris; Inserm, ESPCI Paris, CNRS, PSL Research University",Paris,France
+42409,Skirball Institute for Biomolecular Medicine; New York University School of Medicine,New York,United States
+42409,Neuroscience Institute; New York University School of Medicine,New York,United States
+42409,Department of Otolaryngology; New York University School of Medicine,New York,United States
+42409,Department of Neuroscience and Physiology; New York University School of Medicine,New York,United States
+42409,Center for Neural Science; New York University,New York,United States
+42409,Department of Neuroscience; Columbia University,New York,United States
+42409,Kavli Institute of Brain Science; Columbia University,New York,United States
+42409,Princeton Neuroscience Institute; Princeton University,Princeton,United States
+42409,Department of Neuroscience; Icahn School of Medicine at Mount Sinai,New York,United States
+42409,Friedman Brain Institute; Icahn School of Medicine at Mount Sinai,New York,United States
+42409,"Helen Wills Neuroscience Institute; University of California, Berkeley",Berkeley,United States
+42409,"Department of Physics; University of California, Berkeley",Berkeley,United States
+42409,Department of Natural Sciences; Fordham University,New York,United States
+42409,"Howard Hughes Medical Institute, New York University School of Medicine",New York,United States
+39404,"Wellcome Centre for Integrative Neuroimaging, Centre for Functional Magnetic Resonance Imaging of the Brain; University of Oxford, John Radcliffe Hospital",Oxford,United Kingdom
+39404,"Donders Institute for Brain, Cognition and Behaviour; Radboud University",Nijmegen,The Netherlands
+39404,"Wellcome Centre for Human Neuroimaging, Institute of Neurology; University College London",London,United Kingdom
+39404,Department of Experimental Psychology; University of Oxford,Oxford,United Kingdom
+43696,"Helen Wills Neuroscience Institute; University of California, Berkeley",Berkeley,United States
+43696,"Department of Molecular and Cell Biology; University of California, Berkeley",Berkeley,United States
+43696,Department of Statistical Sciences; University of Padova,Padova,Italy
+43696,"Division of Biostatistics and Epidemiology, Department of Healthcare Policy and Research; Weill Cornell Medicine",New York,United States
+43696,"Department of Biophysics; University of California, Berkeley",Berkeley,United States
+43696,Neurobiology and Behavior Program; Columbia University,New York,United States
+43696,Center for Theoretical Neuroscience; Columbia University,New York,United States
+43696,Departments of Statistics and Neuroscience; Columbia University,New York,United States
+43696,Grossman Center for the Statistics of Mind; Columbia University,New York,United States
+43696,"QB3 Functional Genomics Laboratory; University of California, Berkeley",Berkeley,United States
+42135,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+42541,Institute of Neuroscience; Newcastle University,Newcastle upon Tyne,United Kingdom
+42541,"Monash Institute for Cognitive and Clinical Neurosciences, School of Psychological Sciences; Monash University",Melbourne,Australia
+42541,School of Engineering; Trinity College Dublin,Dublin,Ireland
+42541,Trinity College Institute of Neuroscience; Trinity College Dublin,Dublin,Ireland
+42541,School of Electrical and Electronic Engineering; University College Dublin,Dublin,Ireland
+42541,School of Psychology; Trinity College Dublin,Dublin,Ireland
+44903,Department of Neurobiology; Northwestern University,Evanston,United States
+43281,"Special Lab Primate Neurobiology, Leibniz Institute for Neurobiology",Magdeburg,Germany
+43281,"Center for Behavioral Brain Sciences, Otto-von-Guericke-University",Magdeburg,Germany
+43281,Department Systems Physiology of Learning; Leibniz Institute for Neurobiology,Magdeburg,Germany
+44526,Champalimaud Center for the Unknown,Lisbon,Portugal
+44526,Institute for Ophthalmic Research; University of Tübingen,Tübingen,Germany
+44526,Neuroscience and Motor Control Group; University of A Coruña,Coruña,Spain
+41925,"Department of Neuroscience, School of Medicine; University of Pennsylvania",Philadelphia,United States
+43415,National Centre for Biological Sciences; Tata Institute of Fundamental Research,Bangalore,India
+47677,"Department of Neuroscience, The Mortimer B Zuckerman Mind Brain Behavior Institute; Columbia University",New York,United States
+47677,"Howard Hughes Medical Institute, Columbia University",New York,United States
+46911,Federated Department of Biological Sciences; New Jersey Institute of Technology and Rutgers University,Newark,United States
+46911,Department of Mathematical Sciences; New Jersey Institute of Technology,Newark,United States
+45045,"Institute of Psychiatry, Psychology and Neuroscience (IOPPN); King’s College London",London,United Kingdom
+45045,MRC London Institute of Medical Sciences (LMS); Hammersmith Hospital,London,United Kingdom
+45045,Institute of Clinical Sciences; Imperial College London,London,United Kingdom
+45045,Max Planck UCL Centre for Computational Psychiatry and Ageing Research; University College London,London,United Kingdom
+45045,Wellcome Centre for Human Neuroimaging (WCHN); University College London,London,United Kingdom
+45045,Department of Psychiatry; University of Oxford,Oxford,United Kingdom
+45045,Institute of Cognitive Neuroscience (ICN); University College London,London,United Kingdom
+45045,Division of Psychiatry; University College London,London,United Kingdom
+45045,Imanova Centre for Imaging Sciences (Invicro Ltd); Hammersmith Hospital,London,United Kingdom
+46814,Departmentof Neuroscience; University of Pennsylvania,Philadelphia,United States
+46814,Department of Anesthesiology and Critical Care; University of Pennsylvania,Philadelphia,United States
+46846,Department of Neuroscience; The University of Pennsylvania Perelman School of Medicine,Philadelphia,United States
+46846,The Medical Scientist Training Program; The University of Pennsylvania Perelman School of Medicine,Philadelphia,United States
+46846,"Division of Neurology, Department of Pediatrics; The Children's Hospital of Philadelphia",Philadelphia,United States
+46846,Department of Neurology; The University of Pennsylvania Perelman School of Medicine,Philadelphia,United States
+48264,"Department of Physiology and Pharmacology, Sackler School of Medicine; Tel Aviv University",Tel Aviv,Israel
+48264,Department of Biomedical Science; University of Sheffield,Sheffield,United Kingdom
+48264,Institute for Biology; University of Leipzig,Leipzig,Germany
+48264,Sagol School of Neuroscience; Tel Aviv University,Tel Aviv,Israel
+48788,"Department of Neurosciences; School of Medicine, Case Western Reserve University",Cleveland,United States
+49154,"Chair of Lifespan Developmental Neuroscience, Faculty of Psychology; Technische Universität Dresden",Dresden,Germany
+49154,Department of Psychology; Harvard University,Cambridge,United States
+49154,Department of Psychological & Brain Sciences; Washington University in St. Louis,St. Louis,United States
+49154,Wellcome Centre for Human Neuroimaging; University College London,London,United Kingdom
+49154,Max Planck UCL Centre for Computational Psychiatry and Ageing Research,London,United Kingdom
+49154,Department of Psychology; Concordia University,Montreal,Canada
+49154,PERFORM centre; Concordia University,Montreal,Canada
+49574,"Department of Molecular, Cellular and Developmental Biology, and the Neuroscience Research Institute; University of California, Santa Barbara",Santa Barbara,United States
+49574,Institute of Insect Sciences; Zhejiang University,Hangzhou,China
+46464,"Department of Neurobiology; Howard Hughes Medical Institute, Harvard Medical School",Boston,United States
+46464,Image and Data Analysis Core; Harvard Medical School,Boston,United States
+47869,"Donders Institute for Brain, Cognition and Behaviour; Radboud University Nijmegen",Nijmegen,Netherlands
+42766,"Carl-Ludwig-Institute for Physiology, Medical Faculty; University Leipzig",Leipzig,Germany
+42766,Institute of Science and Technology Austria (IST Austria),Klosterneuburg,Austria
+42766,Department of Neurogenetics; Max-Planck-Institute for Experimental Medicine,Göttingen,Germany
+42766,"Department of Axonal Signaling, Netherlands Institute for Neuroscience; Royal Netherlands Academy of Arts and Sciences",Amsterdam,Netherlands
+42766,"Cell Biology, Faculty of Science; University of Utrecht",Padualaan,Netherlands
+49053,"Department of Neurology, Feinberg School of Medicine; Northwestern University",Chicago,United States
+49053,"School of Exercise and Nutritional Sciences, College of Health and Human Services; San Diego State University",San Diego,United States
+49053,"Department of Neurology, Perelman School of Medicine; University of Pennsylvania",Philadelphia,United States
+49053,"Department of Psychology, School of Arts and Sciences; University of Pennsylvania",Philadelphia,United States
+49053,"Department of Psychiatry and Behavioral Sciences, Feinberg School of Medicine; Northwestern University",Chicago,United States
+49053,"Department of Psychology, Weinberg College of Arts and Sciences; Northwestern University",Evanston,United States
+49424,Department of Biology and Howard Hughes Medical Institute; Stanford University,Stanford,United States
+49424,Department of Bioengineering; Stanford University,Stanford,United States
+49424,Department of Applied Physics; Stanford University,Stanford,United States
+49424,National Institute of Biological Science,Beijing,China
+49424,Department of Neurobiology; Stanford University School of Medicine,Stanford,United States
+49424,"Britton Chance Center for Biomedical Photonics; Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST)",Wuhan,China
+49424,"HUST-Suzhou Institute for Brainsmatics, JITRI Institute for Brainsmatics",Suzhou,China
+49424,School of Life Science; Tsinghua University,Beijing,China
+49424,Chan Zuckerberg Biohub,San Francisco,United States
+47611,Department of Neuroscience; Washington University School of Medicine,St. Louis,United States
+50401,"Interdisciplinary Institute for Neuroscience, Université de Bordeaux",Bordeaux,France
+50401,Interdisciplinary Institute for Neuroscience CNRS UMR 5297,Bordeaux,France
+50401,Department of Molecular Neurobiology; Max Planck Institute of Experimental Medicine,Göttingen,Germany
+50401,"Neuroscience Paris Seine NPS, Université Pierre et Marie Curie INSERM U1130 CNRS UMR8246",Paris,France
+50401,"Bordeaux Imaging Center, Université de Bordeaux, CNRS UMS 3420, INSERM US4",Bordeaux,France
+50401,"Institut Pasteur, CNRS UMR 3571, Unité NISC",Paris,France
+50401,"Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA), Direction de laRecherche Fondamentale (DRF), Institut de Biologie François Jacob (IBFJ), MolecularImaging Research Center (MIRCen)",Fontenay-aux-Roses,France
+50401,"Department of Psychiatry; Douglas Mental Health University Institute, McGill University",Montreal,Canada
+49115,Department of Psychiatry; The Zucker Hillside Hospital,Glen Oaks,United States
+49115,"Center for Neuroscience, Feinstein Institute for Medical Research",Manhasset,United States
+49115,Department of Psychiatry; Zucker School of Medicine,Hempstead,United States
+49115,Department of Clinical Medicine; University of Bergen,Bergen,Norway
+49115,"Department of Radiology; Haukeland University Hospital, Mohn Medical Imaging and Visualization Centre",Bergen,Norway
+49115,Experimental Therapeutics and Pathophysiology Branch; National Institute of Mental Health,Bethesda,United States
+49115,"Department of Neurology, Ahmanson-Lovelace Brain Mapping Center; University of California, Los Angeles",Los Angeles,United States
+49115,Department of Biomedical Engineering; The City College of the City University of New York,New York,United States
+49115,"Center for Multimodal Imaging and Genetics; University of California, San Diego",San Diego,United States
+49115,Department of Psychiatry; Bellvitge University Hospital-IDIBELL,Barcelona,Spain
+49115,"CIBERSAM, Carlos III Health Institute",Barcelona,Spain
+49115,"Department of Radiology; University of California, San Diego",San Diego,United States
+49115,"Department of Neurosciences; University of California, San Diego",San Diego,United States
+49115,Department of Psychiatry and Psychotherapy; University of Muenster,Muenster,Germany
+49115,"Department of Psychiatry; Amsterdam UMC, location VUmc, GGZinGeest, Old Age Psychiatry, Amsterdam Neuroscience",Amsterdam,Netherlands
+49115,"Department of Neurology; University of California, Los Angeles",Los Angeles,United States
+49115,"Department of Psychiatry and Biobehavioral Sciences; University of California, Los Angeles",Los Angeles,United States
+49115,"Division of Psychiatry; Haukeland University Hospital, University of Bergen",Bergen,Norway
+49115,Department of Neuropsychiatry; Keio University School of Medicine,Tokyo,Japan
+49115,"Center for Psychiatry and Behavioral Science, Komagino Hospital",Tokyo,Japan
+49115,"Department of Geriatric Psychiatry, University Psychiatric Center; KU Leuven",Leuven,Belgium
+49115,"Academic center for ECT and Neurostimulation (AcCENT), University Psychiatric Center; KU Leuven",Kortenberg,Belgium
+49115,"MRI Research Unit, Department of Radiology; Hospital del Mar",Barcelona,Spain
+49115,Department of Psychiatry; Radboud University Medical Center,Nijmegen,Netherlands
+49115,"Donders Institute for Brain Cognition and Behavior, Centre for Cognitive Neuroimaging",Nijmegen,Netherlands
+49115,Faculty of Medicine and LVR Clinic for Psychiatry and Psychotherapy; University of Duisburg-Essen,Essen,Germany
+49115,Department of Psychiatry; University of New Mexico School of Medicine,Albuquerque,United States
+47889,Allen Institute for Brain Science,Seattle,United States
+47889,"Neuroscience Paris Seine, Sorbonne Université",Paris,France
+50033,Department of Molecular Microbiology & Immunology; Oregon Health & Science University,Portland,United States
+44642,Biology Department; Brandeis University,Waltham,United States
+44642,Silberman Institute of Life Sciences; The Hebrew University of Jerusalem,Jerusalem,Israel
+47463,"Brain-Mind-Institute, School of Life Sciences; École Polytechnique Fédérale de Lausanne",Lausanne,Switzerland
+47463,School of Computer and Communication Sciences; École Polytechnique Fédérale de Lausanne,Lausanne,Switzerland
+47463,"Laboratory of Psychophysics, School of Life Sciences; École Polytechnique Fédérale de Lausanne",Lausanne,Switzerland
+47463,"Swiss Center for Affective Sciences, University of Geneva",Geneva,Switzerland
+51184,Biomedical Engineering; Boston University,Boston,United States
+51184,Psychological and Brain Sciences; Boston University,Boston,United States
+51184,Communication Sciences and Disorders; University of Iowa,Iowa City,United States
+51184,Neuroscience Institute; Carnegie Mellon University,Pittsburgh,United States
+51501,Department of Psychology; University of Lübeck,Lübeck,Germany
+51350,Center for Integrative Brain Research; Seattle Children’s Research Institute,Seattle,United States
+51350,Department of Neurological Surgery; University of Washington School of Medicine,Seattle,United States
+51439,School of Psychology; University of Birmingham,Birmingham,United Kingdom
+51439,"Donders Institute for Brain, Cognition and Behaviour, Centre for Cognitive Neuroimaging; Radboud University",Nijmegen,Netherlands
+51439,"Translational Neuromodeling Unit, Institute for Biomedical Engineering; University of Zurich and ETH Zurich",Zurich,Switzerland
+51439,Department of Psychiatry; University of Basel,Basel,Switzerland
+51439,"Krembil Centre for Neuroinformatics,CAMH; University of Toronto",Toronto,Canada
+51439,Department of Psychiatry; Radboud University Medical Centre,Nijmegen,Netherlands
+49145,"Centre for Discovery Brain Sciences, Edinburgh Medical School, Biomedical Sciences; University of Edinburgh",Edinburgh,United Kingdom
+49145,Simons Initiative for the Developing Brain; University of Edinburgh,Edinburgh,United Kingdom
+49974,Institute for Theoretical Biology; Humboldt-Universität zu Berlin,Berlin,Germany
+49974,Bernstein Center for Computational Neuroscience; Humboldt-Universität zu Berlin,Berlin,Germany
+49974,Institute of Physiology and Pathophysiology; Heidelberg University,Heidelberg,Germany
+54940,Division of Biological Sciences; University of Missouri,Columbia,United States
+54940,"Department of Molecular and Cell Biology; University of California, Berkeley",Berkeley,United States
+54940,Department of Physiology and Pharmacology; SUNY Downstate Health Sciences University,Brooklyn,United States
+54940,Department of Biology; University of Maryland,College Park,United States
+54170,"School of Psychology and Neuroscience, University of St Andrews",St Andrews,United Kingdom
+54170,"Center of Basic Research, Biomedical Research Foundation of the Academy of Athens",Athens,Greece
+51928,"Department of Pathology and Immunology, Baylor College of Medicine",Houston,United States
+51928,"Department of Neuroscience, Baylor College of Medicine",Houston,United States
+51928,Jan and Dan Duncan Neurological Research Institute of Texas Children's Hospital,Houston,United States
+51928,"Development, Disease Models & Therapeutics Graduate Program, Baylor College of Medicine",Houston,United States
+49941,"Bio-Imaging Lab, Department of Biomedical Sciences, University of Antwerp",Wilrijk,Belgium
+49941,"Centre of Biosciences, Institute of Animal Biochemistry and Genetics, Slovak Academy of Sciences",Bratislava,Slovakia
+54302,"Department of Neurobiology, Northwestern University",Evanston,United States
+52137,"Université de Paris, SPPIN-Saints Pères Paris Institute for the Neurosciences, CNRS",Paris,France
+52137,"Department of Cell Biology and Physiology, Washington University",St. Louis,United States
+52137,"Graduate School of Brain Science, Doshisha University",Kyoto,Japan
+53552,"Optical Imaging Group, Institut für Neuroinformatik, Ruhr University Bochum",Bochum,Germany
+53552,"International Graduate School of Neuroscience (IGSN), Ruhr University Bochum",Bochum,Germany
+53552,"Department of General Zoology and Neurobiology, Ruhr University Bochum",Bochum,Germany
+54074,"Centre for Neural Circuits and Behaviour, University of Oxford",Oxford,United Kingdom
+54229,"State Key Laboratory of Integrated Management of Pest Insects and Rodents, Institute of Zoology, Chinese Academy of Sciences",Beijing,China
+54229,University of Chinese Academy of Sciences,Beijing,China
+54229,"Chinese Institute for Brain Research, Peking-Tsinghua Center for Life Sciences, Zhongguangchun Life Sciences Park",Beijing,China
+54229,Institute of Molecular Physiology; Shenzhen Bay Laboratory,Shenzhen,China
+54229,"State Key Laboratory of Membrane Biology, College of Life Sciences, IDG/McGovern Institute for Brain Research, Peking-Tsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University",Beijing,China
+54229,"School of Life Sciences, University of Science and Technology of China",Hefei,China
+54229,"Peking-Tsinghua Center for Life Sciences, PKU-IDG/McGovern Institute for Brain Research, Advanced Innovation Center for Genomics, Peking University School of Life Sciences",Beijing,China
+53288,"Departments of Physiology and Psychiatry, University of California, San Francisco",San Francisco,United States
+53288,"Center for Integrative Neuroscience, University of California, San Francisco",San Francisco,United States
+53288,"Kavli Institute for Fundamental Neuroscience, University of California, San Francisco",San Francisco,United States
+53288,"Howard Hughes Medical Institute, University of California, San Francisco",San Francisco,United States
+54455,"Mind/Brain Institute, Johns Hopkins University",Baltimore,United States
+54455,"Department of Neuroscience, Johns Hopkins University",Baltimore,United States
+55508,"Centre for Cognitive Neuroscience and Department of Psychology, Paris-Lodron Universität Salzburg",Salzburg,Austria
+51093,"Department of Biochemistry and Molecular Biomedicine, Faculty of Biology, Institute of Biomedicine of the University of Barcelona (IBUB), University of Barcelona",Barcelona,Spain
+51093,Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas,Madrid,Spain
+51093,"Department of Biomedical Science, Faculty of Medicine, University of Barcelona, Institut of Neuroscience",Barcelona,Spain
+51093,Institut d´Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS),Barcelona,Spain
+51093,"School of Pharmacy, University of East Anglia, Norwich Research Park",Norwich,United Kingdom
+51093,"Department of Biochemistry and Molecular Biology I, School of Biology, Instituto Universitario de Investigación Neuroquímica, and Instituto Ramón y Cajal de Investigación Sanitaria, Complutense University of Madrid",Madrid,Spain
+51093,"School of Biological and Chemical Sciences, Queen Mary University of London",London,United Kingdom
+51093,"Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa",Pisa,Italy
+51093,"National Institute on Drug Abuse, Intramural Research Program, National Institutes of Health, Department of Health and Human Services",Baltimore,United States
+51093,"William Harvey Research Institute, Barts and the London School of Medicine, Queen Mary University of London",London,United Kingdom
+57656,"Departments of Orthopaedic Surgery and Biomedical Engineering and Institute of Cell Engineering, The Johns Hopkins University School of Medicine",Baltimore,United States
+57656,"Department of Orthopaedic Surgery, Xiangya Hospital, Central South University",Changsha,China
+57656,"Department of Anesthesiology and Critical Care Medicine, The Johns Hopkins University School of Medicine",Baltimore,United States
+57656,"Department of Neuroscience, Neurosurgery, and Dermatology, Center of Sensory Biology, The Johns Hopkins University School of Medicine, Howard Hughes Medical Institute",Baltimore,United States
+57093,"Picower Institute for Learning & Memory, Department of Brain & Cognitive Sciences, Massachusetts Institute of Technology",Cambridge,United States
+57749,"Howard Hughes Medical Institute, Department of Neurobiology, Harvard Medical School",Boston,United States
+57749,"Neurobiology Imaging Facility, Department of Neurobiology, Harvard Medical School",Boston,United States
+57749,"Department of Genetics, Harvard Medical School",Boston,United States
+57749,"Department of Neurobiology, Harvard Medical School",Boston,United States
+55714,Simula Research Laboratory,Oslo,Norway
+55714,"Department of Biosciences, University of Oslo",Oslo,Norway
+55714,"Faculty of Science and Technology, Norwegian University of Life Sciences",Oslo,Norway
+55714,"Department of Physics, University of Oslo",Oslo,Norway
+55714,"The Krasnow Institute for Advanced Study, George Mason University",Fairfax,United States
+58613,"Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University",Baltimore,United States
+58613,"Department of Neuroscience, Johns Hopkins University",Baltimore,United States
+58613,"Department of Neurology, Johns Hopkins Medical Institute",Baltimore,United States
+56755,"Canadian Center for Behavioral Neuroscience, Department of Neuroscience, University of Lethbridge",Lethbridge,Canada
+58331,"Department of Psychiatry, Peter O’Donnell Brain Institute, University of Texas Southwestern Medical Center",Dallas,United States
+58331,"Research Service, North Texas VA Health Care System",Dallas,United States
+58331,"Department of Neuroscience, Peter O’Donnell Brain Institute, University of Texas Southwestern Medical Center",Dallas,United States
+58331,"Department of Neuroscience, Medical University of South Carolina",Charleston,United States
+58331,"Howard Hughes Medical Institute, University of Texas Southwestern Medical Center",Dallas,United States
+58331,"International Institute of Integrative Sleep Medicine, University of Tsukuba",Tsukuba,Japan
+53565,"Department of Anatomical Sciences and Neurobiology, University of Louisville",Louisville,United States
+53565,"Kentucky Spinal Cord Injury Research Center, University of Louisville",Louisville,United States
+53565,"Department of Neurological Surgery, University of Louisville",Louisville,United States
+53565,"Speed School of Engineering, University of Louisville",Louisville,United States
+53565,"Cardiovascular Innovation Institute, Department of Physiology and Biophysics, University of Louisville",Louisville,United States
+57335,"Department of Psychiatry, Yale University",New Haven,United States
+57335,Yale Interdepartmental Neuroscience Program,New Haven,United States
+57335,"City University of New York, Hunter College",New York,United States
+57335,"Program in Neuroscience, Stony Brook University",New York,United States
+57335,National Institute of Neurological Disorders and Stroke (NINDS),Bethesda,United States
+57335,National Institute of Mental Health (NIMH),Bethesda,United States
+57335,Chinese Institute for Brain Research (CIBR),Beijing,China
+57335,"State Key Laboratory of Membrane Biology, Peking University School of Life Sciences",Beijing,China
+57335,PKU-IDG/McGovern Institute for Brain Research,Beijing,China
+57335,"Peking-Tsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, Peking University",Beijing,China
+57335,"Section of Comparative Medicine, Yale University School of Medicine",New Haven,United States
+56359,"Department of Korean Medical Science, School of Korean Medicine, Pusan National University",Yangsan,Republic of Korea
+56359,"Graduate Training Program of Korean Medicine for Healthy Aging, Pusan National University",Yangsan,Republic of Korea
+56359,"Korean Medical Science Research Center for Healthy Aging, Pusan National University",Yangsan,Republic of Korea
+56359,"Department of Radiological Science, Health Science Division, Dongseo University",Busan,Republic of Korea
+56359,"Department of Korean Pediatrics, School of Korean Medicine, Pusan National University",Yangsan,Republic of Korea
+56359,"Department of Rehabilitation Medicine, School of Medicine, Pusan National University",Yangsan,Republic of Korea
+56619,"Helen Wills Neuroscience Institute and Graduate Program, University of California Berkeley",Berkeley,United States
+56619,CNRS-UMR,Paris,France
+56619,"Department of Molecular and Cell Biology, University of California Berkeley",Berkeley,United States
+56619,INSERM UMRS,Paris,France
+56619,"Institut du Cerveau et de la Moelle épinière (ICM), Hôpital de la Pitié-Salpêtrière",Paris,France
+56619,"Department of Psychology, University of California, Berkeley",Berkeley,United States
+56619,"Bioscience Division, Lawrence Berkeley National Laboratory",Berkeley,United States
+58815,"Department of Neuroscience and The Dorris Neuroscience Center, The Scripps Research Institute",La Jolla,United States
+58815,"Skaggs Graduate School of Chemical and Biological Sciences, The Scripps Research Institute",La Jolla,United States
+61106,Institute of Science and Technology Austria (IST Austria),Klosterneuburg,Austria
+58952,"Vollum Institute, Oregon Health and Science University",Portland,United States
+60223,"Department of Cell and Developmental Biology, University of Michigan Medical School",Ann Arbor,United States
+60223,"Neuroscience Graduate Program, University of Michigan Medical School",Ann Arbor,United States
+60223,"Department of Neurology, University of Michigan Medical School",Ann Arbor,United States
+60223,"Program in Neurogenetics, Department of Neurology, David Geffen School of Medicine, University of California, Los Angeles",Los Angeles,United States
+60223,Burke Neurological Institute,White Plains,United States
+60223,"The Feil Family Brain and Mind Research Institute, Weill Cornell Medicine",New York,United States
+60223,"Department of Neurology, The Ohio State University Wexner Medical Center",Columbus,United States
+60223,"The Neurological Institute, The Ohio State University",Columbus,United States
+57977,"Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London",London,United Kingdom
+57977,"Wellcome Centre for Human Neuroimaging, University College London",London,United Kingdom
+57977,"Department of Psychology, Yale University",New Haven,United States
+63249,"Neuroscience Institute, New York University",New York,United States
+63249,"Department of Neurobiology, Harvard Medical School",Boston,United States
+63249,"Stanley Center for Psychiatric Research, Broad Institute",Cambridge,United States
+63249,"Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School",Boston,United States
+63249,Northeastern University,Boston,United States
+59502,"Princeton Neuroscience Institute, Princeton University",Princeton,United States
+59502,"Department of Computer Science, Princeton University",Princeton,United States
+59502,"Brain & Cognitive Science Department, Massachusetts Institute of Technology",Cambridge,United States
+54518,"Experimental Epilepsy Research, Department of Neurosurgery, Medical Center - University of Freiburg, Faculty of Medicine",Freiburg,Germany
+54518,"Faculty of Biology, University of Freiburg",Freiburg,Germany
+54518,"Systemic and Cellular Neurophysiology, Institute for Physiology I, Faculty of Medicine, University of Freiburg",Freiburg,Germany
+54518,"Biomicrotechnology, Department of Microsystems Engineering – IMTEK, Faculty of Engineering, University of Freiburg",Freiburg,Germany
+54518,"Bernstein Center Freiburg, University of Freiburg",Freiburg,Germany
+54518,"Center for Basics in NeuroModulation, Faculty of Medicine, University of Freiburg",Freiburg,Germany
+59907,Max Planck UCL Centre for Computational Psychiatry and Ageing Research,London,United Kingdom
+59907,"Wellcome Trust Centre for Neuroimaging, University College London",London,United Kingdom
+59907,"Department of Psychiatry and Psychotherapy, Charité – Universitätsmedizin Berlin",Berlin,Germany
+62455,"Centre for Neuroendocrinology and Department of Physiology, University of Otago School of Biomedical Sciences",Dunedin,New Zealand
+62455,"Department of Physiology, Development and Neuroscience, University of Cambridge",Cambridge,United Kingdom
+60454,"Biology Department and Volen Center, Brandeis University",Waltham,United States
+60153,"Oregon Hearing Research Center, Oregon Health and Science University",Portland,United States
+60153,"Neuroscience Graduate Program, Oregon Health and Science University",Portland,United States
+60153,"Department of Mathematics and Statistics, Washington State University",Vancouver,United States
+62576,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+62576,"Department of Neuroscience, Columbia University, Zuckerman Institute",New York,United States
+62576,"Drosophila Connectomics Group, Department of Zoology, University of Cambridge",Cambridge,United Kingdom
+62576,"Centre for Neural Circuits & Behaviour, University of Oxford",Oxford,United Kingdom
+62576,"Neurobiology Division, MRC Laboratory of Molecular Biology",Cambridge,United Kingdom
+60580,Instituto de Neurociencias CSIC-UMH,San Juan de Alicante,Spain
+61940,"Bernstein Center for Computational Neuroscience, Faculty of Medicine, Ludwig-Maximilians Universität München",Planegg-Martinsried,Germany
+60779,"Department of Anesthesiology, Washington University School of Medicine",St. Louis,United States
+60779,"Medical Scientist Training Program, University of Washington",Seattle,United States
+60779,"Center for the Neurobiology of Addiction, Pain and Emotion, Departments of Anesthesiology and Pharmacology, University of Washington",Seattle,United States
+62606,"Department of Developmental Biology, Washington University in St. Louis School of Medicine",St. Louis,United States
+62606,Needleman Center for Neurometabolism and Axonal Therapeutics,St. Louis,United States
+63329,"Neuroscience Graduate Program, University of California, San Francisco",San Francisco,United States
+63329,"Department of Biochemistry & Biophysics, University of California, San Francisco",San Francisco,United States
+63329,Kavli Institute for Fundamental Neuroscience,San Francisco,United States
+63751,"Neurobiology and Anatomy, University of Texas Medical School at Houston","Houston, TX",United States
+63751,"Applied Physics, Rice University","Houston, TX",United States
+63036,Center for Integrative Genomics Faculty of Biology and Medicine University of Lausanne,Lausanne,Switzerland
+63036,Department of Ecology and Evolution Faculty of Biology and Medicine University of Lausanne,Lausanne,Switzerland
+63036,Swiss Institute of Bioinformatics,Lausanne,Switzerland
+66960,"Charité–Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health; Neuroscience Research Center",Berlin,Germany
+66960,"Charité–Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health; Cluster of Excellence NeuroCure",Berlin,Germany
+66960,German Centre for Neurodegenerative Diseases (DZNE),Berlin,Germany
+66960,"Charité–Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health; Department of Experimental Neurology",Berlin,Germany
+66960,"Charité–Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health; Center for Stroke Research Berlin",Berlin,Germany
+66960,"Charité–Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health; Einstein Center for Neurosciences Berlin",Berlin,Germany
+67262,"Kavli institute for Systems Neuroscience, Center for Computational Neuroscience, Egil and Pauline Braathen and Fred Kavli Center for Cortical Microcircuits, NTNU Norwegian University of Science and Technology",Trondheim,Norway
+67262,"Laboratory of Systems Neuroscience, Tohoku University Graduate School of Life Sciences",Tohoku,Japan
+67170,"School of Life Science and Technology, ShanghaiTech University",Shanghai,China
+67170,University of Chinese Academy of Sciences,Beijing,China
+67170,"Institute of Neuroscience, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences",Shanghai,China
+67170,"Queensland Brain Institute, Clem Jones Centre for Ageing Dementia Research (CJCADR), The University of Queensland",Brisbane,Australia
+67170,"College of Life Science and Technology, Huazhong University of Science and Technology",Wuhan,China
+67170,"Department of Molecular Biology, Massachusetts General Hospital",Boston,United States
+67170,"Department of Neurobiology, Harvard Medical School",Boston,United States
+67170,"Center for Brain Science, Shanghai Children's Medical Center",Shanghai,China
+67170,"Department of Anatomy and Physiology, Shanghai Jiao Tong University School of Medicine",Shanghai,China
+67170,Shanghai Research Center for Brain Science and Brain-Inspired Intelligence,Shanghai,China
+65998,"Department of Physiology, Development and Neuroscience, Physiological Laboratory",Cambridge,United Kingdom
+68848,"Department of Physics and Center for Brain Science, Harvard University",Cambridge,United States
+68848,"Department of Neurobiology, University of Massachusetts Medical School",Worcester,United States
+68848,"Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital",Toronto,Canada
+68848,"Departments of Molecular Genetics, and Physiology, University of Toronto",Toronto,Canada
+63708,Hertie Institute for Clinical Brain Research,Tübingen,Germany
+63708,Centre for Integrative Neuroscience,Tübingen,Germany
+63708,"Department of Neurobiology, Institute of Biomaterials and Biomolecular Systems, University of Stuttgart",Stuttgart,Germany
+63708,"Department of Pharmacology, Medical University of Innsbruck",Innsbruck,Austria
+63352,"INSERM UMR1266, Institute of Psychiatry and Neuroscience of Paris, Team Synaptic Plasticity and Neural Networks, Université de Paris",Paris,France
+63352,GHU Paris Psychiatrie and Neurosciences,Paris,France
+63352,"Laboratory for Circuit and Behavioral Physiology, RIKEN Center for Brain Science",Saitama,Japan
+68041,"Neuroscience Institute, New York University Grossman School of Medicine",New York,United States
+68041,"Fresco Institute for Parkinson’s and Movement Disorders, New York University Langone Health",New York,United States
+67171,"Institute for Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin",Berlin,Germany
+67171,Bernstein Center for Computational Neuroscience Berlin,Berlin,Germany
+67171,Einstein Center for Neurosciences Berlin,Berlin,Germany
+66057,"Institute of Clinical Neuroscience and Medical Psychology, Medical Faculty, Heinrich-Heine University Düsseldorf",Düsseldorf,Germany
+66057,"Department of Psychiatry, University of Oxford",Oxford,United Kingdom
+66057,"Department of Clinical Health, Aarhus University",Aarhus,Denmark
+66057,"Department of Neurosurgery, University Hospital Düsseldorf",Düsseldorf,Germany
+66057,"Department of Neurology, Center for Movement Disorders and Neuromodulation, Medical Faculty, Heinrich-Heine University Düsseldorf",Düsseldorf,Germany
+58779,"Institute of Biomedical Sciences, Academia Sinica",Taipei,Taiwan
+58779,"Howard Hughes Medical Institute, Departments of Physiology, Biochemistry and Biophysics, University of California, San Francisco",San Francisco,United States
+58779,"Institute of Statistics, Academia Sinica",Taipei,Taiwan
+58779,"Neuroscience Graduate Program, University of California, San Francisco",San Francisco,United States
+58779,Nkarta Therapeutics Inc,South San Francisco,United States
+58779,"Department of Anesthesia and Perioperative Care, University of California, San Francisco",San Francisco,United States
+58779,"Neuroscience Program of Academia Sinica, Academia Sinica",Taipei,Taiwan
+63756,"Department of Neurobiology, Duke University Medical Center",Durham,United States
+63756,"Department of Anatomy and Histology, University of Veterinary Medicine",Budapest,Hungary
+63756,"Department of Cell Biology, Duke University Medical Center",Durham,United States
+63756,"Proteomics and Metabolomics Shared Resource and Center for Genomic and Computational Biology, Duke University Medical Center",Durham,United States
+63756,Max Planck Florida Institute for Neuroscience,Jupiter,United States
+64108,"Department of Bioengineering, Rice University",Houston,United States
+64108,Department of Molecular and Cellular Biology,"University of California, Davis",United States
+64108,"Department of Electrical and Computer Engineering, Rice University",Houston,United States
+64108,"Department of Neuroscience, Baylor College of Medicine",Houston,United States
+68656,"National Institute of Mental Health, National Institutes of Health",Bethesda,United States
+68656,"National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health",Bethesda,United States
+68656,"National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health",Bethesda,United States
+66499,"School of Life Sciences, IDG/McGovern Institute for Brain Research, and MOE Key Laboratory for Protein Science, Tsinghua University",Beijing,China
+66499,Tsinghua-Peking Center for Life Sciences,Beijing,China
+65634,"MTA-SZTE Research Group for Cortical Microcircuits of the Hungarian Academy of Sciences,, Department of Physiology, Anatomy and Neuroscience, University of Szeged",Szeged,Hungary
+64644,"Department of Chemistry and Biochemistry, George Mason University",Fairfax,United States
+64644,"Laboratory of Neuroinformatic, Nencki Institute of Experimental Biology of Polish Academy of Sciences",Warsaw,Poland
+64644,"Interdisciplinary Program in Neuroscience, Bioengineering Department, George Mason University",Fairfax,United States
+64644,"Krasnow Institute for Advanced Study, George Mason University",Fairfax,United States
+66161,"Michigan State University, Department of Psychology",East Lansing,United States
+66161,"Michigan State University, Neuroscience Program",East Lansing,United States
+66161,"Zurich Center for Neuroeconomics, Department of Economics, University of Zurich",Zurich,Switzerland
+66161,Vrije Universiteit Amsterdam,Amsterdam,Netherlands
+66161,"Spinoza Centre for Neuroimaging, Royal Academy of Sciences",Amsterdam,Netherlands
+67523,"Center for Integrative Brain Research, Seattle Children’s Research Institute",Seattle,United States
+67523,"Department of Pediatrics, University of Washington",Seattle,United States
+67523,"Department Neurological Surgery, University of Washington",Seattle,United States
+61277,"Department of Cognitive Science, University of California, San Diego",La Jolla,United States
+61277,"Section Computational Cognitive Neuroscience, Department of Neurophysiology and Pathophysiology, University Medical Center Hamburg-Eppendorf",Hamburg,Germany
+61277,"Center for Brain and Cognition, Computational Neuroscience Group, Universitat Pompeu Fabra",Barcelona,Spain
+61277,"Halıcıoğlu Data Science Institute, University of California, San Diego",La Jolla,United States
+61277,"Neurosciences Graduate Program, University of California, San Diego",La Jolla,United States
+61277,"Kavli Institute for Brain and Mind, University of California, San Diego",La Jolla,United States
+69896,"Neurobiology Section, Division of Biological Sciences, University of California, San Diego",San Diego,United States
+69896,"National Center for Microscopy and Imaging Research, Center for Research in Biological Systems, University of California, San Diego",San Diego,United States
+68980,"Translational Neuroimaging and Neural Control Group, High Field Magnetic Resonance Department, Max Planck Institute for Biological Cybernetics",Tübingen,Germany
+68980,"Graduate Training Centre of Neuroscience, International Max Planck Research School, University of Tuebingen",Tuebingen,Germany
+68980,"Institute of Neuroscience and Medicine 4, Medical Imaging Physics, Forschungszentrum Jülich",Jülich,Germany
+68980,"Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School","Charlestown, Massachusetts",United States
+68265,"Neuroscience Institute, New York University School of Medicine",New York,United States
+68265,"Departments of Neurology, Neuroscience & Physiology, and Radiology, New York University School of Medicine",New York,United States
+67453,"Brain and Mind Research Institute, Centre for Neural Dynamics, Department of Biology, University of Ottawa",Ottawa,Canada
+67453,"Blue Brain Project, École Polytechnique Fédérale de Lausanne",Genève,Switzerland
+67453,"Washington University School of Medicine, Department of Neuroscience",St Louis,United States
+61660,"Department of Biomedical Engineering, College of Medicine and College of Engineering, National Taiwan University",Taipei,Taiwan
+61660,"Department of Physical Medicine and Rehabilitation, National Taiwan Hospital University",Taipei,Taiwan
+61660,"Institute of Biomedical Sciences, Academia Sinica",Taipei,Taiwan
+61660,"Department of Surgery, National Taiwan Hospital University",Taipei,Taiwan
+65580,"European Brain Research Institute (EBRI), Fondazione Rita Levi-Montalcini",Rome,Italy
+65580,"Department of Biology and Biotechnology ‘C. Darwin’, Center for Research in Neurobiology ‘D. Bovet’, Sapienza University of Rome",Rome,Italy
+65580,Institute of Molecular Biology and Pathology of the National Council of Research (IBPM-CNR),Roma,Italy
+65580,"Department of Fundamental Neurosciences, University of Lausanne",Lausanne,Switzerland
+65580,Department of Clinical Neurobiology of the Medical Faculty of Heidelberg University and German Cancer Research Center (DKFZ),Heidelberg,Germany
+65580,Institute of Neuroscience of the National Research Council (IN-CNR),Pisa,Italy
+66273,"Department of Physiology, University of Bern",Bern,Switzerland
+66273,Ascent Robotics,Tokyo,Japan
+66273,RIKEN Center for Brain Science,Tokyo,Japan
+66273,"Kirchhoff-Institute for Physics, Heidelberg University",Heidelberg,Germany
+74213,"Department of Neurobiology, University of Pittsburgh",Pittsburgh,United States
+74213,Center for the Neural Basis of Cognition,Pittsburgh,United States
+70296,"Institute for Neural Computation, Ruhr University Bochum",Bochum,Germany
+70296,"International Graduate School of Neuroscience, Ruhr University Bochum",Bochum,Germany
+70296,"Department of Anesthesiology, University of Michigan, Michigan Medicine",Ann Arbor,United States
+67477,"Departments of Psychology, Economics, The Ohio State University",Columbus,United States
+67477,"Zurich Center for Neuroeconomics, Department of Economics, University of Zurich",Zurich,Switzerland
+67477,"Decision Neuroscience Lab, Depterment of Heatlh Sciences and Technology, ETH Zurich",Zurich,Switzerland
+74493,"Laboratory of Neuronal Signaling, Institute of Experimental Medicine",Budapest,Hungary
+74493,"János Szentágothai School of Neurosciences, Semmelweis University",Budapest,Hungary
+63782,"Center for Neuroscience and Cognitive Systems@UniTn, Istituto Italiano di Tecnologia",Rovereto,Italy
+63782,"Center for Mind/Brain Sciences, University of Trento",Rovereto,Italy
+63782,"Department of Psychology, Harvard University",Cambridge,United States
+63782,Butte College,Oroville,United States
+63782,"Department of Cognitive Sciences, University of California, Irvine",Irvine,United States
+63782,"Department of Neurology, Berenson-Allen Center for Noninvasive Brain Stimulation, Beth Israel, Deaconess Medical Center, Harvard Medical School",Boston,United States
+71747,"Department of Neurobiology, University of Massachusetts Chan Medical School",Worcester,United States
+71747,"Department of Biological and Physical Sciences, Assumption University",Worcester,United States
+71747,"Department of Biology, University of Leuven (KU Leuven)",Leuven,Belgium
+70058,"Interdisciplinary Program in Translational Neuroscience, School of Interdisciplinary and Graduate Studies, University of Louisville",Louisville,United States
+70058,"Department of Anatomical Sciences and Neurobiology, University of Louisville, Louisville",Louisville,United States
+70058,"Kentucky Spinal Cord Injury Research Center, University of Louisville",Louisville,United States
+70058,"Speed School of Engineering, University of Louisville",Louisville,United States
+70058,"Department of Neurological Surgery, University of Louisville",Louisville,United States
+71385,"School of Psychology and Neuroscience, University of St Andrews",St Andrews,United Kingdom
+71252,"Department of Mathematics and Living Systems Institute, College of Engineering, Mathematics and Physical Sciences, University of Exeter",Exeter,United Kingdom
+71252,"Department of Women and Children’s Health, School of Life Course Sciences, King’s College London",London,United Kingdom
+67611,"Department of Neuroscience, Columbia University",New York,United States
+67611,Kavli Institute for Brain Science,New York,United States
+67611,Zuckerman Mind Brain Behavior Institute,New York,United States
+62889,"Picower Institute for Learning & Memory, Department of Brain & Cognitive Sciences, Massachusetts Institute of Technology",Cambridge,United States
+62889,"MIT Biology Graduate Program, Massachusetts Institute of Technology",Cambridge,United States
+69746,"Division of Biological Sciences, Neurobiology Section, University of California, San Diego",La Jolla,United States
+71801,"Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris-Saclay, NeuroSpin center",Gif sur Yvette,France
+71801,"Sorbonne Université, Collège Doctoral",Paris,France
+67778,"Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London",London,United Kingdom
+67778,"The Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London",London,United Kingdom
+67778,"Department of Child and Adolescent Psychiatry, Psychotherapy and Psychosomatics, University of Würzburg",Würzburg,Germany
+67778,"Department of Psychiatry and Psychotherapy, Technische Universität Dresden",Dresden,Germany
+67778,"Department of Psychiatry and Psychotherapy, Charité Universitätsmedizin Berlin",Berlin,Germany
+67778,Max Planck Institute for Biological Cybernetics,Tübingen,Germany
+67778,University of Tübingen,Tübingen,Germany
+63490,"Department of Neuroscience, University of Pennsylvania",Philadelphia,United States
+71689,"Center for the Study of Itch and Sensory Disorders, Washington University School of Medicine",St Louis,United States
+71689,"Departments of Anesthesiology, Washington University School of Medicine",St Louis,United States
+71689,"Developmental Biology, Washington University School of Medicine",St. Louis,United States
+71689,"The Second Affiliated Hospital, The State Key Laboratory of Respiratory Disease, Guangdong Provincial Key Laboratory of Allergy & Clinical Immunology, Guangzhou Medical University",Guangzhou,China
+71689,"Department of Pain, Guangzhou Medical University",Guangzhou,China
+71689,"Departments of Medicine, Washington University School of Medicine",St. Louis,United States
+71689,"Departments of Psychiatry, Washington University School of Medicine",St. Louis,United States
+69748,"Department of Psychology, University of Minnesota",Minneapolis,United States
+69748,"Department of Neurosciences, University of Montreal",Quebec,Canada
+62123,"The Research Institute of Molecular Pathology (IMP), Department of Neuroscience, Vienna Biocenter",Vienna,Austria
+62123,"Department of Neuronal Cell Biology, Center for Brain Research, Medical University of Vienna",Vienna,Austria
+62123,"Preclinical Imaging Facility, Vienna BioCenter Core Facilities (VBCF)",Vienna,Austria
+62123,"Div Research Germany, Boehringer Ingelheim",Biberach an der Riss,Germany
+65540,"Department of Psychology, Carnegie Mellon University",Pittsburgh,United States
+65540,Center for the Neural Basis of Cognition,Pittsburgh,United States
+65540,Carnegie Mellon Neuroscience Institute,Pittsburgh,United States
+65540,"Department of Psychology, Northwestern University",Evanston,United States
+65540,"Department of Mathematics, University of Pittsburgh",Pittsburgh,United States
+65540,"Department of Biomedical Engineering, Carnegie Mellon University",Pittsburgh,United States
+71890,"Universitat Pompeu Fabra, Center for Brain and Cognition, Computational Neuroscience Group",Barcelona,Spain
+71890,"University Medical Center Hamburg-Eppendorf, Department of Neurophysiology and Pathophysiology",Hamburg,Germany
+71890,"University of Stirling, Psychology",Stirling,United Kingdom
+71890,"Centre for Cognitive Neuroimaging, Institute of Neuroscience and Psychology, University of Glasgow",Glasgow,United Kingdom
+71890,"Institute for Biomagnetism and Biosignal Analysis, University of Münster, Malmedyweg",Muenster,Germany
+71890,"Otto Creutzfeldt Center for Cognitive and Behavioral Neuroscience, University of Münster",Muenster,Germany
+71890,"University of Dundee, Psychology",Dundee,United Kingdom
+74363,"Volen Center and Department of Biology, Brandeis University",Waltham,United States
+74363,"Biology Department, University of Oregon",Eugene,United States
+71965,"Institut des Neurosciences Cellulaires et Intégratives, Centre National de la Recherche Scientifique",Strasbourg,France
+62949,"Biosciences Institute, Newcastle University",Newcastle upon Tyne,United Kingdom
+76579,"Volen Center and Biology Department, Brandeis University",Waltham,United States
+76579,"Federated Department of Biological Sciences, New Jersey Institute of Technology and Rutgers University",Newark,United States
+70469,"Division of Neurobiology, Faculty of Biology, LMU Munich",Planegg-Martinsried,Germany
+70469,"Graduate School of Systemic Neurosciences, LMU Munich",Munich,Germany
+70469,Bernstein Centre for Computational Neuroscience,Munich,Germany
+74893,"Centre for Human Brain Health, School of Psychology, University of Birmingham",Birmingham,United Kingdom
+76025,"School of Life Sciences, University of Science and Technology of China",Hefei,China
+76025,"State Key Laboratory of Integrated Management of Pest Insects and Rodents Institute of Zoology, Chinese Academy of Sciences",Beijing,China
+76025,University of Chinese Academy of Sciences,Beijing,China
+76025,"State Key Laboratory of Membrane Biology, College of Life Sciences, IDG/McGovern Institute for Brain Research, Peking-Tsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University",Beijing,China
+76025,"Chinese Institute for Brain Research, Peking-Tsinghua Center for Life Sciences, Zhongguangcun Life Sciences Park",Beijing,China
+76025,"Institute of Molecular Physiology, Shenzhen Bay Laboratory",Shenzhen,China
+73018,"Department of Psychology, New York University",New York,United States
+73018,"Laboratory of Brain and Cognition, National Institute of Mental Health, National Institutes of Health",Bethesda,United States
+73018,"Graduate Program in Neuroscience, University of Washington",Seattle,United States
+73018,"Department of Psychology and Center for Neural Science, New York University",New York,United States
+74835,"Translational Neuromodeling Unit, Institute for Biomedical Engineering, University of Zurich & ETH Zurich",Zurich,Switzerland
+74835,"Institute for Clinical Chemistry, University Hospital Zurich",Zurich,Switzerland
+74835,Max Planck Institute for Metabolism Research,Cologne,Germany
+76096,"Modelling of Cognitive Processes, Technical University of Berlin",Berlin,Germany
+76096,Bernstein Center for Computational Neuroscience,Berlin,Germany
+76912,"Department of Neurobiology, Northwestern University",Evanston,United States
+74637,"Research Group Olfactory Coding, Max Planck Institute for Chemical Ecology",Jena,Germany
+74637,"Department of Evolutionary Neuroethology, Max Planck Institute for Chemical Ecology",Jena,Germany
+75126,"Movement Disorder and Neuromodulation Unit, Department of Neurology, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt Universität zu Berlin",Berlin,Germany
+75126,"Brain Modulation Lab, Department of Neurosurgery, Massachusetts General Hospital",Boston,United States
+75126,Harvard Medical School,Boston,United States
+75126,"Department of Neurobiology, University of Pittsburgh",Pittsburgh,United States
+75126,"Department of Computer Science, Technische Universität Berln",Berlin,Germany
+75829,"Department of Medical Neurobiology, Institute of Medical Research Israel–Canada, The Faculty of Medicine, The Hebrew University of Jerusalem",Jerusalem,Israel
+75829,"Department of Neurobiology and Behavior, Center for Nervous System Disorders, Stony Brook University School of Medicine, Stony Brook University",Stony Brook,United States
+75829,"Department of Neuroscience, Karolinska Institutet",Stockholm,Sweden
+78191,"GIGA-Cyclotron Research Centre-In Vivo Imaging, University of Liège",Liège,Belgium
+78191,"Psychology and Cognitive Neuroscience Research Unit, University of Liège",Liège,Belgium
+78191,Physip SA,Paris,France
+78191,"Department of Neurology, University Hospital of Liège",Liège,Belgium
+78191,"GIGA-In Silico Medicine, University of Liège",Liège,Belgium
+78191,"Centre for Advanced Research in Sleep Medicine, Université de Montréal",Montreal,Canada
+63795,"Univ Lyon, Université Lyon 1, Inserm, Stem Cell and Brain Research Institute U1208",Bron,France
+63795,"Sorbonne Université, CNRS, Institut des Systèmes Intelligents et de Robotique, ISIR, F-75005",Paris,France
+63795,"Nash Family Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai",New York,United States
+72871,"Department of Bioengineering, Imperial College London",London,United Kingdom
+72871,"Department of Clinical and Movement Disorders, Institute of Neurology, University College London",London,United Kingdom
+72871,"BSICoS, IIS Aragón, Universidad de Zaragoza",Zaragoza,Spain
+72871,"Bernstein Center Freiburg, University of Freiburg",Freiburg im Breisgau,Germany
+72871,"Faculty of Biology, University of Freiburg",Freiburg im Breisgau,Germany
+74149,"Department of Psychology, University of Amsterdam",Amsterdam,Netherlands
+74149,"Department of Psychology, Leiden University",Leiden,Netherlands
+74149,Leiden Institute for Brain and Cognition,Leiden,Netherlands
+74149,"Department of Psychology, McGill University",Montreal,Canada
+74149,"Alan Edwards Centre for Research on Pain, McGill University",Montreal,Canada
+74149,"Department of Research and Statistics, Municipality of Amsterdam",Amsterdam,Netherlands
+74149,"Department of Anesthesiology, Leiden University Medical Center",Leiden,Netherlands
+76832,"Graduate Program in Neuroscience, Western University",London,Canada
+76832,"Department of Mathematics, Western University",London,Canada
+76832,"Brain and Mind Institute, Western University",London,Canada
+76832,"Department of Anatomy and Cell Biology, Schulich School of Medicine and Dentistry, Western University",London,Canada
+76832,"Robarts Research Institute, Western University",London,Canada
+76832,"Department of Physiology and Pharmacology, Schulich School of Medicine and Dentistry, Western University",London,Canada
+76411,"Graduate School of Science and Technology, Keio University",Kanagawa,Japan
+76411,"Department of Rehabilitation Medicine, School of Medicine, Keio University",Tokyo,Japan
+76411,"Research Organization of Science and Technology, Ritsumeikan University",Shiga,Japan
+76411,"Faculty of Science and Technology, Keio University",Kanagawa,Japan
+76039,"Department of Medical Neurobiology, Institute of Medical Research Israel – Canada, The Faculty of Medicine",Jerusalem,Israel
+76039,"Edmond and Lily Safra Center for Brain Sciences, The Hebrew University of Jerusalem",Jerusalem,Israel
+76039,"Department of Neurosurgery, Hadassah Medical Center",Jerusalem,Israel
+78773,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+78773,"Center for Advanced Imaging, The University of Queensland",Queensland,Australia
+76111,"Department of Neuroscience, Columbia University",New York,United States
+76111,"Department of Psychiatry, Columbia University",New York,United States
+76111,"Division of Molecular Therapeutics, New York State Psychiatric Institute",New York,United States
+76111,"Instituto de Investigaciones en Ingeniería Genética y Biología Molecular, Consejo Nacional de Investigaciones Científicas y Técnicas, and Departamento de Fisiología, Biología Molecular y Celular, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires",Buenos Aires,Argentina
+76111,"Department of Health Science and Technology, ETH Zurich",Schwerzenbach,Switzerland
+76111,"Zurich Neuroscience Center, Winterthurerstrasse",Zurich,Switzerland
+76111,"Department of Molecular Pharmacology and Therapeutics, Columbia University",New York,United States
+79139,"Advanced Science Research Center, The City University of New York",New York,United States
+79139,"Center for Theoretical Neuroscience, Zuckerman Institute, Columbia University",New York,United States
+79139,"Department of Neuroscience and Behavior, Barnard College",New York,United States
+79139,"Department of Electrical Engineering, Columbia University",New York,United States
+79557,"Picower Institute for Learning and Memory, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology",Cambridge,United States
+79557,"MIT Biology Graduate Program, Massachusetts Institute of Technology",Cambridge,United States
+79557,"Department of Biology and Biotechnology, Worcester Polytechnic Institute",Worcester,United States
+65536,"Laboratorium voor Neuro- en Psychofysiologie, The Leuven Brain Institute",Leuven,Belgium
+65536,"Faculty of Life Sciences and Medicine, King's College London",London,United Kingdom
+66039,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+76835,"Department of Systems Neuroscience, University Medical Center Hamburg-Eppendorf",Hamburg,Germany
+76835,"Institute for Endocrinology & Diabetes, University of Lübeck",Lübeck,Germany
+76835,German Center for Diabetes Research (DZD),Ingolstädter Landstraße,Germany
+77643,"Technical University Munich, School of Life Sciences, Neuronal Control of Metabolism",Freising,Germany
+77643,"Graduate School of Systemic Neurosciences, Ludwig Maximilian University",Martinsried,Germany
+77643,"ZIEL – Institute for Food and Health, Technical University Munich, School of Life Sciences",Freising,Germany
+77643,"Technical University Munich, School of Life Sciences, Chair of Food Chemistry and Molecular Sensory Science",Freising,Germany
+77643,"University of Bonn, Faculty of Medicine, Institute of Physiology II",Bonn,Germany
+79433,"Department of Neuroscience, University of Copenhagen",Copenhagen,Denmark
+79433,"Department of Molecular Neurobiology, Max-Planck-Institute for Multidisciplinary Sciences",Göttingen,Germany
+79433,Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP),Berlin,Germany
+80352,"Institut de Neurosciences Cognitives et Intégratives d’Aquitaine, CNRS, Université de Bordeaux",Bordeaux,France
+80352,"MeLis INSERM U1314-CNRS UMR 5284, Faculté Rockefeller",Lyon,France
+78847,"Department of Neurobiology, Northwestern University",Evanston,United States
+78847,"The Chemistry of Life Processes Institute, Northwestern University",Evanston,United States
+78847,"Department of Psychiatry, University of Pittsburgh",Pittsburgh,United States
+75474,"Department of Psychology, University of California, Berkeley",Berkeley,United States
+75474,"Department of Psychology, New York University",New York,United States
+75474,"Department of Mathematics, University of California, Berkeley",Berkeley,United States
+75474,"Institute of Human Development, University of California, Berkeley",Berkeley,United States
+75474,"Helen Wills Neuroscience Institute, University of California, Berkeley",Berkeley,United States
+74998,"Department of Biological Sciences, KAIST",Daejeon,Republic of Korea
+74998,"Center for Synaptic Brain Dysfunctions, Institute for Basic Science (IBS)",Daejeon,Republic of Korea
+74998,"Department of Anatomy, College of Medicine, Yonsei University",Seoul,Republic of Korea
+74998,"Department of Bio and Brain Engineering, KAIST",Daejeon,Republic of Korea
+80627,"The Turner Institute for Brain and Mental Health, School of Psychological Sciences, and Monash Biomedical Imaging, Monash University",Victoria,Australia
+80627,QIMR Berghofer Medical Research Institute,Queensland,Australia
+80627,"Department of Anthropology, Emory University",Atlanta,United States
+80627,"Department of Psychiatry and Behavioral Sciences, Emory University",Atlanta,United States
+80627,"Yerkes National Primate Research Center, Emory University",Atlanta,United States
+80627,"Department of Complex Traits Genetics, Center for Neurogenetics and Cognitive Research, Vrije Universiteit Amsterdam",Amsterdam,Netherlands
+80627,"Department of Clinical Genetics, Amsterdam UMC, Vrije Universiteit Amsterdam",Amsterdam,Netherlands
+82143,"Department of Neurology, University of California, San Francisco",San Francisco,United States
+82143,"Department of Neurology and Neurological Sciences, Stanford University",Stanford,United States
+82143,"Department of Psychiatry and Behavioral Sciences, Neuroscience Graduate Program, Kavli Institute for Fundamental Neuroscience, Weill Institute for Neurosciences, University of California, San Francisco",San Francisco,United States
+77432,"Department of Integrative Medical Biology, Umeå University",Umeå,Sweden
+77432,"IMPACT, Centre de Recherche en Neurosciences de Lyon",Lyon,France
+77432,"Aging Research Center, Department of Neurobiology, Care Sciences and Society, Karolinska Institute",Solna,Sweden
+77432,"Department of Psychology, University of Gothenburg",Gothenburg,Sweden
+78815,"Laboratory of 3D functional network and dendritic imaging, Institute of Experimental Medicine",Budapest,Hungary
+78815,"MTA-PPKE ITK-NAP B – 2p Measurement Technology Group, The Faculty of Information Technology, Pázmány Péter Catholic University",Budapest,Hungary
+78815,"János Szentágothai Doctoral School of Neurosciences, Semmelweis University",Budapest,Hungary
+78815,BrainVisionCenter,Budapest,Hungary
+78815,Cold Spring Harbor Laboratory,Cold Spring Harbor,United States
+78815,"Volen Center for Complex Systems, Biology Department, Brandeis University",Waltham,United States
+78815,"Departments of Neuroscience and Psychiatry, Washington University School of Medicine",St. Louis,United States
+78815,"Computational Systems Neuroscience Lab, Wigner Research Centre for Physics",Budapest,Hungary
+78815,"Department of Mathematical Geometry, Institute of Mathematics, Budapest University of Technology and Economics",Budapest,Hungary
+77216,"Computational Neuroscience Unit, Okinawa Institute of Science and Technology",Okinawa,Japan
+81298,"Department of Cellular and Molecular Pharmacology, University of California, San Francisco School of Medicine",San Francisco,United States
+81298,"Department of Psychiatry and Behavioral Sciences, University of California, San Francisco School of Medicine",San Francisco,United States
+81298,"Tetrad graduate program, University of California, San Francisco",San Francisco,United States
+81298,"Quantitative Biology Institute, University of California, San Francisco",San Francisco,United States
+81679,"Department of Psychology, Columbia University",New York,United States
+81679,"Mortimer B. Zuckerman Mind, Brain, Behavior Institute, Columbia University",New York,United States
+81679,"Department of Psychology, Princeton University",Princeton,United States
+81679,"Princeton Neuroscience Institute, Princeton University",Princeton,United States
+81679,"The Kavli Institute for Brain Science, Columbia University",New York,United States
+79513,"Canadian Centre for Behavioral Neuroscience, University of Lethbridge",Lethbridge,Canada
+79513,"Laboratory for Neuronal Circuit Dynamics, Imperial College London",London,United Kingdom
+79513,"Department of Physics, Hong Kong Baptist University",Kowloon Tong,Hong Kong
+79513,"Department of Neurobiology and Behavior, University of California",Irvine,United States
+82103,"Interdisciplinary Graduate Program in Neuroscience, University of Iowa",Iowa City,United States
+82103,"Department of Psychological and Brain Sciences, University of Iowa",Iowa City,United States
+82103,"DeLTA Center, University of Iowa",Iowa City,United States
+82103,"Iowa Neuroscience Institute, University of Iowa",Iowa City,United States
+80100,"Neuroscience Graduate Program, Baylor College of Medicine",Houston,United States
+80100,"Department of Neuroscience, Baylor College of Medicine",Houston,United States
+80100,Jan and Dan Duncan Neurological Research Institute at Texas Children’s Hospital,Houston,United States
+80100,University of Houston,Houston,United States
+80100,"Department of Electrical and Computer Engineering, University of Houston",Houston,United States
+80100,"Center for NeuroEngineering and Cognitive Science, University of Houston",Houston,United States
+80100,"Department of Ophthalmology, Baylor College of Medicine",Houston,United States
+83018,"Department of Neurobiology, Harvard Medical School",Boston,United States
+79642,"Charité – Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Movement Disorder and Neuromodulation Unit, Department of Neurology, Charité Campus Mitte",Berlin,Germany
+79642,"Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Core Facility Genomics",Berlin,Germany
+79642,"Division of Imaging Science and Technology, Medical School, University of Dundee",Dundee,United Kingdom
+79642,"Berlin School of Mind and Brain, Charité - University Medicine Berlin",Berlin,Germany
+79642,"NeuroCure, Charité - University Medicine Berlin",Berlin,Germany
+79642,"DZNE, German Centre for Degenerative Diseases",Berlin,Germany
+79642,"Department of Neurology, Ninewells Hospital & Medical School",Dundee,United Kingdom
+72951,"Brain and Mind Research Institute, Centre for Neural Dynamics, Department of Cellular and Molecular Medicine, University of Ottawa",Ottawa,Canada
+72951,"Department of Physics, University of Ottawa",Ottawa,Canada
+78729,"State Key Laboratory of Brain and Cognitive Science, Institute of Biophysics, Chinese Academy of Sciences",Beijing,China
+78729,University of Chinese Academy of Sciences,Beijing,China
+78729,"Innovation Laboratory of Terahertz Biophysics, National Innovation Institute of Defense Technology",Beijing,China
+78729,"Key Laboratory of Electromagnetic Radiation and Sensing Technology, Aerospace Information Research Institute, Chinese Academy of sciences",Beijing,China
+78729,"School of Physics, Peking University",Beijing,China
+78729,"Institute of Artificial Intelligence, Hefei Comprehensive National Science Center",Hefei,China
+81623,"CNRS, University of Bordeaux",Bordeaux,France
+81623,"Institut de Génétique Moléculaire de Montpellier, CNRS, University of Montpellier",Montpellier,France
+81463,"Department of Physiology and Cell Biology, Faculty of Health Sciences, Ben-Gurion University of the Negev",Beer Sheva,Israel
+81463,"Departments of Pediatrics and Physiology and Biophysics, University of California, Irvine",Irvine,United States
+81463,"Department of Pharmaceutical Sciences, Northeastern University",Boston,United States
+81818,National Institute of Mental Health,Bethesda,United States
+81818,"Department of Neuroscience, Brown University",Providence,United States
+81818,National Institute on Alcohol Abuse and Alcoholism,Rockville,United States
+81818,National Institute of Child Health and Human Development,Bethesda,United States
+80680,"Zuckerman Institute, Department of Neuroscience, Columbia University",New York,United States
+80680,Basis Research Institute,New York,United States
+80517,"Department of Molecular, Cellular, and Developmental Biology, University of Colorado Boulder",Boulder,United States
+80517,"Department of Psychology and Neuroscience, University of Colorado Boulder",Boulder,United States
+80517,"Department of Adult Hematology, University of Colorado- Anschutz Medical Campus",Aurora,United States
+80517,"BioFrontiers Institute, University of Colorado Boulder",Boulder,United States
+80517,"Department of Behavioral Neuroscience, Oregon Health and Science University, School of Medicine",Portland,United States
+83530,"Department of Anesthesiology, Weill Cornell Medical College",New York,United States
+83530,"Department of Biochemistry, Weill Cornell Medical College",New York,United States
+67684,"Cognitive Rhythms Collaborative, Boston University",Boston,United States
+67684,"Department of Mathematics and Statistics, Boston University",Rochester,United States
+67684,"Department of Neuroscience and Del Monte Institute for Neuroscience, University of Rochester Medical Center, University of Rochester",Rochester,United States
+67684,"Princeton Neuroscience Institute, Princeton University",Princeton,United States
+67684,"Department of Psychology, Princeton University",Princeton,United States
+81197,"Department of Biomedicine, School of Health Sciences, University of Skövde",Skövde,Sweden
+81197,"Division of Neurobiology, Department of Biomedical and Clinical Sciences, Linköping University",Linköping,Sweden
+81197,Center for Medical Image Science and Visualization (CMIV) Linköping University Hospital,Linköping,Sweden
+81197,"Center for Social and Affective Neuroscience, Department of Biomedical and Clinical Sciences, Linköping University",Linköping,Sweden
+79541,"Laboratory of Physics of the Ecole Normale Supérieure, CNRS UMR 8023 & PSL Research, Sorbonne Université, Université de Paris",Paris,France
+79541,"Institut de Biologie Paris-Seine (IBPS), Laboratoire Jean Perrin, Sorbonne Université, CNRS",Paris,France
+85243,"University of California, Berkeley",Berkeley,United States
+85243,Massachusetts Institute of Technology,Boston,United States
+85243,Brown University,Providence,United States
+84911,"Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen",Nijmegen,Netherlands
+84911,"Institute of Intelligent Systems and Robotics, CNRS, Sorbonne Université",Paris,France
+84911,"Laboratory of Neurobiology, CIMES, University of Malaga",Malaga,Spain
+84312,"Faculty of Biology, Technion - Israel Institute of Technology",Haifa,Israel
+86299,"School of Biological Science, University of Utah",Salt Lake City,United States
+81826,"Institute of Neuroscience, University of Oregon",Eugene,United States
+75586,"Global Brain Health Institute and Institute of Neuroscience, Trinity College Dublin",Dublin,Ireland
+75586,"School of Medicine, Texas Tech School of Medicine",Lubbock,United States
+75586,"Department of Psychiatry, Icahn School of Medicine at Mount Sinai",New York,United States
+81774,"Champalimaud Research, Champalimaud Foundation",Lisbon,Portugal
+85111,Friedrich Miescher Institute for Biomedical Research,Basel,Switzerland
+85111,"Faculty of Sciences, University of Basel",Basel,Switzerland
+85970,Howard Hughes Medical Institute,Chevy Chase,United States
+85970,"Department of Physiology, University of California, San Francisco",San Francisco,United States
+84566,"Neuroscience and Mental Health, Hospital for Sick Children Research Institute",Toronto,Canada
+84566,Sunnybrook Research Institute,Toronto,Canada
+84566,"Division of Neuroscience, Sírio-Libanês Hospital",São Paulo,Brazil
+84566,"Division of Neurosurgery, Department of Surgery, University Health Network",Toronto,Canada
+84566,"Division of Neurosurgery, Department of Surgery, University of Toronto",Toronto,Canada
+84566,"Joint Department of Medical Imaging, University of Toronto",Toronto,Canada
+84566,"Department of Functional and Stereotactic Neurosurgery, University Hospital San Vicente Fundación",São Paulo,Brazil
+84566,"Department of Functional and Stereotactic Neurosurgery, San Vicente Fundación",Barranquilla,Colombia
+84566,"Department of Neurosurgery, University Hospital La Princesa",Madrid,Spain
+84566,"Nemod Research Group, Universidad Autónoma de Bucaramanga",Bucaramanga,Colombia
+84566,"Division of Functional Neurosurgery, Department of Neurosurgery, FOSCAL Clinic",Bucaramanga,Colombia
+84566,"LIM 23, Institute of Psychiatry, School of Medicine, University of São Paulo",São Paulo,Brazil
+84566,"Department of Neurology, Integrated Clinic of Neuroscience, School of Medicine, University of São Paulo",São Paulo,Brazil
+84566,Stereotactic and Functional Neurosurgery Division of the International Misericordia Clinic,Barranquilla,Canada
+84566,"Harquail Centre for Neuromodulation, Sunnybrook Health Sciences Centre",Toronto,Canada
+84566,"Department of Psychiatry, University of Toronto",Toronto,Canada
+84566,"Servicio de Neuocirugia Funcional y Esterotaxia, Clinica Comuneros Bucaramanga, Clinica Desa y Clinica Dime Neurocardiovascular de Cali; Clinica Nueva del Lago",Bucaramanga,Colombia
+84566,"Division of Neurosurgery, The Hospital for Sick Children",Toronto,Canada
+84566,"Institute of Biomedical Engineering, University of Toronto",Toronto,Canada
+84566,"Institute of Medical Science, University of Toronto",Toronto,Canada
+85410,"Department of Organismic and Evolutionary Biology, Harvard University",Cambridge,United States
+83856,"Graduate School of Biostudies, Kyoto University",Kyoto,Japan
+83856,"Faculty of Agriculture, Kyoto University",Kyoto,Japan
+83856,"Faculty of Science, Kyoto University",Kyoto,Japan
+83856,"School of Life Sciences, Tokyo University of Pharmacy and Life Sciences",Hachioji,Japan
+83856,"Research Center for Dynamic Living Systems, Kyoto University",Kyoto,Japan
+84135,"Department of Neuroscience, Brown University",Providence,United States
+84135,"Robert J. and Nancy D. Carney Institute for Brain Science, Brown University",Providence,United States
+84135,"The Warren Alpert Medical School, Brown University",Providence,United States
+84135,"Norman Prince Neurosciences Institute, Rhode Island Hospital",Providence,United States
+84135,"Department of Neurosurgery, Rhode Island Hospital",Providence,United States
+84135,"Department of Neurosurgery, Brigham and Women’s Hospital",Boston,United States
+84135,"Department of Neurology, Rhode Island Hospital",Providence,United States
+82426,"Neuroscience Institute, New York University Grossman School of Medicine",New York,United States
+82426,"Center for Neural Science, New York University",New York,United States
+84257,"Department of Neurobiology, Silberman Institute of Life Sciences, The Hebrew University",Jerusalem,Israel
+84257,"Department of Molecular and Cellular Biology, Harvard University",Cambridge,United States
+84257,"Faculty of Marine Sciences, Ruppin Academic Center",Michmoret,Israel
+79648,"Department of Pharmacology, University of California",Davis,United States
+79648,"Department of Pharmacology, University of Iowa",Iowa City,United States
+83957,"Biological Sciences Graduate Program, University of California, San Diego",La Jolla,United States
+83957,"Molecular Neurobiology Laboratory, The Salk Institute for Biological Studies",La Jolla,United States
+79450,"Section of Life Sciences Engineering, École Polytechnique Fédérale de Lausanne",Lausanne,Switzerland
+79450,"Department of Neurobiology, Harvard Medical School",Boston,United States
+79450,"Department of Psychology and Center for Brain Science, Harvard University",Cambridge,United States
+79450,"Center for Brains, Minds, and Machines, MIT",Cambridge,United Kingdom
+84387,"Neuroscience Center of Excellence, Louisiana State University Health Sciences Center",New Orleans,United States
+84387,"Department of Cell Biology and Anatomy, School of Medicine, Louisiana State University Health Sciences Center",New Orleans,United States
+83843,"Institute of Neuroscience and Medicine, Brain and Behaviour, Research Centre Jülich",Jülich,Germany
+83843,"Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf",Düsseldorf,Germany
+83843,"Otto Hahn Group Cognitive Neurogenetics, Max Planck Institute for Human Cognitive and Brain Sciences",Leipzig,Germany
+83843,"McConnell Brain Imaging Centre, Montréal Neurological Institute, McGill University",Montréal,Canada
+85792,"Department of Biomedical Genetics, University of Rochester Medical Center",Rochester,United States
+85792,"Division of Endocrinology, Diabetes and Metabolism, Department of Medicine, University of Rochester Medical Center",Rochester,United States
+85792,"Department of Biology, University of Rochester",Rochester,United States
+85792,"Department of Cell Biology, Skirball Institute of Biomolecular Medicine, NYU School of Medicine",New York,United States
+85792,"Department of Biostatistics and Computational Biology, University of Rochester Medical Center",Rochester,United States
+85792,"Department of Microbiology and Immunology, University of Rochester Medical Center",Rochester,United States
+83328,"Department of Physics, Graduate School of Science, The University of Tokyo",Tokyo,Japan
+83328,"Department of Complexity Science and Engineering, Graduate School of Frontier Science, The University of Tokyo",Kashiwa,Japan
+83328,"School of Psychology and Neuroscience, Centre of Biophotonics, University of St Andrews",St Andrews,United Kingdom
+83328,"Graduate School of Informatics and Engineering, The University of Electro-Communications",Tokyo,Japan
+84324,"School of Psychology, Cardiff University Brain Research Imaging Centre (CUBRIC)",Cardiff,United Kingdom
+84324,"School of Computer Science and Informatics, Cardiff University",Cardiff,United Kingdom
+85459,"Department of Molecular Biology and Genetics, Aarhus University",Aarhus,Denmark
+85459,"DANDRITE, The Danish Research Institute of Translational Neuroscience, Aarhus University",Aarhus,Denmark
+85459,"Center for Proteins in Memory – PROMEMO, Danish National Research Foundation, Aarhus University",Aarhus,Denmark
+85459,"Department of Biomedicine, Aarhus University",Aarhus,Denmark
+85459,"Multiscale Sensory Structure Laboratory, National Institute of Genetics",Mishima,Japan
+85459,"Department of Genetics, The Graduate University for Advanced Studies (SOKENDAI)",Mishima,Japan
+88143,"University of California, Berkeley",Berkeley,United States
+78620,"Neural Control of Movement Lab, HEST, ETH Zürich",Zurich,Switzerland
+78620,"Neuroscience Center Zurich, University and ETH Zurich",Zurich,Switzerland
+78620,"Department of Radiology and Biomedical Imaging, School of Medicine, Yale University",New Haven,United States
+78620,"Laboratory of Molecular and Behavioral Neuroscience, Institute for Neuroscience, HEST, ETH Zurich",Zurich,Switzerland
+78620,"Institute of Pharmacology and Toxicology, University of Zurich",Zurich,Switzerland
+78620,"Institute for Biomedical Engineering, University and ETH Zurich",Zurich,Switzerland
+78620,"Neuro-X Institute, School of Engineering (STI), EPFL",Lausanne,Switzerland
+78620,CIBM Centre for Biomedical Imaging,Lausanne,Switzerland
+78620,"School of Physics, The University of Sydney",Camperdown,Australia
+78620,"Future Health Technologies, Singapore-ETH Centre, Campus for Research Excellence and Technological Enterprise (CREATE)",Singapore,Singapore
+87414,"Unit on Neural Circuits and Adaptive Behaviors, National Institute of Mental Health",Bethesda,United States
+87414,"Department of Neuroscience, Del Monte Institute for Neuroscience, University of Rochester Medical Center",Rochester,United States
+87414,"Department of Neuroscience, Mahoney Institute for Neurosciences, Perelman School of Medicine, University of Pennsylvania",Philadelphia,United States
+86084,"Institute for Biology/Genetics, Freie Universität Berlin",Berlin,Germany
+86084,Leibniz-Forschungsinstitut für Molekulare Pharmakologie,Berlin,Germany
+89993,"Department of Neurobiology, University of Alabama at Birmingham",Birmingham,United States
+89993,"Civitan International Research Center, University of Alabama at Birmingham",Birmingham,United States
+88567,"Center for Pain IMPACT, Neuroscience Research Australia",Sydney,Australia
+88567,University of New South Wales,Sydney,Australia
+88567,"School of Health Sciences, College of Health, Medicine and Wellbeing, The University of Newcastle",Callaghan,Australia
+88567,"Department of Medical Biophysics, Schulich School of Medicine & Dentistry, University of Western Ontario",London,Canada
+88567,"The Gray Centre for Mobility and Activity, University of Western Ontario",London,Canada
+87022,"Department of Psychology, University of Amsterdam",Amsterdam,Netherlands
+87022,"Amsterdam Brain & Cognition, University of Amsterdam",Amsterdam,Netherlands
+87022,"Department of Psychiatry (UPK), University of Basel",Basel,Switzerland
+87022,"Jan and Dan Duncan Neurological Research Institute, Texas Children’s Hospital",Houston,United States
+87022,"Department of Neuroscience, Baylor College of Medicine",Houston,United States
+87022,"Cognitive and Systems Neuroscience, Swammerdam Institute for Life Sciences, University of Amsterdam",Amsterdam,Netherlands
+87022,"Department of Psychiatry, Amsterdam UMC location University of Amsterdam",Amsterdam,Netherlands
+87022,Amsterdam Neuroscience,Amsterdam,Netherlands
+87022,"Institute for Brain and Behavior Amsterdam, Vrije Universiteit Amsterdam",Amsterdam,Netherlands
+87022,"Department of Experimental and Applied Psychology - Cognitive Psychology, Vrije Universiteit Amsterdam",Amsterdam,Netherlands
+89366,"Department of Neuroscience, University of Connecticut School of Medicine",Farmington,United States
+88657,"Lulu and Anthony Wang Laboratory of Neural Circuits and Behavior, The Rockefeller University",New York,United States
+91153,"Department of Molecular Visual Plasticity, Netherlands Institute for Neuroscience",Amsterdam,Netherlands
+91153,"Department of Axonal Signaling, Netherlands Institute for Neuroscience",Amsterdam,Netherlands
+91153,"Department of Biology Cell Biology, Neurobiology and Biophysics, Faculty of Science, Utrecht University",Utrecht,Netherlands
+91153,"Department of Vision & Cognition, Netherlands Institute for Neuroscience",Amsterdam,Netherlands
+91153,"Laboratory of Visual Brain Therapy, Sorbonne Université, Institut National de la Santé et de la Recherche Médicale, Centre National de la Recherche Scientifique, Institut de la Vision",Paris,France
+91153,"Department of Integrative Neurophysiology, Centre for Neurogenomics and Cognitive Research, VU University",Amsterdam,Netherlands
+91153,"Department of Psychiatry, Academic Medical Center, University of Amsterdam",Amsterdam,Netherlands
+91153,"Department of Cortical Structure & Function, Netherlands Institute for Neuroscience",Amsterdam,Netherlands
+91153,"Department of Molecular and Cellular Neurobiology, Center for Neurogenomics and Cognitive Research, VU University Amsterdam",Amsterdam,Netherlands
+89520,"Oregon Hearing Research Center and Vollum Institute, Oregon Health & Science University",Portland,United States
+89520,"Department of Physiology, Kitasato University School of Medicine",Sagamihara,Japan
+91120,"Division of Infectious Diseases, Department of Pediatrics, Boston Children’s Hospital and Harvard Medical School",Boston,United States
+91120,"Department of Biology, Massachusetts Institute of Technology",Cambridge,United States
+91120,"Department of Molecular Biology, Massachusetts General Hospital",Boston,United States
+86190,"School of Biological and Health Systems Engineering, Arizona State University",Tempe,United States
+91475,"Cognitive and Auditory Neuroscience Laboratory, Institute of Neuroscience of Castilla y León, Calle Pintor Fernando Gallego",Salamanca,Spain
+91475,Institute for Biomedical Research of Salamanca (IBSAL),Salamanca,Spain
+91475,"Department of Basic Psychology, Psychobiology and Behavioural Science Methodology, Faculty of Psychology, Campus Ciudad Jardín, University of Salamanca",Salamanca,Spain
+91475,"Department of Biology and Pathology, Faculty of Medicine, Campus Miguel de Unamuno, University of Salamanca",Salamanca,Spain
+88808,"National Centre for Biological Sciences, Tata Institute of Fundamental Research",Bangalore,India
+88808,"Department of Biology, Brandeis University",Waltham,United States
+92046,"Department of Anesthesiology, West China Hospital, Sichuan University",Chengdu,China
+92046,"Laboratory of Anesthesia and Critical Care Medicine, National-Local Joint Engineering Research Centre of Translational Medicine of Anesthesiology, West China Hospital, Sichuan University",Chengdu,China
+92046,"Department of Anesthesiology, Longgang District Maternity & Child Healthcare Hospital of Shenzhen City (Longgang Maternity and Child Institute of Shantou University Medical College)",Shenhen,China
+92046,"Department of Intensive Care Unit, Affiliated Hospital of Zunyi Medical University",Zunyi,China
+92046,"Department of Orthopedic Surgery, Affiliated Hospital of Zunyi Medical University",Zunyi,China
+92046,"Department of Anesthesiology, Affiliated Hospital of Zunyi Medical University",Zunyi,China
+92046,"Department of Anesthesiology, Zhongshan Hospital, Fudan University",Shanghai,China
+89093,"The Picower Institute for Learning and Memory, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology",Cambridge,United States
+89093,"Department of Neurology, Northwestern University",Chicago,United States
+89093,"The Department of Neuroscience, Developmental, and Regenerative Biology, Neuroscience Institute & Brain Health Consortium, University of Texas at San Antonio",San Antonio,United States
+89093,"Vanderbilt Center for Addiction Research, Department of Pharmacology, Vanderbilt University",Nashville,United States
+89093,"Coulter Department of Biomedical Engineering, Georgia Tech & Emory University",Atlanta,United States
+89093,Chinese Institute for Brain Research,Beijing,China
+89093,"State Key Laboratory of Membrane Biology, Peking University School of Life Sciences; PKUIDG/McGovern Institute for Brain Research; Peking-Tsinghua Center for Life Sciences",Beijing,China
+89093,"Eaton-Peabody Laboratories, Massachusetts Eye and Ear",Boston,United States
+89093,"Department of Otolaryngology – Head and Neck Surgery, Harvard Medical School",Boston,United States
+89093,"HHMI Investigator, Member of the Kavli Institute for Brain and Mind, and Wylie Vale Professor at the Salk Institute for Biological Studies",La Jolla,United States
+88889,"MRC Cognition and Brain Sciences Unit, University of Cambridge",Cambridge,United Kingdom
+88889,"Department of Psychiatry, University of Cambridge",Cambridge,United Kingdom
+88889,"Department of Experimental Psychology, University of Oxford",Oxford,United Kingdom
+88889,"School of Psychology, University of Surrey",Surrey,United Kingdom
+88889,"Department of Psychiatry, University of California, San Diego",San Diego,United States
+88889,"Temerty Centre for Therapeutic Brain Intervention at the Centre for Addiction and Mental Health and Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto",Toronto,Canada
+88253,"Université Côte d’Azur, CNRS, Inserm, IBV",Nice,France
+88253,"Institut NeuroMyoGène, CNRS, Inserm, Université de Lyon",Lyon,France
+89151,"Neuroengineering and Computational Neuroscience Lab, i3S - Instituto de Investigação e Inovação em Saúde, Universidade do Porto",Porto,Portugal
+89151,"Faculdade de Engenharia, Universidade do Porto",Porto,Portugal
+89151,"Department of Biomedical Engineering, University of Melbourne",Melbourne,Australia
+86805,Friedrich Miescher Institute for Biomedical Research,Basel,Switzerland
+86805,"Faculty of Science, University of Basel",Basel,Switzerland
+90997,"Department of Neuroscience and Behavioral Sciences, Ribeirão Preto Medical School, University of São Paulo",Ribeirão Preto,Brazil
+90997,Department of Physiology and Biophysics Federal University of Minas Gerais,Belo Horizonte,Brazil
+90997,"Laboratory of Molecular and Behavioral Neuroscience (LANEC), Federal University of Minas Gerais",Belo Horizonte,Brazil
+90997,"Department of Psychiatry, University of Michigan Medical School",Ann Arbor,United States
+90997,"Department of Pathology, State University of Campinas",São Paulo,Brazil
+90997,"Neuroscience Discipline, Department of Neurology and Neurosurgery,Universidade Federal de São Paulo",São Paulo,Brazil
+91465,"Department of Psychology, University of California, Davis",Davis,United States
+91465,"Center for Neuroscience, University of California, Davis",Davis,United States
+91465,"Department of Biomedical Engineering, University of California, Davis",Davis,United States
+91465,"Department of Biochemistry and Molecular Medicine, University of California, Davis",Davis,United States
+88510,"Genes Circuits Rhythms and Neuropathology, Brain Plasticity Unit, CNRS, ESPCI Paris, PSL Research University",Paris,France
+88510,"Metabolomic and Proteomic Biochemistry Laboratory, Necker-Enfants Malades Hospital and Paris Cité University",Paris,France
+88510,"Integrated Physiology of the Brain Arousal Systems (WAKING), Lyon Neuroscience Research Centre, INSERM/CNRS/UCBL1",Bron,France
+88510,"Dipartimento di Scienze Agroalimentari, Ambientali e Animali, University of Udine",Udine,Italy
+88510,"UMR “Ecology and Dynamics of Anthropogenic Systems” (EDYSAN), CNRS, Université de Picardie Jules Verne",Amiens,France
+88510,"Laboratory of Metabolic Diseases, Cliniques Universitaires Saint-Luc, Université catholique de Louvain",Brussels,Belgium
+91136,"Department of Neuroscience, Medical University of South Carolina",Charleston,United States
+91136,"Department of Pharmacology, Kagoshima University",Kagoshima,Japan
+91136,"Institute for Quantum Life Science, National Institutes for Quantum Science and Technology",Chiba,Japan
+91136,Japan Science and Technology PRESTO,Saitama,Japan
+91136,"Department of Physiology, Monash University",Clayton,Australia
+91136,"Neuroscience Program, Biomedicine Discovery Institute, Monash University",Clayton,Australia
+91136,"Faculty of Data Science, Shiga University",Shiga,Japan
+91136,"Department of Biology, College of Charleston",Charleston,United States
+91136,"Department of Neuro-Medical Science, Osaka University",Osaka,Japan
+91136,Japan Science and Technology FOREST,Saitama,Japan
+90972,"Department of Anesthesiology, Washington University in St. Louis",St. Louis,United States
+90972,"Department of Medicine, Northwestern University Feinberg School of Medicine",Chicago,United States
+90972,"Department of Neuroscience, Washington University in St. Louis",St. Louis,United States
+90972,"Department of Psychiatry, Washington University in St. Louis",St. Louis,United States
+90972,Medical College of Wisconsin,Milwaukee,United States
+90972,"Department of Obstetrics and Gynecology, Washington University in St. Louis",St. Louis,United States
+90972,"Center for Neurobiology of Addiction, Pain, and Emotion University of Washington",Seattle,United States
+90972,Department of Anesthesiology and Pain Medicine University of Washington,Seattle,United States
+90972,Department of Pharmacology University of Washington,Seattle,United States
+90972,Department of Bioengineering University of Washington,Seattle,United States
+90278,"Department of Neuroscience, Karolinska Institute",Stockholm,Sweden
+90278,"Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University College London",London,United Kingdom
+90278,"Neuromodulation of Cortical and Subcortical Circuits Laboratory, Istituto Italiano di Tecnologia",Genova,Italy
+90278,"Cajal Institute, Spanish National Research Council (CSIC)",Madrid,Spain
+90278,"CIBERNED, Instituto de Salud Carlos III",Madrid,Spain
+88838,"Department of Anatomy and Neurobiology and Hearing Research Group, Northeast Ohio Medical University",Rootstown,United States
+88838,"School of Biomedical Sciences, Kent State University",Kent,United States
+88838,"Brain Health Research Institute, Kent State University",Kent,United States
+91421,"Department of Molecular Biology and Genetics, Aarhus University",Aahrus,Denmark
+91421,"Department of Biomedicine, Aarhus University",Aarhus,Denmark
+91421,"DANDRITE, The Danish Research Institute of Translational Neuroscience, Aarhus University",Aahrus,Denmark
+91421,"Center for Proteins in Memory – PROMEMO, Danish National Research Foundation, Aarhus University",Aahrus,Denmark
+91421,"Cellular and Systems Neurobiology, Universidade Nova de Lisboa",Lisbon,Portugal
+91421,"Instituto de Fisiología Biología Molecular y Neurociencias (IFIBYNE), Universidad de Buenos Aires",Buenos Aires,Argentina
+89986,Friedrich Miescher Institute for Biomedical Research,Basel,Switzerland
+89986,"Faculty of Natural Sciences, University of Basel",Basel,Switzerland
+91890,"Department of Biomedical Engineering, Washington University in St. Louis",St. Louis,United States
+95821,"Department of Brain and Cognitive Sciences, Scranton College, Ewha Womans University",Seoul,Republic of Korea
+95821,"Brain Disease Research Institute, Ewha Brain Institute, Ewha Womans University",Seoul,Republic of Korea
+95821,"Department of Basic Medical Science, College of Medicine, Catholic Kwandong University",Gangneung,Republic of Korea
+95821,"Institute for Bio-Medical Convergence, International St. Mary’s Hospital, Catholic Kwandong University",Incheon,Republic of Korea
+95821,"Department of Psychology, University of Washington",Seattle,United States
+95680,"The Neuroscience Graduate Program, The Huck Institutes of the Life Sciences, Pennsylvania State University",University Park,United States
+95680,"Center for Neural Engineering, Pennsylvania State University",University Park,United States
+95680,"Center for Neurotechnology in Mental Health Research, Pennsylvania State University",University Park,United States
+95680,"Department of Biomedical Engineering, Pennsylvania State University",University Park,United States
+98677,Scintillon Institute,San Diego,United States
+94306,"Living Systems Institute, University of Exeter",Exeter,United Kingdom
+94306,"Electron Microscopy Core Facility (EMCF), Heidelberg University",Heidelberg,Germany
+94306,"Centre for Organismal Studies (COS), Heidelberg University",Heidelberg,Germany
+91102,"Department of Rehabilitation Sciences, The Hong Kong Polytechnic University",Hung Hom,Hong Kong
+91102,"Cognitive Neuroimaging Unit, CEA, INSERM, Université Paris-Saclay, NeuroSpin Center",Gif-sur-Yvette,France
+91102,"Department of Experimental Psychology, University of Oxford",Oxford,United Kingdom
+91102,"University Research Facility in Behavioral and Systems Neuroscience, The Hong Kong Polytechnic University",Hung Hom,Hong Kong
+91102,"Mental Health Research Centre, The Hong Kong Polytechnic University",Hung Hom,Hong Kong
+97444,"Department of Biochemistry and Molecular Biology, School of Basic Medicine, The Fourth Military Medical University",Xi'an,China
+97444,"Department of Anatomy, Histology and Embryology and K.K. Leung Brain Research Centre, The Fourth Military Medical University",Xi’an,China
+97444,"Laboratory of Optical Technology and Instrument for Medicine, Ministry of Education, College of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology",Shanghai,China
+97444,"Innovation Laboratory of Terahertz Biophysics, National Innovation Institute of Defense Technology",Beijing,China
+97444,"Information Materials and Intelligent Sensing Laboratory of Anhui Province, Anhui University",Hefei,China
+97444,"School of Electronic and Information Engineering, Anhui University",Hefei,China
+97444,"School of Physics, Peking University",Beijing,China
+98739,"Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health",Bethesda,United States
+98841,"Department of Neurobiology and Anatomy, College of Medicine, Drexel University",Philadelphia,United States
+98841,"School of Biological Sciences, Georgia Institute of Technology",Atlanta,United States
+98841,"Department of Pharmacology-Physiology, Faculty of Medicine and Health Sciences, Centre de Recherche du CHUS, Université de Sherbrooke",Sherbrooke,Canada
+90624,"Department of Neuroscience, Northwestern University",Chicago,United States
+90624,Northwestern-Argonne Institute of Science and Engineering (NAISE),Evanston,United States
+90624,"Department of Electrical and Computer Engineering, California State University, Los Angeles",Los Angeles,United States
+90624,"Argonne Leadership Computing Facility, Argonne National Laboratory",Lemont,United States
+90624,"Department of Electrical Engineering, Northwestern University",Evanston,United States
+90624,"Department of Biomedical Engineering, Northwestern University",Chicago,United States
+90624,Intel Corporation,Santa Clara,United States
+90624,"Department of Physiology and Biophysics, University of Washington",Seattle,United States
+90624,"Physical Medicine and Rehabilitation, Shirley Ryan Ability Lab",Chicago,United States
+90624,"Physical Therapy and Human Movement Sciences, Northwestern University",Chicago,United States
+92982,"Neuroscience Graduate Program, University of California, Riverside",Riverside,United States
+92982,"Department of Molecular, Cell and Systems Biology, University of California, Riverside",Riverside,United States
+96576,"GIGA-CRC Human Imaging, University of Liège",Liège,Belgium
+96576,"Faculty of Health, Medicine and Life Sciences, School for Mental Health and Neuroscience, Alzheimer Centre Limburg, Maastricht University",Maastricht,Netherlands
+96576,Synergia Medical SA,Mont-Saint-Guibert,Belgium
+96576,"Institute of Neuroscience (IoNS), Department of Clinical Neuroscience, Université Catholique de Louvain (UCLouvain)",Woluwe-Saint-Lambert,Belgium
+90976,"University of California San Diego, Department of Neurobiology, School of Biological Sciences",San Diego,United States
+92940,"Département de Neurosciences, Groupe de recherche sur la Signalisation Neurale etla Circuiterie (SNC) and Centre Interdisciplinaire de Recherche sur le Cerveau etl’Apprentissage (CIRCA), Université de Montréal",Montréal,Canada
+92940,CIUSSS du Nord-de-l'Île-de-Montréal,Montréal,Canada
+89519,"Department of Mathematics and Statistics, Boston University",Boston,United States
+89519,"Department of Biology, University of Southern California",Los Angeles,United States
+97188,"Department of Neuroscience, Columbia University",New York,United States
+97188,"Department of Physiology, Anatomy, & Genetics, University of Oxford",Oxford,United Kingdom
+97184,"Department of Neurology, Movement Disorders and Neuromodulation Unit, Charité – Universitätsmedizin Berlin",Berlin,Germany
+97184,"Department of Neurology, Center for Brain Circuit Therapeutics, Brigham and Women’s Hospital",Boston,United States
+97184,"Departments of Neurology and Neurosurgery, Massachusetts General Hospital",Boston,United States
+97184,"Einstein Center for Neurosciences Berlin, Humboldt Universitat",Berlin,Germany
+97085,"Department of Bioengineering, Faculty of Engineering, Imperial College London",London,United Kingdom
+97085,"Nantes Université, Laboratory 'Movement, Interactions, Performance'",Nantes,France
+97085,"Université Côte d'Azur, LAMHESS",Nice,France
+97085,"The University of Queensland, School of Biomedical Sciences",Brisbane,Australia
+97085,"Department of Integrative Physiology, University of Colorado Boulder",Boulder,United States
+90046,"Department of Neuroscience, University of Minnesota",Minneapolis,United States
+90046,"Instituto Cajal, CSIC",Madrid,Spain
+90046,"Experimental Neurophysiology Group, Hospital Nacional de Parapléjicos SESCAM",Toledo,Spain
+102222,"Birmingham Centre for Neurogenetics, School of Biosciences, University of Birmingham",Birmingham,United Kingdom
+102222,"Semillero Lún, Grupo D+Tec, Universidad de Ibagué",Ibagué,Colombia
+102222,MRC LMB,Cambridge,United Kingdom
+102222,"Institute of Biomedical Research, University of Birmingham",Birmingham,United Kingdom
+102222,"Department of Biosciences, Durham University",Durham,United Kingdom
+98349,"Department of Neuroscience, Columbia University",New York,United States
+98349,"Kavli Institute for Brain Science, Columbia University",New York,United States
+98349,"Departments of Biomedical Engineering and Radiology, Columbia University",New York,United States
+98349,"Zuckerman Mind Brain Behavior Institute, Columbia University",New York,United States
+98349,"Department of Physiology, Anatomy & Genetics, University of Oxford",Oxford,United Kingdom
+100088,"Department of Neurosurgery, Washington University School of Medicine",Springfield,United States
+100088,"Department of Biomedical Engineering, Washington University in St. Louis",St Louis,United States
+100088,"Department of Neuroscience, Washington University in St. Louis",St Louis,United States
+100088,"Department of Neurology, Washington University in St. Louis",St Louis,United States
+98742,"Werner Reichardt Centre for Integrative Neuroscience, University of Tübingen",Tübingen,Germany
+98742,"Institute for Ophthalmic Research, University of Tübingen",Tübingen,Germany
+98742,"GRK 2381 ’cGMP: From Bedside to Bench’, University of Tübingen",Tübingen,Germany
+98742,"Institut de la Vision, Sorbonne Université, INSERM, CNRS",Paris,France
+98742,"Hertie Institute for AI in Brain Health, Tübingen AI Center, University of Tübingen",Tübingen,Germany
+98742,"Bernstein Center for Computational Neuroscience, University of Tübingen",Tübingen,Germany
+101727,"Department of Neurology, TUM School of Medicine and Health, Technical University of Munich (TUM)",Munich,Germany
+101727,"TUM-Neuroimaging Center, TUM School of Medicine and Health, TUM",Munich,Germany
+101727,"Center for Interdisciplinary Pain Medicine, TUM School of Medicine and Health, TUM",Munich,Germany
+101727,"Department of Psychosomatic Medicine and Psychotherapy, School of Medicine and Health, TUM",Munich,Germany
+101727,"Institute for Biomagnetism and Biosignalanalysis, University of Münster",Münster,Germany
+96287,"Department of Neurology, University of Iowa",Iowa City,United States
+96287,"Department of Mathematics, University of Iowa",Iowa City,United States
+96287,The Iowa Neuroscience Institute,Iowa City,United States
+98514,"Neurobiology and Genetics, Theodor-Boveri-Institute, Biocenter, Julius-Maximilians-University of Würzburg",Würzburg,Germany
+98514,"Department of Animal Physiology, Institute of Zoology, University of Cologne",Cologne,Germany
+98701,"State Key Laboratory of Cognitive Science and Mental Health, Institute of Psychology, Chinese Academy of Sciences",Beijing,China
+98701,"Department of Psychology, University of Chinese Academy of Sciences",Beijing,China
+90826,"Département de psychiatrie et de neurosciences, Université Laval",Quebec,Canada
+90826,"CERVO Centre de recherche, Université Laval",Québec,Canada
+90826,"Department of Psychiatry and Neuroscience, Department of Electrical Engineering, Ferdowsi University of Mashhad",Mashhad,Iran
+99548,"Ache Lab, Neurobiology and Genetics, Theodor-Boveri-Institute, Biocenter, Julius-Maximilians-University of Würzburg, Am Hubland",Würzburg,Germany
+99548,"Zandawala Lab, Neurobiology and Genetics, Theodor-Boveri-Institute, Biocenter, Julius-Maximilians-University of Würzburg, Am Hubland",Würzburg,Germany
+99548,"Department of Biochemistry and Molecular Biology, University of Nevada Reno",Reno,United States
+90511,"Organismic and Evolutionary Biology, Harvard University",Cambridge,United States
+90511,"Center for Brain Science, Harvard University, Cambridge",Cambridge,United States
+90511,"McGovern Institute, MIT",Cambridge,United States
+90511,"MIT Media Lab, MIT",Cambridge,United States
+90511,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+90511,"Department of Biological Engineering, MIT",Cambridge,United States
+90511,"Koch Institute, Department of Biology, MIT",Cambridge,United States
+90511,Howard Hughes Medical Institute,Chevy Chase,United States
+90511,"Department of Brain and Cognitive Sciences, MIT",Cambridge,United States
+97658,"Department of Neurobiology, Care Sciences, and Society, Karolinska Institutet",Solna,Sweden
+97658,"Wallenberg Centre for Molecular Medicine, Umeå University",Umeå,Sweden
+97658,"Aging Research Center, Karolinska Institutet and Stockholm University",Solna,Sweden
+97658,"Umeå Center for Functional Brain Imaging, Umeå University",Umeå,Sweden
+97658,"Department of Medical and Translational Biology, Umeå University",Umeå,Sweden
+97658,"Department of Radiation Sciences, Umeå University",Umeå,Sweden
+97658,"Centre for Cognitive Neuroimaging, Donders Institute for Brain, Cognition and Behaviour, Radboud University",Nijmegen,Netherlands
+97658,"Department of Biomedical Engineering, the University of Melbourne",Melbourne,Australia
+97658,"Department of Psychiatry, the University of Melbourne",Melbourne,Australia
+97658,"Department of Psychology, University of the Bundeswehr Munich",Munich,Germany
+100196,"New York State Psychiatric Institute, Division of Systems Neuroscience New York",New York,United States
+100196,"Department of Psychiatry, Vagelos College of Physicians and Surgeons, Columbia University",New York,United States
+100196,"Institute for Genomic Medicine, Vagelos College of Physicians and Surgeons, Columbia University",New York,United States
+100196,"Department of Neurology, Vagelos College of Physicians and Surgeons, Columbia University",New York,United States
+100196,"Department of Neuroscience, Vagelos College of Physicians and Surgeons, Columbia University",New York,United States
+100196,"Columbia College, Columbia University",New York,United States
+100196,"Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University",New York,United States
+100941,"Department of Physiology, Anatomy and Cell Biology, Pablo de Olavide University, Ctra. de Utrera",Seville,Spain
+100941,"Department of Neurology and Neurobiology, University of California, Los Angeles",Los Angeles,United States
+100941,"Department of Psychiatry, University of California, Los Angeles",Los Angeles,United States
+100941,"Department of Pharmacology, University of the Basque Country (UPV/EHU)",Leioa,Spain
+100941,"Department of Neuroscience, Baylor College of Medicine",Houston,United States
+104764,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+104764,"Department of Psychology, College of Science, California State University",Hayward,United States
+102424,"Sorbonne Université, CNRS, Inserm, Neuro-SU",Paris,France
+102424,"Sorbonne Université, CNRS, Inserm, Institut de Biologie Paris-Seine",Paris,France
+102424,"Sorbonne Université, CNRS, Inserm, Institut de la Vision, F-75012",Paris,France
+102424,"Sorbonne Université, INSERM, Nutrition and Obesities: Systemic Approaches, NutriOmics, Research Unit",Paris,France
+102938,"Volen Center and Biology Department, Brandeis University",Waltham,United States
+95379,"Department of Biology, University of Washington",Seattle,United States
+95379,"Department of Biological Sciences, Graduate School of Science, The University of Tokyo",Tokyo,Japan
+95379,"Division of Education, Marine Biological Laboratory",Woods Hole,United States
+95379,"Department of Molecular and Cell Biology, University of California, Berkeley",Berkeley,United States
+95379,"Helen Wills Neuroscience Institute, University of California, Berkeley",Berkeley,United States
+95379,"Laboratory of Neurogenetics and Behavior, The Rockefeller University",New York,United States
+95379,"International Research Center for Neurointelligence (WPI-IRCN), The University of Tokyo",Tokyo,Japan
+95379,"Howard Hughes Medical Institute, University of California at Berkeley",Berkeley,United States
+104914,Friedrich Miescher Institute for Biomedical Research,Basel,Switzerland
+104914,"Faculty of Natural Sciences, University of Basel",Basel,Switzerland
+104914,"Simons Initiative for the Developing Brain, University of Edinburgh",Edinburgh,United Kingdom
+91771,"School of Psychology, University of Nottingham",Nottingham,United Kingdom
+91771,"Division of Informatics, Imaging and Data Science, School of Health Sciences, University of Manchester",Manchester,United Kingdom
+91771,"MRC Cognition and Brain Sciences Unit (CBU), University of Cambridge",Cambridge,United Kingdom
+100123,"University of California, San Diego",La Jolla,United States
+100123,University of Victoria,Victoria,Canada
+100123,Nathan Kline Institute,Orangeburg,United States
+100123,Feinstein Institute for Medical Research,New York,United States
+93191,"Brain and Mind Center, The University of Sydney",Sydney,Australia
+93191,"Center for Complex Systems, The University of Sydney",Sydney,Australia
+93191,The University of Waterloo,Waterloo,Canada
+93191,"Latin American Brain Health (BrainLat), Universidad Adolfo Ibáñez",Santiago,Chile
+93191,Hochschule Fresenius,Köln,Germany
+99290,"Bernstein Center for Computational Neuroscience Berlin and Berlin Center for Advanced Neuroimaging, Charité Universitätsmedizin Berlin, Corporate member of the Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health",Berlin,Germany
+99290,Max Planck School of Cognition,Munich,Germany
+99290,"Department of Psychology, Humboldt-Universität zu Berlin",Berlin,Germany
+99290,"Research Training Group 'Extrospection' and Berlin School of Mind and Brain, Humboldt-Universität zu Berlin",Berlin,Germany
+99290,"Institute of Psychology, Otto von Guericke University",Magdeburg,Germany
+99290,Max Planck Institute for Human Cognitive and Brain Sciences,Leipzig,Germany
+99290,German Center for Neurodegenerative Diseases,Bonn,Germany
+99290,"Collaborative Research Center 'Volition and Cognitive Control', Technische Universität Dresden",Dresden,Germany
+99290,"Research Cluster of Excellence 'Science of Intelligence', Technische Universität Berlin",Berlin,Germany
+101506,"Department of Biology, Washington University in St Louis",St Louis,United States
+101506,"Department of Biomedical Engineering, Georgia Institute of Technology",Atlanta,United States
+101850,"Blue Brain Project, École polytechnique fédérale de Lausanne (EPFL), Campus Biotec",Geneva,Switzerland
+101850,"Department of Basic Neurosciences, University of Geneva",Geneva,Switzerland
+101850,"Department of Neurosciences, Faculty of Medicine, Université de Montréal",Montreal,Canada
+101850,Centre de Recherche Azrieli du CHU Sainte-Justine,Montréal,Canada
+101850,Mila Quebec AI Institute,Montréal,Canada
+99368,"Department of Biology, University of Fribourg",Fribourg,Switzerland
+101105,"Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Neuroscience Research Center",Berlin,Germany
+101105,German Center for Neurodegenerative Diseases (DZNE) Berlin,Berlin,Germany
+101105,"Neuroscience Institute, New York University Grossman School of Medicine",New York,United States
+101105,"Douglas Mental Health University Institute, Douglas Research Center",Montreal,Canada
+101105,"Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität Berlin, NeuroCure Cluster of Excellence",Berlin,Germany
+101105,"Humboldt-Universität zu Berlin, Bernstein Center for Computational Neuroscience",Berlin,Germany
+101413,"Institute of Psychology, Otto-von-Guericke University",Magdeburg,Germany
+101413,"Department of Psychiatry and Behavioral Neuroscience, University of Chicago",Chicago,United States
+101413,"Robert J. and Nancy D. Carney Institute for Brain Science, Brown University",Providence,United States
+101413,"Department of Neuroscience, Brown University",Providence,United States
+101413,Center for Behavioral Brain Sciences,Magdeburg,Germany
+101413,"German Center for Mental Health (DZPG), Center for Intervention and Research on Adaptive and Maladaptive Brain Circuits Underlying Mental Health (C-I-R-C)",Halle-Jena-Magdeburg,Germany
+105094,"Institute of Molecular Physiology, Shenzhen Bay Laboratory",Shenzhen,China
+105094,"Department of Biology, Stanford University",Stanford,United States
+105094,"Guangyang Bay Laboratory, Chongqing Institute for Brain and Intelligence",Chongqing,China
+105094,"School of Public Health, Capital Medical University",Beijing,China
+105094,Chinese Institutes for Medical Research,Beijing,China
+106284,"Centre for Research in Neuroscience, Brain Repair and Integrative Neuroscience Program, Departments of Neurology & Neurosurgery and Medicine, The Research Institute of the McGill University Health Centre, Montreal General Hospital",Montreal,Canada
+106284,"Université Côte d’Azur, CNRS UMR7275, Institute of Molecular and Cellular Pharmacology",Valbonne,France
+106284,"Integrated Program in Neuroscience, McGill University",Montreal,Canada
+106284,"Gerald Choa Neuroscience Institute & School of Biomedical Sciences, The Chinese University of Hong Kong",Hong Kong,China
+98653,"Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Neuroscience Research Center",Berlin,Germany
+98653,"Institute for Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin",Berlin,Germany
+98653,Bernstein Center for Computational Neuroscience,Berlin,Germany
+98653,"Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Einstein Center for Neurosciences",Berlin,Germany
+98653,German Center for Neurodegenerative Diseases (DZNE),Berlin,Germany
+98653,Max-Delbrück Center for Molecular Medicine in the Helmholtz Association,Berlin,Germany
+98653,"Charité – Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, NeuroCure Cluster of Excellence",Berlin,Germany
+104220,"Experimental Neuropsychophysiology Laboratory, Santa Lucia Foundation IRCCS",Rome,Italy
+104220,"Department of Neuroscience and Rehabilitation, University of Ferrara, and Center for Translational Neurophysiology of Speech and Communication (CTNSC), Italian Institute of Technology (IIT)",Ferrara,Italy
+104220,"Department of System Medicine, “Tor Vergata” University of Rome",Rome,Italy
+100937,"Brain Mapping Lab, Department of Biomedical, Dental Sciences and Morphological and Functional Imaging, University of Messina",Messina,Italy
+100937,IRCCS Centro Neurolesi 'Bonino Pulejo',Messina,Italy
+100937,"Institute for Biomedical Research and Innovation (IRIB), National Research Council of Italy (CNR)",Messina,Italy
+100937,S. Anna Institute,Crotone,Italy
+100937,"Pharmacotechnology Documentation and Transfer Unit, Preclinical and Translational Pharmacology, Department of Pharmacy, Health Science and Nutrition, University of Calabria",Arcavacata,Italy
+100937,"Nuclear Medicine Unit, Department of Biomedical, Dental Sciences and Morphological and Functional Imaging, University of Messina",Messina,Italy
+100937,"Radiology Unit, Department of Biomedical, Dental Sciences and Morphological and Functional Imaging, University of Messina",Messina,Italy
+100937,"Section of Cytomorphology, Department of Biomedical Sciences, University of Cagliari, Cittadella Universitaria di Monserrato",Monserrato,Italy
+100937,"Department of Radiology, University of Massachusetts Chan Medical School",Worcester,United States
+100937,"Department of Biomedical Sciences, Humanitas University",Milan,Italy
+100937,IRCCS Humanitas Research Hospital,Milan,Italy
+101688,"Cognitive Neuroimaging Unit, CEA, INSERM, Université Paris-Saclay, NeuroSpin Center",Gif sur Yvette,France
+101688,"Institute of Neuroscience (NeuroPSI), Paris-Saclay University, Centre National de la Recherche Scientifique (CNRS)",Gif sur Yvette,France
+101688,"Department of Anesthesiology and Critical Care, Necker Hospital, AP-HP, Université de Paris Cité",Paris,France
+101688,"Department of Computer Science, University of Oxford",Oxford,United Kingdom
+101688,"Laboratory of Neurophysiology and Movement Biomechanics (LNMB), Université Libre de Bruxelles (ULB)",Brussels,Belgium
+101688,"Center for Philosophy of Artificial Intelligence, University of Copenhagen",Copenhagen,Denmark
+101688,"Center for Brain Circuit Therapeutics, Department of Neurology, Brigham & Women’s Hospital, Harvard Medical School",Boston,United States
+101688,Centre Inria Université Côte d’Azur,Equipe Cronos,France
+101688,"Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS",Paris,France
+101688,"Department of Neurology, Hopital Foch",Suresnes,France
+104443,"Engineering Sciences and Applied Mathematics, Northwestern University",Evanston,United States
+97274,"Science for Life Laboratory, Department of Computer Science, KTH Royal Institute of Technology",Stockholm,Sweden
+97274,"Department of Neuroscience, Karolinska Institutet",Stockholm,Sweden
+107012,"Sir Peter Mansfield Imaging Centre, School of Medicine, University of Nottingham",Nottingham,United Kingdom
+107012,"Nash Family Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai",New York,United States
+107012,"Lipschultz Center for Cognitive Neuroscience, Icahn School of Medicine at Mount Sinai",New York,United States
+107012,"Institute for Language, Cognition, and the Brain, CNRS, Université Aix-Marseille",Marseille,France
+107012,"Centre de Recherche en Psychologie et Neurosciences, UMR 7077, CNRS/Université Aix-Marseille",Marseille,France
+107012,"NIHR Nottingham Biomedical Research Centre, Queen’s Medical Centre, University of Nottingham",Nottingham,United Kingdom
+107012,"Luddy School of Informatics, Computing and Engineering, Indiana University Bloomington",Bloomington,United States
+107012,"Oxford Centre for Integrative Neuroimaging, University of Oxford",Oxford,United Kingdom
+107012,Baylor College of Medicine,Houston,United States
+107012,"Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen",Nijmegen,Netherlands
+92443,"Université Paris Cité, CNRS, Integrative Neuroscience and Cognition Center",Paris,France
+92443,"Université Paris Cité, CNRS, Saints-Pères Paris Institute of the Neurosciences",Paris,France
+92443,"Sorbonne Université, INSERM, CNRS, Neuroscience ParisSeine, Institut de Biologie Paris Seine",Paris,France
+92443,"Sorbonne Université, INSERM, CNRS, Paris Brain Institute, ICM, Pitié-Salpêtrière Hospital",Paris,France
+108225,"Montana State University, Department of Microbiology and Cell Biology",Bozeman,United States
+108225,"The University of Montana, Division of Biological Sciences",Bozeman,United States
+108438,"Flinders Health and Medical Research Institute, College of Medicine and Public Health, Flinders University",Adelaide,Australia
+108438,"Bioanalytical Mass Spectrometry Facility, Mark Wainwright Analytical Centre, University of New South Wales",Sydney,Australia
+107732,"Department of Biology, Johns Hopkins University",Baltimore,United States
+107732,"Department of Biology, Lund University",Lund,Sweden
+107732,Johns Hopkins Kavli Neuroscience Discovery Institute,Baltimore,United States
+107732,"Solomon H. Snyder Department of Neuroscience, Johns Hopkins University",Baltimore,United States
+107145,"Department of Neuroscience and Experimental Therapeutics, College of Medicine, Texas A&M University Health Science Center",Bryan,United States
+107145,"Center for Metabolic and Degenerative Disease, Institute of Molecular Medicine, University of Texas",Houston,United States
+107145,"Department of Physiology, Louisiana State University Health Sciences Center",New Orleans,United States
+107145,"Department of Neuroscience, University of Texas",Austin,United States
+104006,"Department of Translational Brain Research, Central Institute of Mental Health (ZI), University of Heidelberg/ Medical Faculty Mannheim",Mannheim,Germany
+104006,Hector Institute for Translational Brain Research (HITBR gGmbH),Mannheim,Germany
+104006,German Cancer Research Center (DKFZ),Heidelberg,Germany
+104006,"Department of Neuroanatomy, Mannheim Centre for Translational Neuroscience (MCTN), Medical Faculty Mannheim, Heidelberg University",Mannheim,Germany
+104006,"Institute for Psychopharmacology, Central Institute of Mental Health (ZI), University of Heidelberg/Medical Faculty Mannheim",Mannheim,Germany
+104006,"Molecular Neuroimaging, Central Institute of Mental Health (ZI), University of Heidelberg/ Medical Faculty Mannheim",Mannheim,Germany
+104006,"German Center for Mental Health (DZPG), partner site Mannheim-Heidelberg-Ulm",Mannheim,Germany
+104006,"Department of Neurophysiology, Mannheim Center for Translational Neuroscience (MCTN), University of Heidelberg/Medical Faculty Mannheim",Mannheim,Germany
+92882,"Mortimer B. Zuckerman Mind Brain and Behavior Institute, Columbia University",New York,United States
+92882,"Department of Neuroscience, Columbia University",New York,United States
+92882,"Howard Hughes Medical Institute, Columbia University",New York,United States
+92882,"Department of Psychology, Columbia University",New York,United States
+101859,"Department of Neuroscience, Perelman School of Medicine, University of Pennsylvania",Philadelphia,United States
+101859,"Center for Neurotrauma, Neurodegeneration, and Restoration, Corporal Michael J. Crescenz Veterans Affairs Medical Center",Philadelphia,United States
+101859,"Department of Bioengineering, University of Pennsylvania",Philadelphia,United States
+101859,"Department of Neurology, Perelman School of Medicine, University of Pennsylvania",Philadelphia,United States
+101859,"Center for Neuroengineering and Therapeutics, University of Pennsylvania",Philadelphia,United States
+101859,"Division of Neurology, Department of Pediatrics, The Children’s Hospital of Philadelphia",Philadelphia,United States
+103585,"Department of Organismic and Evolutionary Biology, Harvard University",Cambridge,United States
+103585,"Department of Psychology and Neuroscience, Colorado College",Colorado Springs,United States
+103585,Tufts University,Medford,United States
+103585,"Department of Physics, Harvard University",Cambridge,United States
+106506,"Department of Neuroscience, Graduate School of Medicine, The University of Tokyo",Tokyo,Japan
+106506,"Laboratory for Neural Computation and Adaptation, RIKEN Center for Brain Science",Saitama,Japan
+106506,"Division of Visual Information Processing, National Institute for Physiological Sciences",Okazaki,Japan
+106506,"Department of Mathematical Informatics, Graduate School of Information Science and Technology, the University of Tokyo",Tokyo,Japan
+108934,"Department of Public Health Sciences, The University of Chicago",Chicago,United States
+108934,"Department of Neurology, The University of Chicago",Chicago,United States
+108625,Tata Institute for Genetics and Society,Bangalore,India
+107589,"School of Biological Sciences, University of Bristol",Bristol,United Kingdom
+107589,"Behaviour and Speciation, Faculty of Biology, Ludwig-Maximilians-Universität München",Munich,Germany
+107589,"Department of Biology, Norwegian University of Science and Technology",Trondheim,Norway
+107589,"Institute of Biology and Environmental Sciences, Carl von Ossietzky Universität Oldenburg",Oldenburg,Germany
+100642,"Center for Brain Injury and Repair, Department of Neurosurgery, University of Pennsylvania",Philadelphia,United States
+100642,"Center for Neurotrauma, Neurodegeneration, and Restoration, Corporal Michael J. Crescenz Veterans Affairs Medical Center",Philadelphia,United States
+109717,"Laboratory of Sensory Processing, Brain Mind Institute, School of Life Sciences, Ecole Polytechnique Fédérale de Lausanne (EPFL)",Lausanne,Switzerland
+110370,"Division of Life Sciences and Medicine, University of Science and Technology of China",Hefei,China
+110370,"Hefei National Laboratory for Physical Sciences at the Microscale, Center for Integrative Imaging, University of Science and Technology of China",Hefei,China
+110370,"School of Data Science, University of Science and Technology of China",Hefei,China
+96084,"Janelia Research Campus, Howard Hughes Medical Institute",Ashburn,United States
+96084,"Zuckerman Institute, Columbia University",New York,United States
+96084,"Drosophila Connectomics Group, Department of Zoology, University of Cambridge",Cambridge,United Kingdom
+96084,"Neurobiology Division, MRC Laboratory of Molecular Biology",Cambridge,United Kingdom
+96084,"Research Center for Advanced Science and Technology, University of Tokyo",Tokyo,Japan
+110685,"Department of Neuroscience, University of Pennsylvania",Philadelphia,United States
+110685,"Computational Neuroscience Initiative, University of Pennsylvania",Philadelphia,United States
+110685,"Neuroscience Graduate Group, University of Pennsylvania",Philadelphia,United States
+109001,"Department of Neuroscience, City University of Hong Kong",Hong Kong,China
+109001,"Department of Ophthalmology, Stanford University School of Medicine",Palo Alto,United States
+103046,"Cellular Neurophysiology Laboratory, Molecular Biophysics Unit, Indian Institute of Science",Bangalore,India
+103956,"State Key Laboratory of Cognitive Neuroscience and Learning, IDG/McGovern Institute for Brain Research, Beijing Normal University",Beijing,China
+103956,Chinese Institute for Brain Research,Beijing,China
+103956,"Center for MRI Research, Academy for Advanced Interdisciplinary Studies, Peking University",Beijing,China
+103956,"Beijing City Key Lab for Medical Physics and Engineering, Institute of Heavy Ion Physics, School of Physics, Peking University",Beijing,China
+103956,"McGovern Institute for Brain Research, Peking University",Beijing,China
+104262,"Computational Systems Neuroscience, University of Cologne",Cologne,Germany
+105953,McGill University,Montréal,Canada
+105953,Mila Quebec AI Institute,Montréal,Canada
+105953,"Department of Neurosciences, Faculty of Medicine, Université de Montréal",Montréal,Canada
+105953,Centre de Recherche Azrieli du CHU Sainte-Justine,Montréal,Canada
+110252,"Center for Translational Neuromedicine, University of Copenhagen",Copenhagen,Denmark
+110252,"Department of Neuroscience, University of Copenhagen",Copenhagen,Denmark
+110252,"Department of Cognitive Sciences, University of California Irvine",Irvine,United States
+110252,"Department of Psychology, Royal Holloway, University of London",Egham,United Kingdom
+110252,"Panum NMR Core Facility, University of Copenhagen",Copenhagen,Denmark
+110252,"Center for Translational Neuromedicine, University of Rochester",Rochester,United States
+104053,"Department of Electrical Engineering and Computer Science, University of Stavanger",Stavanger,Norway
+104053,"Department of Diagnostic Imaging, Akershus University Hospital",Lørenskog,Norway
+104053,"Institute of Clinical Medicine, University of Oslo",Oslo,Norway
+104053,"Wallenberg Centre for Molecular Medicine (WCMM), Umeå University",Umeå,Sweden
+104053,"Department of Medical and Translational Biology, Umeå University",Umeå,Sweden
+104053,"Aging Research Center, Karolinska Institute and Stockholm University",Solna,Sweden
+104053,"Department of Diagnostics and Intervention, Diagnostic Radiology, Umeå University",Umeå,Sweden
+104053,"Umeå Center for Functional Brain Imaging (UFBI), Umeå University",Umeå,Sweden
+104053,"Department of Psychology, Florida State University",Tallahassee,United States
+105213,"Department of Electrical and Computer Engineering, University of California, Santa Barbara",Santa Barbara,United States
+105213,"Neuroscience Center, University of North Carolina Chapel Hill",Chapel Hill,United States
+105213,"Department of Physiology and Cell Biology, Tokyo Medical and Dental University",Tokyo,Japan
+105213,"Department of Molecular, Cellular, and Developmental Biology, Department of Psychology and Brain Sciences, University of California, Santa Barbara",Santa Barbara,United States
+106174,"School of Informatics, University of Edinburgh",Edinburgh,United Kingdom
+106174,"School of Engineering, University of Edinburgh",Edinburgh,United Kingdom
+106174,"Neural Technology Research Center, Iran University of Science and Technology",Tehran,Iran
+109159,"Department of Physiology of Cognitive Processes, Max-Planck Institute for Biological Cybernetics",Tübingen,Germany
+108241,"Faculty of Psychology, Southwest University",Chongqing,China
+108241,"Key Laboratory of Cognition and Personality, Ministry of Education",Chongqing,China
+108241,"Experimental Research Center for Medical and Psychological Sciences, School of Psychology, Third Military Medical University",Chongqing,China
+108241,The Clinical Hospital of the Chengdu Brain Science Institute,Chengdu,China
+108241,"Key Laboratory for Neuroinformation, University of Electronic Science and Technology of China",Chengdu,China
+108241,"School of Psychology, Clark University",Worcester,United States
+108241,"Institute for Psychological Research, Leiden University",Leiden,Netherlands
+108246,"Department of Biology, University of Fribourg",Fribourg,Switzerland
+108246,"Department of Biology, KU Leuven",Leuven,Belgium
+102684,"Integrative Neuroscience Program, University of Nevada Reno",Reno,United States
+102684,"Department of Biology, University of Nevada Reno",Reno,United States
+102684,"Neurobiology and Genetics, Theodor-Boveri Institute, Biocenter, University of Würzburg",Würzburg,Germany
+102684,"Department of Biology, KU Leuven",Leuven,Belgium
+102684,"Department of Biochemistry and Molecular Biology, University of Nevada Reno",Reno,United States
+102684,"Department of Mechanical Engineering, University of Nevada Reno",Reno,United States
+102684,"Department of Human Genetics, KU Leuven",Leuven,Belgium
+105829,"Graduate Program in Biomedical Engineering, Emory University and Georgia Institute of Technology",Atlanta,United States
+105829,"Department of Biology, Emory University",Atlanta,United States
+105829,"Champalimaud Neuroscience Programme, Champalimaud Centre for the Unknown",Lisbon,Portugal
+103530,"Robarts Research Institute, Western University",London,Canada
+103530,"Aix Marseille Univ, CNRS, CRMBM",Marseille,France
+103530,"APHM, Hôpital Universitaire Timone, CEMEREM",Marseille,France
+103530,"Department of Medical Biophysics, Schulich School of Medicine & Dentistry, Western University",London,Canada
+103530,"School of Biomedical Engineering, Western University",London,Canada
+103530,"Graduate Program in Neuroscience, Western University",London,Canada
+103530,"Division of Neurosurgery, Department of Clinical Neurological Sciences, Western University",London,Canada
